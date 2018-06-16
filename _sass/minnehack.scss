@@ -1,0 +1,19 @@
+$primaryColor: #fec503;
+//
+.masthead {
+    $mastheadPadding: 80px;
+    padding-top: $mastheadPadding;
+    padding-bottom: $mastheadPadding;
+    background-color: lighten($primaryColor, 30%);
+    text-align: center;
+    #title {
+        font-weight: 700;
+        font-size: 3.5em;
+        margin: 0;
+    }
+    #dates {
+        font-weight: 300;
+        font-style: italic;
+        margin: 0;
+    }
+}

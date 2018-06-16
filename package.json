@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "theme": "git://github.com/acmumn/theme"
+  }
+}
