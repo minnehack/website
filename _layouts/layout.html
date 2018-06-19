@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MinneHack 2019</title>
+
+    <link rel="stylesheet" href="css/main.css" />
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="container">
+            {% if page.navbar == "title" %}
+                <ul class="title links">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/sponsors">Sponsors</a></li>
+                    <li><a href="/schedule">Schedule</a></li>
+                </ul>
+            {% else if page.navbar == "page" %}
+                <table>
+                    <tr>
+                        <td>
+                            <h1><a href="/">MinneHack 2019</a></h1>
+                        </td>
+                        <td class="linkcell">
+                            <ul class="page links">
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/sponsors">Sponsors</a></li>
+                                <li><a href="/schedule">Schedule</a></li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            {% endif %}
+        </div>
+    </div>
+    {{ content }}
+    <footer>
+        Organized by
+        <a href="https://acm.umn.edu">ACM UMN</a>.
+    </footer>
+</body>
+
+</html>

@@ -3,13 +3,51 @@
 $primaryFont: "Open Sans";
 $primaryColor: #fec503;
 //
+.navbar {
+    a {
+        text-decoration: none;
+    }
+    ul li {
+        display: inline;
+    }
+    background-color: black;
+    ul.title.links {
+        margin: 0;
+        padding-left: 0;
+        padding-top: 40px;
+        padding-bottom: 20px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+    table {
+        width: 100%;
+        h1 a {
+            color: $primaryColor;
+        }
+        td.linkcell{
+            text-align: right;
+            ul.page.links {
+                float: right;
+                display: inline;
+                li {
+                }
+            }
+        }
+        margin-bottom: 20px;
+    }
+    ul.links a {
+        margin: 0 15px;
+        color: $primaryColor;
+    }
+}
 .masthead {
     $mastheadPadding: 80px;
     padding-top: $mastheadPadding;
     padding-bottom: $mastheadPadding;
-    background-color: lighten($primaryColor, 30%);
+    background-color: lighten(black, 5%);
     text-align: center;
     margin-bottom: $mastheadPadding * 0.5;
+    color: lighten($primaryColor, 10%);
     #title {
         font-weight: 700;
         font-size: 3.8em;
@@ -54,7 +92,6 @@ footer {
     margin-top: 40px;
     text-align: center;
     a {
-        @include colored-link(1px,
-        $textColor);
+        @include colored-link(1px, $textColor);
     }
 }
