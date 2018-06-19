@@ -15,9 +15,7 @@
         <div class="container">
             {% if page.navbar == "title" %}
                 <ul class="title links">
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/sponsors">Sponsors</a></li>
-                    <li><a href="/schedule">Schedule</a></li>
+                    {% include links.html %}
                 </ul>
             {% else if page.navbar == "page" %}
                 <table>
@@ -27,9 +25,7 @@
                         </td>
                         <td class="linkcell">
                             <ul class="page links">
-                                <li><a href="/">Home</a></li>
-                                <li><a href="/sponsors">Sponsors</a></li>
-                                <li><a href="/schedule">Schedule</a></li>
+                                {% include links.html %}
                             </ul>
                         </td>
                     </tr>
