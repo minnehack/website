@@ -1,3 +1,7 @@
-<li><a href="index">Home</a></li>
-<li><a href="sponsors">Sponsors</a></li>
-<li><a href="schedule">Schedule</a></li>
+<li><a href="/questions">FAQ</a></li>
+<li><a href="/sponsors">Sponsors</a></li>
+{% if page.navbar == "title" %}
+	<li><a href="/signup">Register!</a></li>
+{% else if page.navbar == "page" %}
+	<li><a href="/signup" class="btn">Register!</a></li>
+{% endif %}

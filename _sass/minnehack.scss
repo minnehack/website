@@ -38,8 +38,18 @@ $primaryColor: #fec503;
     ul.links a {
         margin: 0 15px;
         color: $primaryColor;
+        &.btn {
+            background-color: $primaryColor;
+            padding: 10px 18px;
+            border-radius: 6px;
+            color: black;
+            &:hover {
+                background-color: lighten($primaryColor, 10%);
+            }
+        }
     }
 }
+
 .masthead {
     $mastheadPadding: 80px;
     padding-top: $mastheadPadding;
@@ -93,5 +103,11 @@ footer {
     text-align: center;
     a {
         @include colored-link(1px, $textColor);
+    }
+}
+
+.sponsors {
+    h2 {
+        text-align: right;
     }
 }
