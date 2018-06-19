@@ -33,7 +33,7 @@ $primaryColor: #fec503;
                 }
             }
         }
-        margin-bottom: 20px;
+        margin-bottom: 40px;
     }
     ul.links a {
         margin: 0 15px;
@@ -99,7 +99,10 @@ $primaryColor: #fec503;
 }
 
 footer {
-    margin-top: 40px;
+    background-color: lighten($primaryColor, 40%);
+    padding-top: 30px;
+    padding-bottom: 80px;
+    margin-top: 60px;
     text-align: center;
     a {
         @include colored-link(1px, $textColor);
@@ -109,5 +112,8 @@ footer {
 .sponsors {
     h2 {
         text-align: right;
+    }
+    p {
+        text-align: justify;
     }
 }
