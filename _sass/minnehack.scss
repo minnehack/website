@@ -2,6 +2,13 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
 $primaryFont: "Open Sans";
 $primaryColor: #fec503;
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
 //
 .navbar {
     a {
@@ -14,7 +21,7 @@ $primaryColor: #fec503;
     ul.title.links {
         margin: 0;
         padding-left: 0;
-        padding-top: 40px;
+        padding-top: 20px;
         padding-bottom: 20px;
         box-sizing: border-box;
         text-align: center;
@@ -113,10 +120,14 @@ $primaryColor: #fec503;
     }
 }
 
+main {
+	flex-grow: 1;
+}
+
 footer {
     background-color: lighten($primaryColor, 40%);
     padding-top: 30px;
-    padding-bottom: 80px;
+    padding-bottom: 30px;
     margin-top: 60px;
     text-align: center;
     a {
