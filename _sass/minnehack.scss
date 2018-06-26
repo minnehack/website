@@ -46,6 +46,7 @@ body {
                     }
                 }
             }
+            margin-bottom: 40px;
         }
         td.linkcell{
             text-align: right;
@@ -55,7 +56,6 @@ body {
                 }
             }
         }
-        margin-bottom: 40px;
     }
     ul.links a {
         margin: 0 5px;
@@ -73,26 +73,31 @@ body {
 }
 
 .masthead {
-    $mastheadPadding: 80px;
-    padding-top: $mastheadPadding;
-    padding-bottom: $mastheadPadding;
-    background-color: lighten(black, 15%);
-    text-align: center;
-    margin-bottom: $mastheadPadding * 0.5;
-    color: lighten($primaryColor, 10%);
-    #title {
-        font-weight: 700;
-        font-size: 3.8em;
-        margin: 0;
-    }
-    #tagline {
-        font-weight: 300;
-        font-style: italic;
-        margin: 0;
-    }
-    #dates {
-        font-weight: 400;
-        margin: 0;
+    background-image: url(/images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    .overlay {
+        $mastheadPadding: 80px;
+        padding-top: $mastheadPadding;
+        padding-bottom: $mastheadPadding;
+        background-color: rgba(lighten(black, 15%), 0.85);
+        text-align: center;
+        margin-bottom: $mastheadPadding * 0.5;
+        color: lighten($primaryColor, 10%);
+        #title {
+            font-weight: 700;
+            font-size: 3.8em;
+            margin: 0;
+        }
+        #tagline {
+            font-weight: 300;
+            font-style: italic;
+            margin: 0;
+        }
+        #dates {
+            font-weight: 400;
+            margin: 0;
+        }
     }
 }
 
