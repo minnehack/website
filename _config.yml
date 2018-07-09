@@ -1,0 +1,48 @@
+url: http://minnehack.github.io
+mainpage: /index.html
+
+# Site settings
+title: MinneHack
+email: acm@cs.umn.edu
+description: >
+  ACM presents MinneHack, a 24-hour Hackathon
+  competition hosted at the University of Minnesota, Twin Cities.
+  Students from all around the Midwest design, implement, and
+  present innovative application ideas to industry judges and
+  professionals.
+
+# Color settings for the website.
+# In my opinion, this is not something that belongs in a config
+# file. Should probably be moved to a stylesheet.
+color:
+  primary: fed136
+  secondary: fec503
+  secondary-dark: 333
+
+# Social networks usernames.
+social:
+  - title: twitter
+    url: https://twitter.com/acmuofmn
+  - title: facebook
+    url: https://www.facebook.com/acmuofmn
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Association for Computing Machinery, University of Minnesota, Twin Cities
+  - line: Keller Hall
+  - line: Room 2-204
+  - line: 200 Union Street SE
+  - line: Minneapolis, MN 55455
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Stuff that shouldn't go into the published website.
+exclude:
+  - LICENSE
+  - CNAME
+  - README.md

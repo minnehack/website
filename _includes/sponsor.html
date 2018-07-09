@@ -1,0 +1,11 @@
+{% if include.sponsor.url %}
+  <a href="{{ include.sponsor.url }}"
+     title="{{ include.sponsor.description }}" target="_blank">
+{% endif %}
+  <img src="{{ include.sponsor.image | prepend: site.baseurl }}"
+       alt="{% if !include.sponsor.url %}{{ include.sponsor.description }}{% endif %}"
+       class="sponsor sponsor-{{ include.tier }}"
+       {% if include.sponsor.squarelogo %} square {% endif %}/>
+{% if include.sponsor.url %}
+  </a>
+{% endif %}

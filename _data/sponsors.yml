@@ -1,0 +1,81 @@
+pewter:
+ - description: Google
+   image: img/logos/google-logo.png
+   url: https://careers.google.com/
+
+ - description: Next Gen Summit
+   image: img/logos/next-gen-summit.png
+   url: https://www.ngsummit.com/
+   squarelogo: true
+
+ - description: TECHdotMN
+   image: img/logos/tech-dot-mn.png
+   url: https://tech.mn/
+   squarelogo: true
+bronze:
+#  - description: The Iron Yard
+#    image: img/logos/theironyard-logo.png
+#    url: https://www.theironyard.com/
+#    squarelogo: true
+
+#  - description: Underground Printing
+#    image: img/logos/undergroundprinting-logo.jpg
+#    url: https://undergroundshirts.com/
+#  - description: Target
+#    image: img/logos/target-logo.png
+#    url: https://corporate.target.com/careers
+#    squarelogo: true
+
+#  - description: IBM
+#    image: img/logos/ibm-logo.png
+#    url: http://www.ibm.com/employment
+
+  - decription: Brooksource
+    image: img/logos/brooksource-logo.jpg
+    url: https://www.brooksource.com/job-seekers
+
+  - decription: Best Buy
+    image: img/logos/best-buy.png
+    url: https://www.bestbuy-jobs.com/
+
+  - description: Cray
+    image: img/logos/cray.gif
+    url: https://www.cray.com/company/careers
+
+  - description: Pantheon Website Management
+    image: img/logos/pantheon-logo.png
+    url: https://www.pantheon.io/careers
+
+# - description: Maverick Software Consulting
+# image: img/logos/maverick-logo.png
+# url: http://www.mavericksoftware.com/Students/Careers.aspx
+
+# - description: Shavlik Technologies
+# image: img/logos/shavlik-logo.png
+# url: http://www.shavlik.com/company/careers/
+
+# - description: MorphoTrust
+# image: img/logos/morphotrust-logo.png
+# url: http://www.morphotrust.com/
+
+# - description: Concord
+# image: img/logos/svg/concord-logo.svg
+# url: http://concordusa.com/careers
+silver:
+  - description: Travelers
+    image: img/logos/travelers.png
+    url: https://careers.travelers.com/
+gold:
+  - description: SPS Commerce
+    image: img/logos/sps.png
+    url: https://www.spscommerce.com/careers/
+
+  - description: Cargill
+    image: img/logos/cargill.png
+    url: https://www.cargill.com/careers
+# Only one platinum-tier sponsor. Others are lists.
+platinum:
+  decription: Optum
+  image: img/logos/optum-logo.png
+  url: https://www.optum.com/about/careers.html
+

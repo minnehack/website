@@ -1,0 +1,43 @@
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header page-scroll">
+      <!-- This button shows up only on mobile-size screens to collapse/expand
+           the navigation dropdown. -->
+      <button type="button" class="navbar-toggle"
+              data-toggle="collapse"
+              data-target="#navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!--
+          We use an if here, because pages other
+          than index also have a #page-top.
+
+          The logo must be in a different container than the MinneHack text,
+          because we need there to be no padding around the logo.
+        -->
+      <a class="page-scroll navbar-brand minnehack-navbar-logo"
+         href="{% if page.index %}#page-top{% else %}{{ site.mainpage }}{% endif %}">
+        <img src="{{ 'img/logos/minnehack-sml-yellow.png' | prepend: site.baseurl }}"/>
+      </a>
+      <a class="navbar-brand page-scroll"
+         href="{% if page.index %}#page-top{% else %}{{ site.mainpage }}{% endif %}">
+        {{site.title}}
+      </a>
+    </div>
+    
+    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-left">
+        <li>{% include navlink.html anchor="#about" text="About" %}</li>
+        <li>{% include navlink.html anchor="#schedule" text="Schedule" %}</li>
+        <li>{% include navlink.html anchor="#faq" text="FAQ" %}</li>
+        <li>{% include navlink.html anchor="#sponsors" text="Sponsors" %}</li>
+        <li>{% include navlink.html anchor="#register" text="Signup" %}</li>
+        <li>{% include navlink.html anchor="#volunteer" text="Volunteer" %}</li>
+        <li>{% include navlink.html anchor="#contact" text="Contact Us" %}</li>
+      </ul>
+    </div>
+  </div>
+</nav>

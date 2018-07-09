@@ -1,0 +1,28 @@
+---
+layout: default
+title: T-Shirts
+---
+
+<section id="tshirtpatch">
+  <div class="container">
+    <form id="tshirtForm">
+      <div class="row">
+        <div class="col-md-6" style="float: none; margin: 0 auto;">
+          <div class="form-group">
+            <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+            <p class="help-block text-danger"></p>
+
+            <input type="text" class="form-control" placeholder="TShirt Size" required
+            data-validation-required-message="Please give your TShirt size (one of XS, S, M, L, XL, XXL)" id="tshirt">
+            <p class="help-block text-danger"></p>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <button type="submit" class="btn btn-xl">Submit</button>
+        <div id="tshirt-status"></div>
+      </div>
+    </form>
+  </div>
+</section>
+

@@ -1,0 +1,51 @@
+<section id="sponsors">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Sponsors</h2>
+        <h3>
+          <a href="/sponsorship" class="btn btn-xl">
+            Become a sponsor today
+          </a>
+        </h3>
+      </div>
+    </div>
+    <div class="row padded-row">
+      <div class="col-lg-12 text-center">
+        {% assign platinum = site.data.sponsors.platinum %}
+        {% if platinum %}
+          {% include sponsor.html sponsor=platinum tier="platinum" %}
+        {% endif %}
+      </div>
+    </div>
+    <div class="row padded-row">
+      <div class="col-lg-12 text-center">
+        {% for sponsor in site.data.sponsors.gold %}
+          {% include sponsor.html sponsor=sponsor tier="gold" %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row padded-row">
+      <div class="col-lg-12 text-center">
+        {% for sponsor in site.data.sponsors.silver %}
+          {% include sponsor.html sponsor=sponsor tier="silver" %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row padded-row">
+      <div class="col-lg-12 text-center">
+        {% for sponsor in site.data.sponsors.bronze %}
+          {% include sponsor.html sponsor=sponsor tier="bronze" %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row padded-row">
+      <div class="col-lg-12 text-center">
+        {% for sponsor in site.data.sponsors.pewter %}
+          {% include sponsor.html sponsor=sponsor tier="pewter" %}
+        {% endfor %}
+      </div>
+    </div>
+	Funded in part by SSF
+  </div>
+</section>

@@ -1,0 +1,35 @@
+#schedule-table
+  display: table
+  width: 100%
+
+.event
+  color: $primary-dark-color
+  display: table-row
+
+  .event-time, .event-name
+    padding-top: 4px
+    padding-bottom: 4px
+
+.event:nth-of-type(even)
+  color: $secondary-dark-color
+
+.event.event-important
+  font-size: 20px
+  font-weight: bold
+  color: $primary-dark-color
+
+  .event-time, .event-name
+    padding-top: 8px
+    padding-bottom: 8px
+
+.event-time
+  text-align: right
+
+  display: table-cell
+  padding-right: 15px
+  width: 40%
+
+.event-name
+  display: table-cell
+  text-align: left
+  width: 60%

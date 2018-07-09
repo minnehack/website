@@ -1,0 +1,50 @@
+year: 2018
+month: January
+startdate: 27th
+enddate: 28th
+
+hourly:
+  - event: January 27th
+    important: true
+    time:
+  - event: Doors open/Check-in Begins
+    important: true
+    time: 5:00 PM
+  - event: Keynote speech
+    time: 6:00 PM
+  - event: Hacking begins!
+    important: true
+    time: 6:45 PM
+  - event: Mentor area opens
+    time: 8:00 PM
+  - event: Dinner
+    time: 8:30 PM
+  - event: MLH Cup Stacking
+    time: 9:00 PM
+  - event: January 28th
+    important: true
+    time:
+  - event: Mentor area closes
+    time: 12:00 AM
+  - event: Sleeping area opens
+    time: 12:00 AM
+  - event: Sleeping area closes
+    time: 8:00 AM
+  - event: Breakfast
+    time: 8:00 AM
+  - event: Mentor area opens
+    time: 9:00 AM
+  - event: Lunch
+    time: 12:00 PM
+  - event: Mentor area closes
+    time: 1:00 PM
+  - event: Hands off keyboards! Judging begins
+    important: true
+    time: 2:00 PM
+  - event: Dinner
+    time: 4:30 PM
+  - event: Final judging and presentations
+    important: true
+    time: 5:00 PM
+  - event: MinneHack ends
+    time: 6:00 PM

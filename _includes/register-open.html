@@ -1,0 +1,292 @@
+<section class="container-fluid text-center" id="register">
+  <h2 class="section-heading">Hacker Registration</h2>
+  
+  <p class="notice">
+    Registration is open on a first-come, first-serve basis! If we run out of 
+    space, you will be able to apply for our waitlist.
+  
+    <!--Currently, no more guaranteed participant slots are available for
+    MinneHack 2017. If you sign up for the waitlist, we'll let you
+    know if vacancies arise. Vacancies will be distributed on a first-come,
+    first-serve basis.-->
+  </p>
+
+  <p aria-hidden="true">
+    <span class="require"></span>
+    Marked fields are required
+  </p>
+  
+  <form id="registration-form">
+    <div class="form-group control-group">
+      <span data-toggle="tooltip"
+            data-placement="right"
+            title="The first name printed on your student ID.">
+        <span class="require"></span>
+        <label for="registration-firstname">Legal first name</label>
+        <span class="fa fa-question-circle fa-lg"></span>
+      </span>
+
+      <div class="controls">
+        <input type="text"
+               id="registration-firstname"
+               class="form-control"
+               placeholder="Joseph"
+               required />
+      </div>
+    </div>
+    
+    <div class="form-group control-group">
+      <span data-toggle="tooltip"
+            data-placement="right"
+            title="The last name printed on your student ID.">
+        <span class="require"></span>
+        <label for="registration-lastname">Legal last name</label>
+        <span class="fa fa-question-circle fa-lg"></span>
+      </span>
+
+      <div class="controls">
+        <input type="text"
+               id="registration-lastname"
+               class="form-control"
+               placeholder="Smith"
+               required />
+      </div>
+    </div>
+    
+    <div class="form-group control-group">
+      <label for="registration-nickname">Nickname</label>
+
+      <div class="controls">
+        <input type="text"
+               id="registration-nickname"
+               class="form-control"
+               placeholder="Joe"/>
+      </div>
+    </div>
+    
+    <div class="form-group control-group">
+      <span class="require"></span>
+      <label for="registration-email">E-mail address</label>
+      <div class="controls">
+        <input type="email"
+               id="registration-email" 
+               class="form-control"
+               placeholder="joe.smith@email.com"
+               required />
+        <p class="help-block">
+          <!-- Gets filled with help messages from validation. -->
+        </p>
+      </div>
+    </div>
+    
+    <div class="form-group control-group">
+      <span class="require"></span>
+      <label for="registration-phone">Phone number</label>
+      
+      <div class="controls">
+        <input type="text"
+               id="registration-phone"
+               class="form-control"
+               placeholder="612-555-1234"
+               required />
+      </div>
+    </div>
+
+    <div class="form-group control-group">
+      <label for="registration-gender">Gender</label>
+
+      <div class="controls">
+        <select class="form-control" id="registration-gender">
+          <option>Male</option>
+          <option>Female</option>
+          <option>Other</option>
+        </select>
+      </div>
+    </div>
+    
+    <div class="form-group control-group">
+      <label for="registration-resume">Résumé (max size 2MB)</label>
+      <div class="controls">
+        <input type="file" id="registration-resume" name="resume"
+               data-validation-callback-callback="resumeValidation"
+               class="form-control">
+        <p class="help-block">
+          <!-- Gets filled with help messages from validation. -->
+        </p>
+      </div>
+    </div>
+    
+    <div class="form-group">
+      <label for="registration-school">School</label>
+      
+      <select class="form-control"
+              id="registration-school"
+              required>
+        <option>University of Minnesota, Twin Cities</option>
+        <option>University of Minnesota, Duluth</option>
+        <option>University of Minnesota, Morris</option>
+        <option>University of Minnesota, Rochester</option>
+        <option>University of Minnesota, Crookston</option>
+        <option>University of Wisconsin, Madison</option>
+        <option>University of Wisconsin, Eau Claire</option>
+        <option>University of Illinois, Urbana-Champaign</option>
+        <option>Other</option>
+      </select>
+    </div>
+    <div class="form-group control-group">
+      <span class="require"></span>
+      <label for="registration-school-other">School Name (Other)</label>
+      
+      <div class="controls">
+        <input type="text" id="registration-school-other" name="school-other"
+               class="form-control">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="registration-diet">Dietary restrictions</label>
+
+      <select class="form-control"
+              id="registration-diet"
+              required>
+        <option>None</option>
+        <option>Vegetarian</option>
+        <option>Vegan</option>
+        <option>No gluten</option>
+        <option>Other</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <span class="require"></span>
+      <label for="registration-diet-other">
+        Please specify your dietary restrictions
+      </label>
+      
+      <textarea id="registration-diet-other"
+                class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+      <span data-toggle="tooltip"
+            data-placement="right"
+            title="All hackers will get a free MinneHack t-shirt!">
+        <label for="registration-tshirt">T-shirt size</label>
+        <span class="fa fa-question-circle fa-lg"></span>
+      </span>
+
+      <select class="form-control"
+              id="registration-tshirt"
+              required>
+        <option>XS</option>
+        <option>S</option>
+        <option selected>M</option>
+        <option>L</option>
+        <option>XL</option>
+        <option>XXL</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="registration-special">Special needs (disabilities, ADHD, etc.)</label>
+
+      <textarea class="form-control"
+                id="registration-special"></textarea>
+    </div>
+
+    <div class="form-group">
+      <p>
+        We participate in Major League Hacking (MLH) as a MLH Member
+        Event. By registering for MinneHack, you authorize us to share
+        certain application/registration information for event
+        administration, ranking, MLH administration, pre and
+        post-event informational e-mails, and occasional messages
+        about hackathons in line with the MLH Privacy Policy. In
+        registering for MinneHack, you must agree to MLH's
+        <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">
+          Code of Conduct.
+        </a>
+      </p>
+
+      <div class="checkoff">
+        <input type="checkbox" id="registration-mlh" required/>
+        <label for="registration-mlh">
+          <span class="require"></span>
+          I agree to the MLH Code of Conduct, and authorize MinneHack to
+          share some of my information and send me e-mails.
+        </label>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <p>
+        Hackers younger than 18 must bring a signed form from their parents
+        or legal guardians giving permission to attend MinneHack.
+      </p>
+
+      <div class="checkoff">
+        <input type="checkbox" id="registration-age"/>
+        <label for="registration-age">
+          I am 18 years or older
+        </label>
+      </div>
+
+      <div class="checkoff">
+          <input type="checkbox" id="registration-mailinglist" />
+          <label for="registration-mailinglist">
+              I'd like to receive emails from MinneHack sponsors.
+          </label>
+      </div>
+      
+      <div id="registration-status">
+        <!-- Will be filled with loading spinner/status messages. -->
+      </div>
+
+      <button type="submit" class="btn btn-xl">
+        Sign me up!
+      </button>
+  </form>
+</section>
+
+<div class="modal fade"
+     id="registration-noresume"
+     tabindex="-1"
+     role="dialog"
+     aria-labelledby="registration-noresume-label"
+     aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-header">
+      <h4 class="modal-title"
+          id="registration-noresume-label">
+        Do you want to sign up without a résumé?
+      </h4>
+    </div>
+
+    <div class="modal-body">
+      <p>
+        We strongly suggest signing up with a résumé. First and foremost,
+        MinneHack is a recruiting event; submitting one will make you
+        a more attractive hire to our sponsors, mentors, and judges.
+      </p>
+
+      <p>
+        Submitting a résumé or not will have no effect on judging.
+      </p>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button"
+              class="btn btn-primary"
+              data-dismiss="modal"
+              id="registration-noresume-goback">
+        Go back
+      </button>
+      <button type="button"
+              class="btn btn-secondary"
+              data-dismiss="modal"
+              id="registration-noresume-register">
+        Sign up anyways
+      </button>
+    </div>
+  </div>
+</div>

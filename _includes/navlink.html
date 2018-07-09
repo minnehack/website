@@ -1,0 +1,16 @@
+<!--
+    Navlinks that go in the top navbar.
+    We need an if statement so that we know whether we're inside the
+    homepage or not.
+
+    The homepage requires _just_ anchor links (like #faq) so that ScrollSpy
+    works correctly.
+    See: http://v4-alpha.getbootstrap.com/components/scrollspy/
+
+    However, other pages require a direct link back to the homepage.
+  -->
+
+<a class="page-scroll"
+   href="{% if page.index %}{{ include.anchor }}{% else %}{{ include.anchor | prepend: site.mainpage }}{% endif %}">
+  {{ include.text }}
+</a>

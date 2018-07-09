@@ -1,0 +1,98 @@
+// Styling for form elements
+
+@charset "utf-8"
+
+@media not speech
+  .require::before
+    color: #ff3333
+    font-weight: bold
+    font-size: 18px
+    margin-right: 5px
+    content: "*"
+
+.checkoff
+  display: table
+  border-spacing: 10px 0px
+  margin-left: auto
+  margin-right: auto
+
+  > *
+    display: table-cell
+    vertical-align: text-bottom
+
+.form-control:focus
+  box-shadow: 0px 1px 6px #dbc59e
+
+.form-control
+  color: $secondary-dark-color
+
+input.form-control
+  height: auto
+
+input, textarea, select
+  &.form-control
+    border-width: 3px
+
+.control-group.warning
+  input, textarea, select
+    &.form-control
+      border-color: #cc3333
+      background-color: #fff0f0
+
+.help-block
+  text-align: left
+  color: #ee3333
+  font-weight: bold
+  font-size: 16px
+  
+  width: 100%
+
+  ul
+    list-style: none
+    padding-left: 10px
+
+.alert-success
+  background-color: #66cc44
+
+@keyframes spin
+  0%
+    transform: rotate(0deg)
+
+  100%
+    transform: rotate(360deg)
+
+.progress-anim
+  display: block
+  margin-left: auto
+  margin-right: auto
+
+  height: 50px
+  width: 50px
+  border-radius: 50%
+  border: 10px solid transparent
+  border-top: 10px solid $primary-color
+  border-bottom: 10px solid $primary-color
+
+  animation: spin 1s linear infinite
+
+button[type="submit"]
+  margin-top: 25px
+
+.modal
+  color: $primary-light-color
+  top: 150px
+  
+  .modal-header
+    text-align: center
+
+  .btn.btn-primary
+    color: $primary-light-color
+
+  .btn.btn-secondary
+    color: $primary-dark-color
+
+    &:hover
+      background-color: #e4e4e4
+
+.modal-backdrop.in
+  opacity: 0.8
