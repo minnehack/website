@@ -9,6 +9,28 @@ body {
 	min-height: 100vh;
 }
 
+@mixin colored-box($color) {
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* border: 1px solid darken($color, 10%); */
+    h2 {
+        margin: 0;
+        padding: 10px;
+        font-weight: 400;
+        border-top-left-radius: 10px;
+        background-color: lighten($color, 15%);
+    }
+    div {
+        margin: 0;
+        padding: 10px;
+        border-bottom-right-radius: 10px;
+        background-color: lighten($color, 30%);
+        p {
+            margin: 8px;
+        }
+    }
+}
+
 //
 .navbar {
     a {
@@ -102,27 +124,10 @@ body {
 }
 
 .row#faq, .sponsors {
-    div.box {
-        border-top-left-radius: 10px;
-        border-bottom-right-radius: 10px;
-        border: 1px solid darken($primaryColor, 10%);
-        h2 {
-            margin: 0;
-            padding: 10px;
-            font-weight: 400;
-            border-top-left-radius: 10px;
-            background-color: lighten($primaryColor, 25%);
-        }
-        div {
-            margin: 0;
-            padding: 10px;
-            border-bottom-right-radius: 10px;
-            background-color: lighten($primaryColor, 45%);
-            p {
-                margin: 8px;
-            }
-        }
-    }
+    div.box.platinum { @include colored-box($primaryColor); }
+    div.box.gold { @include colored-box(#BB9922); }
+    div.box.silver{ @include colored-box(#999999); }
+    div.box.bronze{ @include colored-box(#996633); }
 }
 
 main {
@@ -163,10 +168,10 @@ footer {
 	flex-direction: row;
 }
 
-.platinum > .sponsor-logos > img { width: 20em; }
-.gold > .sponsor-logos > img { width: 17em; }
-.silver > .sponsor-logos > img { width: 15em; }
-.bronze > .sponsor-logos > img { width: 10em; }
+.platinum .sponsor-logos > img { width: 20em; }
+.gold .sponsor-logos > img { width: 17em; }
+.silver .sponsor-logos > img { width: 15em; }
+.bronze .sponsor-logos > img { width: 10em; }
 .sponsor-perks { flex-grow: 1; }
 
 @media (max-width: 700px) {
