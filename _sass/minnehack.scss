@@ -163,8 +163,11 @@ footer {
 .sponsorship-info {
 	display: flex;
 	flex-direction: row;
-	flex-wrap: wrap;
 }
 
 .sponsor-logos > img { width: 15em; }
 .sponsor-perks { flex-grow: 1; }
+
+@media (max-width: 400px) {
+	.sponsorship-info { flex-wrap: wrap; }
+}
