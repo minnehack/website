@@ -156,19 +156,17 @@ footer {
 	flex-direction: column;
 }
 
+.sponsorship-tier-label {
+	font-weight: bold;
+}
+
 .sponsorship-info {
 	display: flex;
 	flex-direction: row;
 }
 
-.sponsorship-tier-label {
-	font-weight: bold;
-}
+.sponsorship-info > div { width: 100%; }
 
-@media (max-width: 700px) {
-	.sponsorship-info > div { width: 100%; }
-}
-
-@media (min-width: 700px) {
-	.sponsorship-info > div { flex-grow: 1; }
+@media (max-width: 400px) {
+	flex-wrap: wrap;
 }
