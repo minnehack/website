@@ -28,11 +28,3 @@ There will be a theme announced.
 > Is there a list of people who are looking for teammates, or any sort of built-in pairing mechanism?  
 
 We'll also announce a Discord at the keynote speech; there's a channel there for finding teammates.
-
-> Sorry for the barrage of questions.
-
-No problem! Actually, if you don't mind, is it okay if we add some/all of these to our FAQ for next year?
-
-> Looking forward to coming to Minnesota!
-
-Looking forward to seeing you at the event,
