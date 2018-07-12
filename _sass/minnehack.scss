@@ -163,10 +163,10 @@ footer {
 	flex-direction: row;
 }
 
-.sponsor-logos > img.platinum { width: 20em; }
-.sponsor-logos > img.gold { width: 17em; }
-.sponsor-logos > img.silver { width: 15em; }
-.sponsor-logos > img.bronze { width: 10em; }
+.platinum > .sponsor-logos > img { width: 20em; }
+.gold > .sponsor-logos > img { width: 17em; }
+.silver > .sponsor-logos > img { width: 15em; }
+.bronze > .sponsor-logos > img { width: 10em; }
 .sponsor-perks { flex-grow: 1; }
 
 @media (max-width: 700px) {
