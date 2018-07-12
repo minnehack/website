@@ -151,9 +151,14 @@ footer {
 
 .no-bullets { list-style: none; }
 
-#contact-form {
+#contact-form, .sponsorship {
 	display: flex;
 	flex-direction: column;
+}
+
+.sponsorship-info {
+	display: flex;
+	flex-direction: row;
 }
 
 .sponsorship-tier-label {
@@ -161,9 +166,9 @@ footer {
 }
 
 @media (max-width: 700px) {
-	.sponsor-logos, .sponsor-perks { width: 100%; }
+	.sponsorship-info > div { width: 100%; }
 }
 
 @media (min-width: 700px) {
-	.sponsor-logos, .sponsor-perks { width: 50%; }
+	.sponsorship-info > div { flex-grow: 1; }
 }
