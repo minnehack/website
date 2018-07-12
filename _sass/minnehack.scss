@@ -1,4 +1,5 @@
 @import "acm/src/include/mixins";
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
 $primaryFont: "Open Sans";
 $primaryColor: #fec503;
@@ -140,8 +141,18 @@ footer {
     padding-bottom: 30px;
     margin-top: 60px;
     text-align: center;
-    a {
+    :not(#footer-links) a {
         @include colored-link(1px, $textColor);
+    }
+    #footer-links {
+        margin: 0;
+        margin-bottom: 15px;
+        font-size: 1.5em;
+        a {
+            color: #000;
+            text-decoration: none;
+            margin: 0 8px;
+        }
     }
 }
 
