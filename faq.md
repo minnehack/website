@@ -1,10 +1,10 @@
-> I am wondering how topic selection and team formation works for the hackathon.
+> How will topic selection and team formation work?
 
 We'll announce a topic during the keynote speech (6PM on the 27th).
 
 Teams can be formed ahead of time or at the event; no formal ahead-of-time team registration is required.
 
-> I am also wondering what type of project deliverable is expected.  
+> What type of project deliverable is expected.  
 > Is the deliverable a presentation about what you built, or is is just the thing that you built?
 
 During primary judging (2PM-4:30PM on the 28th), the judges will walk around and score projects. The top 10 teams or individuals are then notified that they've been selected for the final judging. They produce a presentation, which is presented to the judges and all competitors.
