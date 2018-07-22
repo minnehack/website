@@ -6,5 +6,4 @@ Repository for the website.
 LICENSE
 -------
 
-plz no copy
-
+plz no copy.
