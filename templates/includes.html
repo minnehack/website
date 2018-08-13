@@ -1,0 +1,30 @@
+{% macro links() %}
+	<li><a href="/faq">FAQ</a></li>
+	<li><a href="/sponsors">Sponsors</a></li>
+	<li><a href="/signup"{% if page.extra.navbar and page.extra.navbar == "page" %} class="btn"{% endif %}>Sign Up!</a></li>
+{% endmacro %}
+
+{% macro navbar(style) %}
+    <div class="navbar">
+        <div class="container">
+            {% if style == "title" %}
+                <ul class="title links">
+                    {{ includes::links() }}
+                </ul>
+            {% elif style == "page" %}
+                <table>
+                    <tr>
+                        <td class="title">
+                            <h1><a href="/">MinneHack 2019</a></h1>
+                        </td>
+                        <td class="linkcell">
+                            <ul class="page links">
+                    			{{ includes::links() }}
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            {% endif %}
+        </div>
+    </div>
+{% endmacro %}

@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% import "includes.html" as includes %}
+
+{% block navbar %}
+	{% if section.extra.navbar %}{% set style = section.extra.navbar %}{% else %}{% set style = "page" %}{% endif %}
+	{{ includes::navbar(style=style) }}
+{% endblock %}
+
+{% block content %}
+	{{ section.content | safe }}
+{% endblock %}

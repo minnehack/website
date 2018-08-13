@@ -1,7 +1,0 @@
-# jekyll
-.jekyll-metadata
-_site
-.sass-cache
-
-# node
-node_modules

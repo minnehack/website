@@ -1,0 +1,3 @@
+base_url = "https://minnehack.io"
+compile_sass = true
+highlight_code = false

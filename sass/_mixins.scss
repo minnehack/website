@@ -1,0 +1,39 @@
+@mixin transform($arguments) {
+    -webkit-transform: $arguments;
+    -moz-transform: $arguments;
+    -ms-transform: $arguments;
+    -o-transform: $arguments;
+    transform: $arguments;
+}
+
+@mixin transition($arguments) {
+    -webkit-transition: $arguments;
+    -moz-transition: $arguments;
+    -ms-transition: $arguments;
+    -o-transition: $arguments;
+    transition: $arguments;
+}
+
+@mixin colored-link($thickness, $color) {
+    position: relative;
+    text-decoration: none;
+    color: $color;
+    &:before {
+        content: "";
+        position: absolute;
+        background-color: $color;
+        width: 100%;
+        height: $thickness;
+        bottom: 0;
+        left: 0;
+        visibility: hidden;
+        @include transform(scaleX(0));
+        @include transition(all 0.2s ease-out 0s);
+    }
+    &:hover {
+        &:before {
+            visibility: visible;
+            @include transform(scaleX(1));
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% import "includes.html" as includes %}
+
+{% block navbar %}
+	{% if page.extra.navbar %}{% set style = page.extra.navbar %}{% else %}{% set style = "page" %}{% endif %}
+	{{ includes::navbar(style=style) }}
+{% endblock %}
+
+{% block content %}
+	<div class="container">
+    	{{ page.content | safe }}
+    </div>
+{% endblock %}

@@ -1,7 +1,8 @@
----
-layout: layout
-navbar: title
----
++++
+template = "index.html"
+[extra]
+navbar = "title"
++++
 
 <div class="masthead">
     <div class="overlay">
@@ -17,6 +18,7 @@ navbar: title
         </div>
     </div>
 </div>
+
 <div class="container">
     <h1 style="text-align: center; margin-bottom: 1.5em;">24&nbsp;HOURS. GREAT&nbsp;PRIZES. TOTALLY&nbsp;FREE.</h1>
     <div class="row" id="faq">

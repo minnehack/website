@@ -7,34 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{% if page.title %}{{ page.title }} - {% endif %}MinneHack 2019</title>
 
-    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="/main.css" />
 </head>
 
 <body>
-    <div class="navbar">
-        <div class="container">
-            {% if page.navbar == "title" %}
-                <ul class="title links">
-                    {% include links.html %}
-                </ul>
-            {% else if page.navbar == "page" %}
-                <table>
-                    <tr>
-                        <td class="title">
-                            <h1><a href="/">MinneHack 2019</a></h1>
-                        </td>
-                        <td class="linkcell">
-                            <ul class="page links">
-                                {% include links.html %}
-                            </ul>
-                        </td>
-                    </tr>
-                </table>
-            {% endif %}
-        </div>
-    </div>
+    {% block navbar %}{% endblock %}
 	<main>
-    	{{ content }}
+    	{% block content %}{% endblock %}
 	</main>
     <footer>
         <p id="footer-links">
@@ -52,7 +31,7 @@
             </a>
         </p>
         <p style="margin: 0;">Organized by <a href="https://acm.umn.edu">ACM UMN</a>.</p>
-        <img src="/images/nojs.svg" alt="No javascript used in the production of this website" title="No javascript used in the production of this website" id="no-js-badge">
+        <p>No javascript was used in the production of this website.</p>
     </footer>
 </body>
 

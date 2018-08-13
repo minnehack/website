@@ -1,0 +1,20 @@
+@import "grid";
+
+// Colors
+$primaryColor: #0182ac !default;
+$textColor: #000000 !default;
+
+// Fonts
+$primaryFont: "" !default;
+$primaryFontWeight: 300 !default;
+
+// Header
+body {
+    margin: 0;
+    font-family: $primaryFont, Arial, Helvetica, sans-serif;
+    font-weight: $primaryFontWeight;
+    color: $textColor;
+    &.topline{
+    	border-top: 10px solid $primaryColor;
+    }
+}
