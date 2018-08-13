@@ -188,3 +188,21 @@ footer {
 @media (max-width: 700px) {
 	.sponsorship-info { flex-wrap: wrap; }
 }
+
+form.signupform {
+    display: block;
+    background-color: darken(white, 5%);
+    padding: 8px;
+
+    input {
+        padding: 8px;
+        font-size: 1.1em;
+        outline: none;
+        font-family: $primaryFont;
+    }
+
+    input[type=submit] {
+        background-color: lighten($primaryColor, 5%);
+        border: 1px solid darken($primaryColor, 20%);
+    }
+}
