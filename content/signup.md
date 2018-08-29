@@ -3,17 +3,45 @@ template = "page.html"
 title = "Sign Up"
 +++
 
-# Want to get involved?
+# Hacker Registration
 
-Unfortunately, hacker registration for MinneHack 2019 hasn't yet begun. If you'd like to receive updates, email [acm@umn.edu](mailto:acm@umn.edu), and we'll let you know when registration is open.
+Complete the below form to register for the hackathon. Red indicates an incomplete field.
 
-### Pre-registration
-
-Leave your email below in order to receive an email notification when registration is open!
-
-<form action="/api/regnotif/signup" method="POST" class="signupform">
-	<input type="text" name="name" placeholder="Name" autofocus />
-	<input type="email" name="addr" placeholder="Email address" />
-	<input type="submit" />
+<form action="/api/registration/register" method="POST" class="signupform2">
+	<div class="row">
+		<div class="col-12"><input type="email" name="email" placeholder="Email address (you@example.com)*" autofocus required /></div>
+	</div>
+	<div class="row">
+		<div class="col-6"><input type="text" name="firstName" placeholder="First Name*" required /></div>
+		<div class="col-6"><input type="text" name="lastName" placeholder="Last Name*" required /></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="text" name="prefName" placeholder="Preferred Name" /></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="text" name="phone" placeholder="Phone Number (digits only)*" required pattern="\d{10,}" /></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="text" name="school" placeholder="School*" required /></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="text" name="sleepingArea" placeholder="Sleeping Area (He/She/They)*" required list="sleepingArea" pattern="[Ss]?[Hh][Ee]|[Tt][Hh][Ee][Yy]" /></div>
+		<datalist id="sleepingArea">
+			<option>He</option>
+			<option>She</option>
+			<option>They</option>
+		</datalist>
+	</div>
+	<div class="row">
+		<div class="col-12"><label class="container"><input type="checkbox" name="minor" /><span class="checkmark"></span> I'm a minor (under 18)</label></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="text" name="discord" placeholder="Discord ID (michael#8440)" /></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><textarea name="accommodations" placeholder="Other Accommodations"></textarea></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="submit" /></div>
+	</div>
 </form>
-<small>Your email is safe with us. We'll only use it to send you a notification when the time comes.</small>
