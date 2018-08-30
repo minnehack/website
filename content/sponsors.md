@@ -23,20 +23,10 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Platinum</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/cargill.svg"></img>
 			</div>
 			<div class="sponsor-perks">
-				<ul>
-					<li>All gold level benefits </li>
-					<li>You choose the competition prompt!</li>
-					<li>Most prominent logo featured on MinneHack digital and print materials </li>
-					<li>Double-size booth at a prime location</li>
-					<li>Keynote speech</li>
-					<li>Banners in the competition space</li>
-					<li>Projected media (inquire for details)</li>
-					<li>4 Judge positions total</li>
-					<li>8 Mentor positions total</li>
-				</ul>
+				Technology is key to Cargill achieving its purpose to nourish the world in a safe, responsible and sustainable way. Every day, we connect farmers with markets, customers with ingredients, and people and animals with the food they need to thrive. We combine our experience with new technologies and insights to serve as a trusted partner for food, agriculture, financial and industrial customers in more than 125 countries. <br/> <br/> <a href="https://www.cargill.com/careers/browse-jobs">Browse Jobs at Cargill</a>.
 			</div>
 		</div>
 	</div>
