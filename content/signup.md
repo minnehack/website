@@ -26,12 +26,10 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 	<div class="row">
 		<div class="col-12"><input type="text" class="typeahead" name="school" placeholder="School*" required pattern=".*[^\s].*" /></div>
 	</div>
-	<div class="row">
-		<div class="col-12"><input type="text" name="sleepingArea" placeholder="Sleeping Area (He/She/They)*" required list="sleepingArea" pattern="[Ss]?[Hh][Ee]|[Tt][Hh][Ee][Yy]" /></div>
-		<datalist id="sleepingArea">
-			<option>He</option>
-			<option>She</option>
-			<option>They</option>
+	<div class="row" id="umtc-questions" style="display:none;">
+		<div class="col-6"><input type="text" name="umtc_x500" placeholder="x500 (todd999)" /></div>
+		<div class="col-6"><input type="text" name="umtc_college" placeholder="College at the U" required list="umtc_college" /></div>
+		<datalist id="umtc_college">
 		</datalist>
 	</div>
 	<div class="row">
@@ -39,6 +37,9 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 	</div>
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="minor" /><span class="checkmark"></span> I'm a minor (under 18)</label></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="text" name="discord" placeholder="Discord ID (michael#8440)" pattern=".*#[0-9]{4}"/></div>
 	</div>
 	<div class="row">
 		<div class="col-12"><textarea name="accommodations" placeholder="Other Accommodations"></textarea></div>
@@ -53,3 +54,5 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 <script type="text/javascript" src="/tagsinput.js"></script>
 <script type="text/javascript" src="/typeahead.js"></script>
 <script type="text/javascript" src="/signup.js"></script>
+<script type="text/javascript">
+</script>
