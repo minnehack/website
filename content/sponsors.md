@@ -1,6 +1,8 @@
 +++
 template = "page.html"
 title = "Sponsors"
+[extra]
+navbar = "page"
 +++
 
 # Sponsorship

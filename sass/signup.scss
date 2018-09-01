@@ -1,0 +1,57 @@
+@import "variables";
+
+.bootstrap-tagsinput {
+    background-color: white;
+    cursor: text;
+    border: 1px solid #999;
+    padding: 8px;
+    margin-bottom: 0 !important;
+    .tag {
+        margin-right: 2px;
+        color: white;
+        &.label {
+            display: inline;
+            padding: .2em .6em .3em;
+            font-weight: 400;
+        }
+        &.label-info {
+            background-color: darken($primaryColor, 10%);
+        }
+    }
+    input {
+        border: none !important;
+        box-shadow: none;
+        outline: none;
+        background-color: transparent;
+        padding: 0 6px !important;
+        margin: 0 !important;
+        width: auto !important;
+        max-width: inherit;
+    }
+}
+
+.twitter-typeahead {
+    width: 100%;
+    .tt-hint {
+        color: #999;
+        position: absolute !important;
+        top: -1px !important;
+        left: -1px !important;
+    }
+    .tt-menu {
+        &.tt-open {
+            width: 100%;
+            border: 1px solid #999;
+            box-shadow: 0px 10px 10px darken(white, 5%);
+        }
+        .tt-dataset {
+            background-color: white;
+            .tt-suggestion {
+                padding: 8px;
+                &.tt-selectable:hover, &.tt-cursor {
+                    background-color: darken(white, 5%);
+                }
+            }
+        }
+    }
+}

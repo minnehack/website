@@ -10,6 +10,10 @@ body {
 	min-height: 100vh;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 @mixin colored-box($color, $lighten) {
     border-top-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -83,6 +87,7 @@ body {
     ul.links a {
         margin: 0 5px;
         color: $primaryColor;
+        font-weight: 400;
         padding: 10px 18px;
         &.btn {
             background-color: $primaryColor;
@@ -120,6 +125,19 @@ body {
         #dates {
             font-weight: 400;
             margin: 0;
+        }
+    }
+    .btn {
+        margin: 10px 5px;
+        color: $primaryColor;
+        font-weight: 400;
+        padding: 10px 18px;
+        background-color: $primaryColor;
+        border-radius: 6px;
+        text-decoration: none;
+        color: black;
+        &:hover {
+            background-color: lighten($primaryColor, 10%);
         }
     }
 }
@@ -199,6 +217,86 @@ form.signupform {
         font-size: 1.1em;
         outline: none;
         font-family: $primaryFont;
+    }
+
+    input[type=submit] {
+        background-color: lighten($primaryColor, 5%);
+        border: 1px solid darken($primaryColor, 20%);
+    }
+}
+
+form.signupform2 {
+    max-width: 540px;
+    display: block;
+    background-color: darken(white, 5%);
+    padding: 8px;
+
+    div:not(:last-child) {
+        margin-bottom: 8px;
+    }
+
+    input:not([type=checkbox]), textarea {
+        padding: 8px;
+        font-size: 1.1em;
+        outline: none;
+        font-family: $primaryFont;
+        &:valid {
+            border: 1px solid #999;
+        }
+        &:invalid {
+            border: 1px solid #f63;
+            border-left: 4px solid #f63;
+        }
+    }
+
+    label.container {
+        cursor: pointer;
+        user-select: none;
+        position: relative;
+        vertical-align: middle;
+
+        input[type=checkbox] {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+
+            &:checked ~ .checkmark {
+                background-color: $primaryColor;
+                border: 1px solid darken($primaryColor, 20%);
+            }
+            &:checked ~ .checkmark:after {
+                display: block;
+            }
+        }
+        span.checkmark {
+            border: 1px solid #999;
+            background-color: white;
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            margin-right: 8px;
+            vertical-align: middle;
+
+            &:after {
+                content: '';
+                display: none;
+                position: absolute;
+
+                left: 5px;
+                top: 5px;
+                width: 5px;
+                height: 10px;
+                border: solid white;
+                border-width: 0 3px 3px 0;
+                -webkit-transform: rotate(45deg);
+                -ms-transform: rotate(45deg);
+                transform: rotate(45deg);
+            }
+        }
+    }
+
+    input:not([type=submit]):not([type=checkbox]), textarea {
+        width: 100%;
     }
 
     input[type=submit] {

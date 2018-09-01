@@ -15,12 +15,13 @@ navbar = "title"
                 <small>6pm&nbsp;-&nbsp;6pm</small>
                 <p>Coffman Memorial Union Great Hall</p>
             </h3>
+            <a href="/signup" class="btn">Sign Up Now &raquo;</a>
         </div>
     </div>
 </div>
 
 <div class="container">
-    <h1 style="text-align: center; margin-bottom: 1.5em;">24&nbsp;HOURS. GREAT&nbsp;PRIZES. TOTALLY&nbsp;FREE.</h1>
+    <h1 style="text-align: center; margin-bottom: 1.5em;">24&nbsp;HOURS. GREAT&nbsp;PRIZES. TOTALLY&nbsp;<span title="minus travel lol">FREE</span>.</h1>
     <div class="row" id="faq">
         <div class="col-6">
             <div class="box">
