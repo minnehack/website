@@ -30,7 +30,7 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 	</div>
 	<div class="row">
 		<div class="col-12">
-			<select multiple name="dietaryRestrictions[]" data-role="tagsinput"></select>
+			<select multiple name="dietaryRestrictions" data-role="tagsinput"></select>
 		</div>
 			<!-- <input type="text" name="dietaryRestrictions[]" placeholder="Dietary Restrictions" class="typeahead" data-role="tagsinput" /></div> -->
 	</div>

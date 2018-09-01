@@ -12,7 +12,7 @@ Unfortunately, hacker registration for MinneHack 2019 hasn't yet begun. If you'd
 
 Leave your email below in order to receive an email notification when registration is open!
 
-<form action="/api/regnotif/signup" method="POST" class="signupform">
+<form action="/preregapi/regnotif/signup" method="POST" class="signupform">
 	<input type="text" name="name" placeholder="Name" autofocus />
 	<input type="email" name="addr" placeholder="Email address" />
 	<input type="submit" />

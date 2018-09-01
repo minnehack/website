@@ -1,4 +1,4 @@
-let apiBase = "http://localhost:8080";
+let apiBase = "/api/";
 
 $(document).ready(function() {
 	let schools = new Bloodhound({
@@ -19,12 +19,19 @@ $(document).ready(function() {
 	});
 	dietaryRestrictions.initialize();
 
-	let diet = $("input[name=dietaryRestrictions]");
+	let diet = $("select[name=dietaryRestrictions]");
+	console.log(diet.get());
 	diet.tagsinput({
-		typeahead: {
-			name: 'dietaryRestrictions',
-			source: dietaryRestrictions,
-		}
+		typeaheadjs: [
+			null,
+			{
+				name: 'dietaryRestrictions',
+				displayKey: 'name',
+	   			valueKey: 'name',
+				source: dietaryRestrictions.ttAdapter()
+			}
+		],
+		freeInput: true
 	});
 
 	function addEvent(el, type, handler) {
