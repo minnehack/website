@@ -127,6 +127,19 @@ body {
             margin: 0;
         }
     }
+    .btn {
+        margin: 10px 5px;
+        color: $primaryColor;
+        font-weight: 400;
+        padding: 10px 18px;
+        background-color: $primaryColor;
+        border-radius: 6px;
+        text-decoration: none;
+        color: black;
+        &:hover {
+            background-color: lighten($primaryColor, 10%);
+        }
+    }
 }
 
 .row#faq, .sponsors {

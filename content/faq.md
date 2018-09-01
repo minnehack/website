@@ -1,6 +1,8 @@
 +++
 template = "page.html"
 title = "Frequently Asked Questions"
+[extra]
+navbar = "page"
 +++
 
 # Frequently Asked Questions
