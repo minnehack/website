@@ -1,4 +1,4 @@
-let apiBase = "/api";
+let apiBase = "http://localhost:8080";
 
 $(document).ready(function() {
 	let schools = new Bloodhound({
@@ -17,6 +17,7 @@ $(document).ready(function() {
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
 		prefetch: { url: apiBase + "/registration/autocomplete/dietaryrestrictions", cache: false, },
 	});
+	dietaryRestrictions.initialize();
 
 	let diet = $("input[name=dietaryRestrictions]");
 	diet.tagsinput({

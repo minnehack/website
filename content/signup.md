@@ -9,6 +9,8 @@ navbar = "page"
 
 Complete the below form to register for the hackathon. Red indicates an incomplete field.
 
+<p style="color: orange; font-weight: bold;">Please use your school email.</p>
+
 <form action="/api/registration/register" method="POST" class="signupform2">
 	<div class="row">
 		<div class="col-12"><input type="email" name="email" placeholder="Email address (you@example.com)*" autocomplete="email" autofocus required /></div>
@@ -26,14 +28,11 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 	<div class="row">
 		<div class="col-12"><input type="text" class="typeahead" name="school" placeholder="School*" required pattern=".*[^\s].*" /></div>
 	</div>
-	<div class="row" id="umtc-questions" style="display:none;">
-		<div class="col-6"><input type="text" name="umtc_x500" placeholder="x500 (todd999)" /></div>
-		<div class="col-6"><input type="text" name="umtc_college" placeholder="College at the U" required list="umtc_college" /></div>
-		<datalist id="umtc_college">
-		</datalist>
-	</div>
 	<div class="row">
-		<div class="col-12"><input type="text" name="dietaryRestrictions" placeholder="Dietary Restrictions" class="typeahead" data-role="tagsinput" /></div>
+		<div class="col-12">
+			<select multiple name="dietaryRestrictions[]" data-role="tagsinput"></select>
+		</div>
+			<!-- <input type="text" name="dietaryRestrictions[]" placeholder="Dietary Restrictions" class="typeahead" data-role="tagsinput" /></div> -->
 	</div>
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="minor" /><span class="checkmark"></span> I'm a minor (under 18)</label></div>
