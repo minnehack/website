@@ -1,4 +1,4 @@
-let apiBase = "http://localhost:8080";
+let apiBase = "/api";
 
 $(document).ready(function() {
 	let schools = new Bloodhound({
