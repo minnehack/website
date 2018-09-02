@@ -7,4 +7,4 @@ navbar = "page"
 
 # Success
 
-You're registered for MinneHack! We'll send our rejection letters in November, so watch out for those ;)
+You're registered for MinneHack! We'll send our RSVP emails in November, so watch out for those ;)
