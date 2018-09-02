@@ -28,6 +28,13 @@
         width: auto !important;
         max-width: inherit;
     }
+    .twitter-typeahead {
+        width: auto !important;
+        .tt-hint {
+            top: 0px !important;
+            left: 0px !important;
+        }
+    }
 }
 
 .twitter-typeahead {

@@ -1,6 +1,6 @@
 +++
 template = "page.html"
-title = "Sign Up"
+title = "Register"
 [extra]
 navbar = "page"
 +++
@@ -30,9 +30,8 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 	</div>
 	<div class="row">
 		<div class="col-12">
-			<select multiple name="dietaryRestrictions[]" data-role="tagsinput"></select>
+			<select multiple name="dietaryRestrictions[]" data-role="tagsinput" placeholder="Dietary Restrictions"></select>
 		</div>
-			<!-- <input type="text" name="dietaryRestrictions[]" placeholder="Dietary Restrictions" class="typeahead" data-role="tagsinput" /></div> -->
 	</div>
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="minor" /><span class="checkmark"></span> I'm a minor (under 18)</label></div>

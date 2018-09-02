@@ -15,7 +15,7 @@ navbar = "title"
                 <small>6pm&nbsp;-&nbsp;6pm</small>
                 <p>Coffman Memorial Union Great Hall</p>
             </h3>
-            <a href="/signup" class="btn">Sign Up Now &raquo;</a>
+            <a href="/register" class="btn">Sign Up Now &raquo;</a>
         </div>
     </div>
 </div>
