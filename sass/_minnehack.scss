@@ -198,9 +198,13 @@ footer {
 }
 
 .platinum .sponsor-logos > img { width: 20em; }
+.platinum .sponsor-logos > a > img { width: 20em; }
 .gold .sponsor-logos > img { width: 17em; }
+.gold .sponsor-logos > a > img { width: 17em; }
 .silver .sponsor-logos > img { width: 15em; }
+.silver .sponsor-logos > a > img { width: 15em; }
 .bronze .sponsor-logos > img { width: 10em; }
+.bronze .sponsor-logos > a > img { width: 10em; }
 .sponsor-perks { flex-grow: 1; }
 
 @media (max-width: 700px) {

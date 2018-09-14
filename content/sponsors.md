@@ -25,7 +25,9 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Platinum</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/cargill.svg"></img>
+				<a href="https://www.cargill.com/">
+					<img src="/images/cargill.svg"></img>
+				</a>
 			</div>
 			<div class="sponsor-perks">
 				Technology is key to Cargill achieving its purpose to nourish the world in a safe, responsible and sustainable way. Every day, we connect farmers with markets, customers with ingredients, and people and animals with the food they need to thrive. We combine our experience with new technologies and insights to serve as a trusted partner for food, agriculture, financial and industrial customers in more than 125 countries. <br/> <br/> <a href="https://www.cargill.com/careers/browse-jobs">Browse Jobs at Cargill</a>.
@@ -36,7 +38,9 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/sps.svg"></img>
+				<a href="https://www.spscommerce.com/">
+					<img src="/images/sps.svg"></img>
+				</a>
 			</div>
 			<div class="sponsor-perks">
 				<ul>
