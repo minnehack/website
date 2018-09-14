@@ -36,9 +36,7 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<a href="https://www.spscommerce.com/">
-					<img src="/images/sps.svg"></img>
-				</a>
+				<img src="/images/sps.svg"></img>
 			</div>
 			<div class="sponsor-perks">
 				<ul>
