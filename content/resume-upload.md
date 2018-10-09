@@ -16,5 +16,5 @@ Complete the below form to upload your resume for our sponsors!
 
 <script type="text/javascript">
 	var token = window.location.href.split("?")[1];
-	document.querySelector("#resume-form").action="/api/resumeupload/"+token;
+	document.querySelector("#resume-form").action="/api2/resumeupload/"+token;
 </script>
