@@ -47,6 +47,8 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 	</div>
 </form>
 
+<i>By submitting this form you agree to the <a href="/privacypolicy">MinnheHack 2019 Privacy Policy.</a></i>
+
 <link rel="stylesheet" href="/signup.css" />
 <script type="text/javascript" src="/jquery.js"></script>
 <script type="text/javascript" src="/tagsinput.js"></script>
