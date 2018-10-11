@@ -41,7 +41,6 @@ We also offer additional benefits based on sponsorship commitment.
 				<a href="https://www.spscommerce.com/">
 					<img src="/images/sps.svg"></img>
 				</a><br/>
-				<img src="/images/YourLogoHere.png"></img>
 			</div>
 			<div class="sponsor-perks">
 				<ul>
@@ -61,7 +60,7 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Silver</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/YourLogoHere.png"></img>
+				<!-- <img src="/images/YourLogoHere.png"></img> -->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 			</div>
@@ -81,10 +80,10 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Bronze</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
+				<br/>
 				<a href="https://tech.mn/">
 					<img src="/images/techdotmn.png"></img>
-				</a><br/><br/>
-				<img src="/images/YourLogoHere.png"></img>
+				</a><br/>
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
