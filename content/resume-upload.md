@@ -8,6 +8,7 @@ navbar = "page"
 # Resume Upload
 
 Complete the below form to upload your resume for our sponsors!
+If you have already uploaded one, you are welcome to update it.
 
 <form method="POST" action="FILLMEIN" enctype="multipart/form-data" id="resume-form">
   <input type=file name=file>
