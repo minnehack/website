@@ -11,6 +11,8 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 
 <p style="color: orange; font-weight: bold;">Please use your school email.</p>
 
+<b>By submitting this form you agree to the <a href="/privacypolicy">MinnheHack 2019 Privacy Policy.</a></b>
+
 <form action="/api/registration/register" method="POST" class="signupform2">
 	<div class="row">
 		<div class="col-12"><input type="email" name="email" placeholder="Email address (you@example.com)*" autocomplete="email" autofocus required /></div>
@@ -46,8 +48,6 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 		<div class="col-12"><input type="submit" /></div>
 	</div>
 </form>
-
-<i>By submitting this form you agree to the <a href="/privacypolicy">MinnheHack 2019 Privacy Policy.</a></i>
 
 <link rel="stylesheet" href="/signup.css" />
 <script type="text/javascript" src="/jquery.js"></script>
