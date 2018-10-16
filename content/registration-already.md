@@ -3,6 +3,7 @@ template = "page.html"
 title = "Duplicate Registration"
 [extra]
 navbar = "page"
+
 +++
 
 # Duplicate Registration
