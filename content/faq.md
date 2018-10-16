@@ -27,7 +27,7 @@ Both primary and final judging are both fairly interactive; primary more so due 
 	
 Yes, although I can't speak to what they are. Last year, I know they included a bunch of AWS credit for the best AWS-using project. In general, I'd highly recommend seeing what categories your project could fit into a couple hours before submitting it -- I'm still kicking myself over not applying for the AWS category when I competed last year.
 
-### Will the size of the the team be considered (higher expectations for bigger teams)?
+### Will the size of the team be considered (higher expectations for bigger teams)?
 	
 No. Furthermore, each team member receives the same prize an individual would if the team wins. Last year, the first, second, and third place competitors were all teams, so I'd advise teaming up!
 
@@ -38,6 +38,10 @@ There will be a theme announced.
 ### Is there a list of people who are looking for teammates, or any sort of built-in pairing mechanism?
 	
 We'll also announce a Discord at the keynote speech; there's a channel there for finding teammates.
+
+### Will you be providing travel reimbursements this year?
+
+We'd like to, but it isn't currently in our budget. We will have a solid confirmation by the end of the calendar year and will still be providing buses to Madison, Urbana Champaign, and Purdue. If you're interested in being one of the bus captains this year, please contact us at [acm@umn.edu](mailto:acm@umn.edu).
 
 # Have more questions?
 
