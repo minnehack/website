@@ -11,7 +11,7 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 
 <p style="color: orange; font-weight: bold;">Please use your school email.</p>
 
-<i>By submitting this form you agree to the <a href="/privacypolicy">MinnheHack 2019 Privacy Policy.</a></i>
+<i>By submitting this form you agree to the <a href="/privacypolicy">MinneHack 2019 Privacy Policy.</a></i>
 
 <form action="/api/registration/register" method="POST" class="signupform2">
 	<div class="row">
