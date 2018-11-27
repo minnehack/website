@@ -13,7 +13,7 @@ navbar = "title"
             <h3 id="dates">
                 February&nbsp;2&nbsp;-&nbsp;3,&nbsp;2019<br />
                 <small>6pm&nbsp;-&nbsp;6pm</small>
-                <p>Coffman Memorial Union Great Hall</p>
+                <a href="https://goo.gl/maps/vC4Xz4CvBzr">Memorial Union Great Hall</a>
             </h3>
             <a href="/register" class="btn">Sign Up Now &raquo;</a>
         </div>
