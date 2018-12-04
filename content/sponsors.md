@@ -40,22 +40,10 @@ We also offer additional benefits based on sponsorship commitment.
 			<div class="sponsor-logos">
 				<a href="https://www.spscommerce.com/">
 					<img src="/images/sps.svg"></img>
-				</a><br/>
+				</a>
 				<a href="https://www.optum.com/">
 					<img src="/images/optum.png"></img>
-				</a><br/>
-			</div>
-			<div class="sponsor-perks">
-				<ul>
-					<li>All silver level benefits</li>
-					<li>Large size logo on MinneHack digital and print materials </li>
-					<li>Dedicated page in MinneHack attendee lanyard pamphlet </li>
-					<li>Exclusive product giveaway and announcement</li>
-					<li>ThinkTalk opportunity</li>
-					<li>3 Judge positions total</li>
-					<li>4 Mentor positions total</li>
-					<li>Official meal sponsor (limited to first 3 gold level sponsors)</li>
-				</ul>
+				</a>
 			</div>
 		</div>
 	</div>
@@ -66,9 +54,6 @@ We also offer additional benefits based on sponsorship commitment.
 				<a href="https://www.brooksource.com/">
 					<img src="/images/brooksource.png"></img>
 				</a>
-				<!-- <img src="/images/YourLogoHere.png"></img> -->
-				<!--<img src="/images/YourLogoHere.png"></img>-->
-				<!--<img src="/images/YourLogoHere.png"></img>-->
 			</div>
 		</div>
 	</div>
@@ -76,7 +61,6 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Bronze</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				
 				<a href="https://tech.mn/">
 					<img src="/images/techdotmn.png"></img>
 				</a>
@@ -89,9 +73,6 @@ We also offer additional benefits based on sponsorship commitment.
 				<a href="https://www.cray.com/">
 					<img src="/images/cray.svg"></img>
 				</a>
-				<!--<img src="/images/YourLogoHere.png"></img>-->
-				<!--<img src="/images/YourLogoHere.png"></img>-->
-				<!--<img src="/images/YourLogoHere.png"></img>-->
 			</div>
 		</div>
 	</div>
