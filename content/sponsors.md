@@ -64,7 +64,7 @@ We also offer additional benefits based on sponsorship commitment.
 				<a href="https://tech.mn/">
 					<img src="/images/techdotmn.png"></img>
 				</a>
-				<a href="https://www.trimble.com/">
+				<a href="https://mobility.trimble.com/">
 					<img src="/images/trimble.svg"></img>
 				</a>
 				<a href="https://www.concordusa.com/">
