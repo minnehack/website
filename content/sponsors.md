@@ -63,6 +63,9 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Silver</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
+				<a href="https://www.brooksource.com/">
+					<img src="/images/brooksource.png"></img>
+				</a><br/>
 				<!-- <img src="/images/YourLogoHere.png"></img> -->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
@@ -86,9 +89,15 @@ We also offer additional benefits based on sponsorship commitment.
 				<br/>
 				<a href="https://tech.mn/">
 					<img src="/images/techdotmn.png"></img>
-				</a><br/>
+				</a><br/><br/>
 				<a href="https://www.trimble.com/">
 					<img src="/images/trimble.svg"></img>
+				</a><br/><br/>
+				<a href="https://www.concordusa.com/">
+					<img src="/images/concord.svg"></img>
+				</a><br/><br/>
+				<a href="https://www.cray.com/">
+					<img src="/images/cray.svg"></img>
 				</a><br/>
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
