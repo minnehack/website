@@ -192,9 +192,16 @@ footer {
 
 .sponsorship > .box { margin-top: 2em; }
 
-.sponsorship-info {
-	display: flex;
-	flex-direction: row;
+.sponsor-logos {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sponsor-logos > a {
+    margin: 1em;
+    display: inline-block;
 }
 
 .platinum .sponsor-logos > img { width: 20em; }
@@ -205,6 +212,10 @@ footer {
 .silver .sponsor-logos > a > img { width: 15em; }
 .bronze .sponsor-logos > img { width: 10em; }
 .bronze .sponsor-logos > a > img { width: 10em; }
+
+
+
+
 .sponsor-perks { flex-grow: 1; }
 
 @media (max-width: 700px) {
