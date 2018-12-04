@@ -84,6 +84,9 @@ We also offer additional benefits based on sponsorship commitment.
 				<a href="https://tech.mn/">
 					<img src="/images/techdotmn.png"></img>
 				</a><br/>
+				<a href="https://www.trimble.com/">
+					<img src="/images/trimble.svg"></img>
+				</a><br/>
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
