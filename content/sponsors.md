@@ -65,20 +65,10 @@ We also offer additional benefits based on sponsorship commitment.
 			<div class="sponsor-logos">
 				<a href="https://www.brooksource.com/">
 					<img src="/images/brooksource.png"></img>
-				</a><br/>
+				</a>
 				<!-- <img src="/images/YourLogoHere.png"></img> -->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
-			</div>
-			<div class="sponsor-perks">
-				<ul>
-					<li>All bronze level benefits </li>
-					<li>Option to feature your API or product </li>
-					<li>2 Judge positions</li>
-					<li>3 Mentor positions total</li>
-					<li>Option to book a booth</li>
-					<li>Official snack sponsor (limited to first 5 silver level sponsors)</li>
-				</ul>
 			</div>
 		</div>
 	</div>
@@ -86,31 +76,22 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Bronze</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<br/>
+				
 				<a href="https://tech.mn/">
 					<img src="/images/techdotmn.png"></img>
-				</a><br/><br/>
+				</a>
 				<a href="https://www.trimble.com/">
 					<img src="/images/trimble.svg"></img>
-				</a><br/><br/>
+				</a>
 				<a href="https://www.concordusa.com/">
 					<img src="/images/concord.svg"></img>
-				</a><br/><br/>
+				</a>
 				<a href="https://www.cray.com/">
 					<img src="/images/cray.svg"></img>
-				</a><br/>
+				</a>
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
 				<!--<img src="/images/YourLogoHere.png"></img>-->
-			</div>
-			<div class="sponsor-perks">
-				<ul>
-					<li>Small logo featured on all MinneHack digital and print materials</li>
-					<li>Organization blurb featured in MinneHack attendee lanyard pamphlet </li>
-					<li>2 Mentor positions</li>
-					<li>Branded goodies for 'swag bag'</li>
-					<li>Attendee resumes</li>
-				</ul>
 			</div>
 		</div>
 	</div>
