@@ -41,6 +41,9 @@ We also offer additional benefits based on sponsorship commitment.
 				<a href="https://www.spscommerce.com/">
 					<img src="/images/sps.svg"></img>
 				</a><br/>
+				<a href="https://www.optum.com/">
+					<img src="/images/optum.png"></img>
+				</a><br/>
 			</div>
 			<div class="sponsor-perks">
 				<ul>
