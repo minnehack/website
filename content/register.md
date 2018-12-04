@@ -45,6 +45,12 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 		<div class="col-12"><textarea name="accommodations" placeholder="Other Accommodations"></textarea></div>
 	</div>
 	<div class="row">
+		<div class="col-12"><label class="container"><input type="checkbox" name="coc" required /><span class="checkmark"></span> I have read and agree to the <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH Code of Conduct</a>.</label></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><label class="container"><input type="checkbox" name="mlhpriv" required /><span class="checkmark"></span>I authorize you to share certain application/registration information for event administration, ranking, MLH administration, pre and post-event informational e-mails, and occasional messages about hackathons in-line with the <a href="https://mlh.io/privacy">MLH Privacy Policy</a>. I further I agree to the terms of both the <a href="https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/contest-terms.md">MLH Contest Terms and Conditions</a> and the <a href="https://mlh.io/privacy">MLH Privacy Policy.</a></label></div>
+	</div>
+	<div class="row">
 		<div class="col-12"><input type="submit" /></div>
 	</div>
 </form>
