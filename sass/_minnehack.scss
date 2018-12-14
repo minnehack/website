@@ -214,12 +214,8 @@ footer {
 .bronze .sponsor-logos > a > img { width: 10em; }
 
 
-
-
-.sponsor-perks { flex-grow: 1; }
-
 @media (max-width: 700px) {
-	.sponsorship-info { flex-wrap: wrap; }
+	.sponsor-logos { flex-wrap: wrap; }
 }
 
 form.signupform {

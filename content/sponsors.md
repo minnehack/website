@@ -70,8 +70,19 @@ We also offer additional benefits based on sponsorship commitment.
 				<a href="https://www.concordusa.com/">
 					<img src="/images/concord.svg"></img>
 				</a>
+			</div>
+			<div class="sponsor-logos">
 				<a href="https://www.cray.com/">
 					<img src="/images/cray.svg"></img>
+				</a>
+				<a href="https://www.bostonscientific.com">
+					<img src="/images/boston_sci.png"></img>
+				</a>
+				<a href="https://www.bestbuy.com/">
+					<img src="/images/best-buy.png"></img>
+				</a>
+				<a href="https://www.accenture.com">
+					<img src="/images/accenture.png"></img>
 				</a>
 			</div>
 		</div>
