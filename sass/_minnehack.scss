@@ -142,6 +142,22 @@ body {
     }
 }
 
+#mlh-trust-badge {
+    @media only screen and (min-width: 60em) {
+        display: block;
+        max-width: 100px;
+        min-width: 60px;
+        position: fixed;
+        left: 20px;
+        top: 0;
+        width: 10%;
+        z-index: 10000;
+    }
+    @media (max-width: 60em) {
+        display:none;
+    }
+}
+
 .row#faq, .sponsors {
     div.box.platinum { @include colored-box(#D0D0D0, 15%); }
     div.box.gold { @include colored-box(#BB9922, 30%); }
