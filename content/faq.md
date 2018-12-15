@@ -41,7 +41,9 @@ We'll also announce a Discord at the keynote speech; there's a channel there for
 
 ### Will you be providing travel reimbursements this year?
 
-We'd like to, but it isn't currently in our budget. We will have a solid confirmation by the end of the calendar year and will still be providing buses to Madison, Urbana Champaign, and Purdue. If you're interested in being one of the bus captains this year, please contact us at [acm@umn.edu](mailto:acm@umn.edu).
+**YES!** We are able to provide travel reimbursements. Email [acm@umn.edu](mailto:acm@umn.edu) *ahead of time* to request a reimbursement and be sure to save your receipts.
+
+We will also be providing buses to Madison, Urbana Champaign, and Purdue. If you're interested in being one of the bus captains this year, please contact us at [acm@umn.edu](mailto:acm@umn.edu).
 
 # Have more questions?
 
