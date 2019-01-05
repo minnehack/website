@@ -45,33 +45,34 @@ We'll also announce a Discord at the keynote speech; there's a channel there for
 
 We will also be providing buses to Madison, Urbana Champaign, and Purdue. If you're interested in being one of the bus captains this year, please contact us at [acm@umn.edu](mailto:acm@umn.edu).
 
-#Travel Reimbursement FAQs:
 
-###Can I get reimbursement if I live outside the United States?
+# Travel Reimbursement FAQs:
+
+### Can I get reimbursement if I live outside the United States?
 
 Unfortunately, no. We will need a US mailing address to send you the reimbursement. You can work around this if you have someone who lives in the United States and can receive mail for you, but their address needs to be the one you put on the travel reimbursement request.
 
-###How much reimbursement can I receive?
+### How much reimbursement can I receive?
 
 Historically we have only given individuals up to $100 in reimbursement. We will consider reimbursement requests above this, but requests above $100 may not receive the full amount. We will be prioritising those with higher need for reimbursement as well as people who make an effort to lower the cost of travel.
 
-###Do I need to request reimbursement if I plan on taking one of the busses you are sending?
+### Do I need to request reimbursement if I plan on taking one of the busses you are sending?
 
 Nope, we are covering all the costs for the busses we are sending. You only need to request reimbursement if you are taking a bus that we are not sending.
 
-###Where are you sending busses?
+### Where are you sending busses?
 
 We are still figuring out where we are sending busses this year. We will definitely be sending a bus to Madison, WI. We will likely be sending busses to Purdue, and the University of Illinous Urbana Champaign. If you are interested in being a bus captain, please contact us and let us know. If you are at Purdue or UIUC and would like us to confirm that we are sending a bus to you, please contact us. 
 
-###Am I guaranteed reimbursement?
+### Am I guaranteed reimbursement?
 
 No, we are not able to guarantee reimbursement until after the event is complete. To receive reimbursement you must attend the event and have a US mailing address. You must also request your reimbursement before the end of the event. Reimbursement requests that are sent sooner will be given higher priority than those sent later.
 
-###By what criteria will you be approving the requests?
+### By what criteria will you be approving the requests?
 
 We will be prioritizing people who have higher need for reimbursement, as well as those who make a clear effort to lower the cost of travel. We are more likely to approve requests under $100, but will consider requests above it.
 
-###How will I know if my request has been approved?
+### How will I know if my request has been approved?
 
 One week after MinneHack we will be emailing everyone whose request has been approved with the steps they need to follow to receive their reimbursement. 
 
