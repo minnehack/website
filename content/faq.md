@@ -39,14 +39,13 @@ There will be a theme announced.
 	
 We'll also announce a Discord at the keynote speech; there's a channel there for finding teammates.
 
+# Travel Reimbursement FAQs:
+
 ### Will you be providing travel reimbursements this year?
 
 **YES!** We are able to provide travel reimbursements. Email [acm@umn.edu](mailto:acm@umn.edu) *ahead of time* to request a reimbursement and be sure to save your receipts.
 
 We will also be providing buses to Madison, Urbana Champaign, and Purdue. If you're interested in being one of the bus captains this year, please contact us at [acm@umn.edu](mailto:acm@umn.edu).
-
-
-# Travel Reimbursement FAQs:
 
 ### Can I get reimbursement if I live outside the United States?
 
