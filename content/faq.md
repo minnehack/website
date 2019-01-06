@@ -9,11 +9,11 @@ navbar = "page"
 
 ### How does topic selection work?
 
-We'll announce a topic during the keynote speech (6PM on the 2nd).
+The topic selection process involves the MinneHack staff and MinneHack sponsors. The chosen topic will remain secret until it is announced during the keynote speech (6PM on February 2nd).
 
 ### How does team formation work?
 	
-Teams can be formed ahead of time or at the event; no formal ahead-of-time team registration is required.
+There is no formal team formation process. Teams can be formed ahead of time or at the event; no formal ahead-of-time team registration is required. In the Discord server set up for the event, there will be a team formation channel to allow people who want teams or team members to find them. 
 
 ### What type of project deliverable is expected? Is the deliverable a presentation about what you built, or is is just the thing that you built?
 	
@@ -25,7 +25,7 @@ Both primary and final judging are both fairly interactive; primary more so due 
 
 ### Will there be multiple categories for prizes?
 	
-Yes, although I can't speak to what they are. Last year, I know they included a bunch of AWS credit for the best AWS-using project. In general, I'd highly recommend seeing what categories your project could fit into a couple hours before submitting it -- I'm still kicking myself over not applying for the AWS category when I competed last year.
+Yes! They will be announced at the event.
 
 ### Will the size of the team be considered (higher expectations for bigger teams)?
 	
@@ -33,19 +33,17 @@ No. Furthermore, each team member receives the same prize an individual would if
 
 ### Your website says come with ideas.  Is there a general topic or theme, or is it anything?
 	
-There will be a theme announced.
+There is a general topic, it will remain secret until it is announced during the keynote speech, February 2nd at 6:00pm. However, it is generally helpful to come with ideas of what you might like to do. Note that only work done during the event is eligible to be judged and win prizes.
 
 ### Is there a list of people who are looking for teammates, or any sort of built-in pairing mechanism?
 	
-We'll also announce a Discord at the keynote speech; there's a channel there for finding teammates.
+There is not a list of people who are looking for teammates or any built in pairing mechanism. However, we will have a Discord server set up for the event with a channel specifically for people looking for teams or teammates. 
 
 # Travel Reimbursement FAQs:
 
 ### Will you be providing travel reimbursements this year?
 
-**YES!** We are able to provide travel reimbursements. Email [acm@umn.edu](mailto:acm@umn.edu) *ahead of time* to request a reimbursement and be sure to save your receipts.
-
-We will also be providing buses to Madison, Urbana Champaign, and Purdue. If you're interested in being one of the bus captains this year, please contact us at [acm@umn.edu](mailto:acm@umn.edu).
+**YES!** We are able to provide travel reimbursements. The application for travel reimbursement has been incorporated into the RSVP form this year. If you have not received an RSVP email yet, fear not. They are being sent out on a rolling basis based on when you register.
 
 ### Can I get reimbursement if I live outside the United States?
 
