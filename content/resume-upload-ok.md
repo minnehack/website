@@ -7,4 +7,4 @@ navbar = "page"
 
 # Success
 
-You're resume is uploaded!
+Your resume is uploaded!
