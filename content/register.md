@@ -10,7 +10,7 @@ navbar = "page"
 <hr/>
 
 ## Please note that MinneHack has officially reached capacity for RSVPs.
-This means that you are not guaranteed a spot at the event if you fill out this form now. Doing so now will add you to the wait list, meaning that you will be allowed access to the even starting approximately 90 minutes after door time if space allows. There is a reasonably good chance you will get in if you are on the waitlist and arrive promptly, but we <i>cannot guarantee it</i>.
+This means that you are not guaranteed a spot at the event if you fill out this form now. Doing so now will add you to the wait list, meaning that you will be allowed access to the even starting approximately 90 minutes after door time if space allows. There is a reasonably good chance you will get in if you are on the waitlist and arrive promptly, but <i>we cannot guarantee it</i>.
 
 <hr/>
 
