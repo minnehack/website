@@ -7,6 +7,13 @@ navbar = "page"
 
 # Hacker Registration
 
+<hr/>
+
+## Please note that MinneHack has officially reached capacity for RSVPs.
+This means that you are not guaranteed a spot at the event if you fill out this form now. Doing so now will add you to the wait list, meaning that you will be allowed access to the even starting approximately 90 minutes after door time if space allows. Currently the waitlist comprises less than 10% of the maximum capacity, so we expect those registering now to be able to attend the event in place of no-shows - so please do sign up and show up even if you are on the waitlist.
+
+<hr/>
+
 Complete the below form to register for the hackathon. Red indicates an incomplete field.
 
 <p style="color: orange; font-weight: bold;">Please use your school email.</p>
