@@ -13,4 +13,4 @@ Garfield
 
 ### MinneHack 2019 Useful Datasets
 
-[https://garfcom.biz](https://garfcom.biz).
+[http://garfcom.biz](http://garfcom.biz).
