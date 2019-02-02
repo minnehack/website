@@ -7,6 +7,13 @@ navbar = "page"
 
 # Hacker Registration
 
+<h1/>
+
+## MinneHack registration is now closed.
+
+If you still want to attend, walk-ins will be accepted on a <i>space available basis only</i> starting 90mins after normal admission (after waitlisted registrants.)
+
+<!--
 <hr/>
 
 ## Please note that MinneHack has officially reached capacity for RSVPs.
@@ -69,3 +76,5 @@ Complete the below form to register for the hackathon. Red indicates an incomple
 <script type="text/javascript" src="/signup.js"></script>
 <script type="text/javascript">
 </script>
+
+-->
