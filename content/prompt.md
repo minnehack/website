@@ -26,3 +26,26 @@ Challenge: Help us to improve farmer livelihood by using data to:
 <li>Strengthen agricultural communities</li>
 </ul>
 </b></p>
+
+
+### Useful Datasets
+
+Aquaculture:<br/>
+
+[https://www.ers.usda.gov/data-products/aquaculture-data/](https://www.ers.usda.gov/data-products/aquaculture-data/)<br/>
+[http://www.fao.org/fishery/statistics/global-production/en](http://www.fao.org/fishery/statistics/global-production/en)<br/>
+[https://data.europa.eu/euodp/data/dataset/r6W6EGPQHkz8mHKIkVqP5w](https://data.europa.eu/euodp/data/dataset/r6W6EGPQHkz8mHKIkVqP5w)<br/>
+[https://data.europa.eu/euodp/data/dataset?q=aquaculture&ext_boolean=all&sort=](https://data.europa.eu/euodp/data/dataset?q=aquaculture&ext_boolean=all&sort=)<br/>
+[https://www.ssb.no/en/fiskeoppdrett/](https://www.ssb.no/en/fiskeoppdrett/)<br/>
+[https://ec.europa.eu/eurostat/statistics-explained/index.php/Aquaculture_statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php/Aquaculture_statistics)<br/>
+[http://aquaculture.scotland.gov.uk/data/fish_farms_monthly_biomass_and_treatment_reports.aspx](http://aquaculture.scotland.gov.uk/data/fish_farms_monthly_biomass_and_treatment_reports.aspx)<br/>
+[http://aquaculture.scotland.gov.uk/data/fish_escapes.aspx](http://aquaculture.scotland.gov.uk/data/fish_escapes.aspx)
+
+Farmer Livelihood:<br/>
+
+[https://github.com/awesomedata/awesome-public-datasets#agriculture](https://github.com/awesomedata/awesome-public-datasets#agriculture)<br/>
+[http://sedac.ciesin.columbia.edu/theme/agriculture/data/sets/browse](http://sedac.ciesin.columbia.edu/theme/agriculture/data/sets/browse)<br/>
+[https://www.ars.usda.gov/research/datasets/](https://www.ars.usda.gov/research/datasets/)<br/>
+[https://www.usda.gov/content/usda-open-data-catalog](https://www.usda.gov/content/usda-open-data-catalog)<br/>
+[https://www.godan.info/pages/open-data](https://www.godan.info/pages/open-data)<br/>
+[https://quickstats.nass.usda.gov/](https://quickstats.nass.usda.gov/)
