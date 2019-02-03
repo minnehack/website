@@ -20,7 +20,9 @@ We partner with farmers to advance entrepreneurial solutions. Farming is an unce
 
 <p><b>
 Challenge: Help us to improve farmer livelihood by using data to:
- - Increase productivity and access to markets
- - Promote agricultural practices that support a more sustainable future
- - Strengthen agricultural communities
+<ul>
+<li>Increase productivity and access to markets</li>
+<li>Promote agricultural practices that support a more sustainable future</li>
+<li>Strengthen agricultural communities</li>
+</ul>
 </b></p>
