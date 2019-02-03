@@ -5,7 +5,7 @@ title = "Prompt"
 navbar = "page"
 +++
 
-# MinneHack 2019
+# Prompts
 
 ### Problem 1: Sustainable Aquaculture
 Seafood is the largest source of animal protein in people’s diets worldwide. By 2030, 62 percent of the world’s seafood will be farm-raised to meet growing demand, according to a study by the World Bank. Consumption of fish from aquaculture is forecast to reach 93.6 million metric tons by 2030, nearly doubling the amount consumed in 2006. Early Mortality Syndrome and White Spot Syndrome Virus are just a few of the diseases shrimp can contract. Losses cost the shrimp sector billions of dollars and can decimate a farmer’s livelihood. Preventative measures and rapid diagnosis are key to prevent the spread of viruses. 
