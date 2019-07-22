@@ -25,12 +25,20 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Platinum</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<a href="https://www.cargill.com/">
-					<img src="/images/cargill.svg"></img>
-				</a>
+				<img src="/images/YourLogoHere.png"></img>
 			</div>
 			<div class="sponsor-perks">
-				Technology is key to Cargill achieving its purpose to nourish the world in a safe, responsible and sustainable way. Every day, we connect farmers with markets, customers with ingredients, and people and animals with the food they need to thrive. We combine our experience with new technologies and insights to serve as a trusted partner for food, agriculture, financial and industrial customers in more than 125 countries. <br/> <br/> <a href="https://www.cargill.com/careers/browse-jobs">Browse Jobs at Cargill</a>.
+				<ul>
+					<li>All gold level benefits </li>
+					<li>You choose the competition prompt!</li>
+					<li>Most prominent logo featured on MinneHack digital and print materials </li>
+					<li>Double-size booth at a prime location</li>
+					<li>Keynote speech</li>
+					<li>Banners in the competition space</li>
+					<li>Projected media (inquire for details)</li>
+					<li>4 Judge positions total</li>
+					<li>8 Mentor positions total</li>
+				</ul>
 			</div>
 		</div>
 	</div>
@@ -38,12 +46,20 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<a href="https://www.spscommerce.com/">
-					<img src="/images/sps.svg"></img>
-				</a>
-				<a href="https://www.optum.com/">
-					<img src="/images/optum.png"></img>
-				</a>
+				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/YourLogoHere.png"></img>
+			</div>
+			<div class="sponsor-perks">
+				<ul>
+					<li>All silver level benefits</li>
+					<li>Large size logo on MinneHack digital and print materials </li>
+					<li>Dedicated page in MinneHack attendee lanyard pamphlet </li>
+					<li>Exclusive product giveaway and announcement</li>
+					<li>ThinkTalk opportunity</li>
+					<li>3 Judge positions total</li>
+					<li>4 Mentor positions total</li>
+					<li>Official meal sponsor (limited to first 3 gold level sponsors)</li>
+				</ul>
 			</div>
 		</div>
 	</div>
@@ -51,9 +67,19 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Silver</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<a href="https://www.brooksource.com/">
-					<img src="/images/brooksource.png"></img>
-				</a>
+				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/YourLogoHere.png"></img>
+			</div>
+			<div class="sponsor-perks">
+				<ul>
+					<li>All bronze level benefits </li>
+					<li>Option to feature your API or product </li>
+					<li>2 Judge positions</li>
+					<li>3 Mentor positions total</li>
+					<li>Option to book a booth</li>
+					<li>Official snack sponsor (limited to first 5 silver level sponsors)</li>
+				</ul>
 			</div>
 		</div>
 	</div>
@@ -61,29 +87,20 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Bronze</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<a href="https://tech.mn/">
-					<img src="/images/techdotmn.png"></img>
-				</a>
-				<a href="https://mobility.trimble.com/">
-					<img src="/images/trimble.svg"></img>
-				</a>
-				<a href="https://www.concordusa.com/">
-					<img src="/images/concord.svg"></img>
-				</a>
+				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/YourLogoHere.png"></img>
 			</div>
-			<div class="sponsor-logos">
-				<a href="https://www.cray.com/">
-					<img src="/images/cray.svg"></img>
-				</a>
-				<a href="https://www.bostonscientific.com">
-					<img src="/images/boston_sci.png"></img>
-				</a>
-				<a href="https://www.bestbuy.com/">
-					<img src="/images/best-buy.png"></img>
-				</a>
-				<a href="https://www.accenture.com">
-					<img src="/images/accenture.png"></img>
-				</a>
+			<div class="sponsor-perks">
+				<ul>
+					<li>Small logo featured on all MinneHack digital and print materials</li>
+					<li>Organization blurb featured in MinneHack attendee lanyard pamphlet </li>
+					<li>2 Mentor positions</li>
+					<li>Branded goodies for 'swag bag'</li>
+					<li>Attendee resumes</li>
+				</ul>
 			</div>
 		</div>
 	</div>
