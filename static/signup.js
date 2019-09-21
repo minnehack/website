@@ -26,4 +26,56 @@ $(document).ready(function() {
 			source: dietaryRestrictions.ttAdapter(),
 		}
 	});
+
+	let checkreimbursment = function() {
+		if ($("#reimbursment").prop('checked')) {
+			$("#reimbursement-expd").show();
+		} else {
+			$("#reimbursement-expd").hide();
+		}
+	};
+
+	checkreimbursment();
+
+	$("#reimbursment").change(checkreimbursment);
+
+	let checkbus = function() {
+		if ($("#bus").prop('checked')) {
+			$("#bus-expd").show();
+		} else {
+			$("#bus-expd").hide();
+		}
+	};
+
+	checkbus();
+
+	$("#bus").change(checkbus);
+
+	let checkminor = function() {
+		if ($("#minor").prop('checked')) {
+			$("#minor-nag").show();
+		} else {
+			$("#minor-nag").hide();
+		}
+	};
+
+	checkminor();
+
+	$("#minor").change(checkminor);
+
+	let checktransit = function() {
+		console.log($("#driving").prop('checked'), $("#bus").prop('checked'));
+		if ($("#driving").prop('checked') && $("#bus").prop('checked')){
+			$("#driving-bus-nag").show();
+			$("#submit").prop("disabled",true);
+		}else{
+			$("#driving-bus-nag").hide();
+			$("#submit").prop("disabled",false);
+		}
+	}
+
+	$("#driving").change(checktransit);
+	$("#bus").change(checktransit);
+	checktransit();
+
 });

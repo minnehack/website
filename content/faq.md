@@ -27,6 +27,10 @@ Both primary and final judging are both fairly interactive; primary more so due 
 	
 Yes! They will be announced at the event.
 
+### Is there a maximum team size?
+
+Yes: **4**. We think this is a sane limit, and also happens to be how many of each prize we are buying!
+
 ### Will the size of the team be considered (higher expectations for bigger teams)?
 	
 No. Furthermore, each team member receives the same prize an individual would if the team wins. Last year, the first, second, and third place competitors were all teams, so I'd advise teaming up!
