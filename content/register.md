@@ -36,7 +36,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12"><input type="text" class="typeahead" name="school" placeholder="School*" required pattern=".*[^\s].*" /></div>
 	</div>
 	<div class="row">
-		<div class="col-12">T-Shirt Size: <select name="tshirt" style="width: 82%;">
+		<div class="col-3">T-Shirt Size:</div><div class="col-9"><select name="tshirt" style="width: 100%;">
 			<option value="xs">XS</option>
 			<option value="s">S</option>
 			<option value="m">M</option>
@@ -77,10 +77,11 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-12"><textarea name="accommodations" placeholder="Other Accommodations Requests (e.g. closed captioning, space to decompress, service animal)"></textarea></div>
+		<div class="col-12"><textarea name="accommodations" placeholder="Other Accommodations Requests (e.g. closed captioning, space to decompress, bringing a service animal)"></textarea></div>
 	</div>
 	<div class="row">
-		<div class="col-12">Resume: <input type="file" name="resume"  style="width: 82%;" autocomplete="off"> (You may update your resume/upload one later if you wish.)</div>
+		<div class="col-3">Resume:</div><div class="col-9"><input type="file" name="resume"  style="width: 82%;" autocomplete="off"></div>
+		<div class="col-12">(You may update your resume/upload one later if you wish.)</div>
 	</div>
 	<hr/>
 	<div class="row">
