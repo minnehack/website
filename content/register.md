@@ -7,7 +7,7 @@ navbar = "page"
 
 # Hacker Registration
 
-**MinneHack 2020 will take place January 25th-26th in the [Memorial Union Great Hall](https://goo.gl/maps/vC4Xz4CvBzr) the University of Minnesota.**
+**MinneHack 2020 will take place January 25th 6PM-26th 6PM in the [Memorial Union Great Hall](https://goo.gl/maps/vC4Xz4CvBzr) the University of Minnesota.**
 
 Complete the below form to register for the hackathon. Registering now guarantees you a space at the event. If you do not register you may be able to attend as a walk-in on a space-available basis. Red indicates an incomplete field.
 
