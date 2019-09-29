@@ -16,7 +16,7 @@ navbar = "title"
                 <a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>
             </h3>
             <br/>
-            <a class="btn">Registration Open Soon</a>
+            <a class="btn" href="/register">REGISTER NOW!</a>
         </div>
     </div>
 </div>
