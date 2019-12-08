@@ -57,7 +57,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 			<p> &#8594; <label class="container"><input type="checkbox" name="reimbursement-strict" /><span class="checkmark"></span> I will not be able to attend without reimbursement</label></p>
 		</div>
 	</div>
-	<div class="row">
+	<!-- <div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="bus" id="bus" /><span class="checkmark"></span> We have historically sent a bus to Purdue University, University of Illinois Urbana Champagne, and University of Wisconsin Madison. Are you interested in taking the bus from any of these locations?
 		</label></div>
 	</div>
@@ -67,7 +67,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 			<option value="uic">University of Illinois Urbana Champagne</option>
 			<option value="uwm">University of Wisconsin Madison</option>
 		</select><p> &#8594; <label class="container"><input type="checkbox" name="bus-strict" /><span class="checkmark"></span> I will not be able to attend if the bus is not available</label></p></div>
-	</div>
+	</div> -->
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="minor" id="minor"/><span class="checkmark"></span> I will be a minor (under 18) as of January 25th, 2020</label><div id="minor-nag" style="color:red; font-weight: bold;"><br/> &#8594; Because you are registering as a minor, you must bring a <a href="/minorwaiver.pdf" target="_blank">release signed by your guardian</a> to the event or email it to <a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>. You will not be admitted to the event without this, even in circumstances where a walk-in would be.<br/></div></div>
 	</div>
