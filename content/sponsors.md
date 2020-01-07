@@ -91,7 +91,6 @@ We also offer additional benefits based on sponsorship commitment.
 				<img src="/images/YourLogoHere.png"></img>
 				<img src="/images/YourLogoHere.png"></img>
 				<img src="/images/YourLogoHere.png"></img>
-				<img src="/images/YourLogoHere.png"></img>
 			</div>
 			<div class="sponsor-perks">
 				<ul>
@@ -101,6 +100,14 @@ We also offer additional benefits based on sponsorship commitment.
 					<li>Branded goodies for 'swag bag'</li>
 					<li>Attendee resumes</li>
 				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="grinkus box">
+		<h2>Special Thanks</h2>
+		<div class="sponsorship-info">
+			<div class="sponsor-logos">
+				<a href="https://hackp.ac/mlh-stickermule-hackathons"><img src="/images/sticker-mule-logo-light-bg.svg"></img></a>
 			</div>
 		</div>
 	</div>
