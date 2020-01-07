@@ -46,7 +46,7 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/ecolab.png"></img>
 				<img src="/images/YourLogoHere.png"></img>
 			</div>
 			<div class="sponsor-perks">
@@ -67,8 +67,7 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Silver</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/YourLogoHere.png"></img>
-				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/optum.png"></img>
 				<img src="/images/YourLogoHere.png"></img>
 			</div>
 			<div class="sponsor-perks">
@@ -87,9 +86,9 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Bronze</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/YourLogoHere.png"></img>
-				<img src="/images/YourLogoHere.png"></img>
-				<img src="/images/YourLogoHere.png"></img>
+				<img src="/images/75f.png"></img>
+				<img src="/images/cat.jpg"></img>
+				<img src="/images/bestbuy.png"></img>
 				<img src="/images/YourLogoHere.png"></img>
 			</div>
 			<div class="sponsor-perks">
