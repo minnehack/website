@@ -102,12 +102,4 @@ We also offer additional benefits based on sponsorship commitment.
 			</div>
 		</div>
 	</div>
-	<div class="grinkus box">
-		<h2>Special Thanks</h2>
-		<div class="sponsorship-info">
-			<div class="sponsor-logos">
-				<a href="https://hackp.ac/mlh-stickermule-hackathons"><img src="/images/sticker-mule-logo-light-bg.svg"></img></a>
-			</div>
-		</div>
-	</div>
 </div>
