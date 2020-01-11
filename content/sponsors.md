@@ -47,6 +47,7 @@ We also offer additional benefits based on sponsorship commitment.
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
 				<img src="/images/ecolab.png"></img>
+				<img src="/images/sps.svg"></img>
 				<img src="/images/YourLogoHere.png"></img>
 			</div>
 			<div class="sponsor-perks">
