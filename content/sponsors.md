@@ -14,8 +14,8 @@ We are able to put on the event thanks to our generous corporate and community s
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/ecolab.png"></img>
-				<img src="/images/sps.svg"></img>
+				<a href="https://www.ecolab.com/" target="_blank"><img src="/images/ecolab.png"></img></a>
+				<a href="https://www.spscommerce.com/" target="_blank"><img src="/images/sps.svg"></img></a>
 			</div>
 		</div>
 	</div>
@@ -23,7 +23,7 @@ We are able to put on the event thanks to our generous corporate and community s
 		<h2>Silver</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/optum.png"></img>
+				<a href="https://www.optum.com/" target="_blank"><img src="/images/optum.png"></img></a>
 			</div>
 		</div>
 	</div>
@@ -31,9 +31,9 @@ We are able to put on the event thanks to our generous corporate and community s
 		<h2>Bronze</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<img src="/images/75f.png"></img>
-				<img src="/images/cat.jpg"></img>
-				<img src="/images/bestbuy.png"></img>
+				<a href="https://www.75f.io/" target="_blank"><img src="/images/75f.png"></img></a>
+				<a href="https://www.caterpillar.com/en.html" target="_blank"><img src="/images/cat.jpg"></img></a>
+				<a href="https://www.bestbuy.com/" target="_blank"><img src="/images/bestbuy.png"></img></a>
 			</div>
 		</div>
 	</div>
