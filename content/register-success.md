@@ -7,6 +7,6 @@ navbar = "page"
 
 # Congratulations!
 
-## You've successfully registered for MinneHack 2020.
+## You've successfully registered for the MinneHack 2020 waitlist.
 
-Keep an eye on the email you used for registration - we will be sending out important communications in the coming months, and **you will need to confirm your attendance** shortly before the hackathon.
+While you are not guaranteed a spot, we have historically admitted everyone on the waitlist!
