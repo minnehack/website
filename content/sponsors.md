@@ -37,12 +37,4 @@ We are able to put on the event thanks to our generous corporate and community s
 			</div>
 		</div>
 	</div>
-	<div class="grinkus box">
-		<h3>Special Thanks</h3>
-		<div class="sponsorship-info">
-			<div class="sponsor-logos">
-				<a href="https://hackp.ac/mlh-stickermule-hackathons"><img src="/images/sticker-mule-logo-light-bg.svg"></img></a>
-			</div>
-		</div>
-	</div>
 </div>
