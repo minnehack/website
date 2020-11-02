@@ -9,7 +9,7 @@ navbar = "page"
 
 ### What's different this year?
 
-Everything! For one, MinneHack will be held online due to the current world event. The topics and
+Everything! For one, MinneHack will be held online due to the current pandemic. The topics and
 scoring system will be more constrained (think Jeopardy! style), similar to that of a CTF.
 
 ### Wait, topic*s*?
