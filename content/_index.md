@@ -7,16 +7,17 @@ navbar = "title"
 <div class="masthead">
     <div class="overlay">
         <div class="container">
-            <h1 id="title">MinneHack 2020</h1>
+            <h1 id="title">MinneHack 2021</h1>
             <h2 id="tagline">The Biggest Hackathon in the Twin Cities</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
-                January 25th-26th (6PM-6PM)<br/>
+                January 23rd-24th (6PM-6PM)<br/>
                 <small>24 Hours</small>
-                <a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>
+				Online!
+				<!--<a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>-->
             </h3>
             <br/>
-            <a class="btn" href="http://acm.umn.edu/events/finalists/minnehack-2020/">MinneHack 2020 is over - read about it here</a>
+            <a class="btn" href="http://acm.umn.edu/events/finalists/minnehack-2020/">Read about last year's event!</a>
         </div>
     </div>
 </div>
