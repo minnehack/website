@@ -8,7 +8,7 @@ navbar = "title"
     <div class="overlay">
         <div class="container">
             <h1 id="title">MinneHack 2021</h1>
-            <h2 id="tagline">The Biggest Hackathon in the Twin Cities</h2>
+            <h2 id="tagline">The Biggest Hackathon (that was formerly held) in the Twin Cities</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
                 January 23rd-24th (6PM-6PM)<br/>
