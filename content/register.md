@@ -53,10 +53,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		</select><p> &#8594; <label class="container"><input type="checkbox" name="bus-strict" /><span class="checkmark"></span> I will not be able to attend if the bus is not available</label></p></div>
 	</div> -->
 	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="minor" id="minor"/><span class="checkmark"></span> I will be a minor (under 18) as of January 23rd, 2021</label><div id="minor-nag" style="color:red; font-weight: bold;"><br/> &#8594; Because you are registering as a minor, you must bring a <a href="/minorwaiver.pdf" target="_blank">release signed by your guardian</a> to the event or email it to <a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>. You will not be admitted to the event without this, even in circumstances where a walk-in would be.<br/></div></div>
-	</div>
-	<div class="row">
-		<div class="col-12"><textarea name="accommodations" placeholder="Accommodation Requests"></textarea></div>
+		<div class="col-12"><textarea name="accommodations" placeholder="Accommodation requests"></textarea></div>
 	</div>
 	<div class="row">
 		<div class="col-3">Resume:</div><div class="col-9"><input type="file" name="resume" style="width: 82%;" autocomplete="off" disabled></div>
