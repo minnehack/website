@@ -125,7 +125,8 @@ const uploadResume = resume => {
     if(!resume) return Promise.reject("resume is falsy");
 	const data = new FormData();
 	data.append("resume", resume);
-    
+
+    const hash = resume.arrayBuffer().then(ab => crypto.subtle.digest("SHA-256", ab));
 	return fetch(`${apiBase}/upload`, {
 		method: "POST",
         mode: "same-origin",
@@ -134,6 +135,6 @@ const uploadResume = resume => {
         },
         body: data,
     }).then(r => r.ok ? r : Promise.reject(`HTTP status ${r.status}`))
-		.then(r => r.text())
+		.then(() => [...new Uint8Array(hash)].map(b => b.toString(16).padStart(2, "0")).join(""))
 		.catch(e => submitErr("An error occured whilst uploading your resume. Please try again", e));
 };
