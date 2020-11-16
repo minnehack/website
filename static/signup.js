@@ -1,6 +1,6 @@
 let apiBase = "/api";
 
-$(document).ready(function() {
+$(document).ready(async () => {
 	let schools = new Bloodhound({
 		datumTokenizer: Bloodhound.tokenizers.whitespace,
 		queryTokenizer: Bloodhound.tokenizers.whitespace,
@@ -78,4 +78,62 @@ $(document).ready(function() {
 	$("#bus").change(checktransit);
 	checktransit();
 
+	document.querySelector("#submit").disabled = false;
+    
+	// blame hemant
+    const form = document.querySelector("form");
+	const resumeInput = document.querySelector("input[name=resume]");
+    resumeInput.disabled = false;
+    
+    form.addEventListener("submit", async ev => {
+		ev.preventDefault();
+        
+        const data = new FormData(form);
+
+        try {
+			let resId = await uploadResume(resumeInput.files[0]);
+			data.append("resume", resId);
+        } catch(e) {
+			console.warn("Invalid or nonexistent resume:", e);
+        }
+
+        try {
+			const url = await fetch(form.action, {
+				method: "POST",
+				mode: "same-origin",
+				redirect: "manual",
+				headers: {
+					"Content-Type": "application/x-www-urlencoded"
+				},
+				body: data
+			}).then(r => r.status != 302 ? Promise.reject("Expected redirect") : r.url);
+            
+            window.location = url;
+        } catch(e) {
+			submitErr("An error occurred whilst submitting your registration. Please try again.", e);
+		}
+	});
 });
+
+const submitErr = (msg, e) => {
+    console.error(e);
+	const box = document.querySelector("#submission-issue");
+    box.innerText = msg;
+};
+
+const uploadResume = resume => {
+    if(!resume) return Promise.reject("resume is falsy");
+	const data = new FormData();
+	data.append("resume", resume);
+    
+	return fetch(`${apiBase}/upload`, {
+		method: "POST",
+        mode: "same-origin",
+        headers: {
+			"Content-Type": "multipart/form-data"
+        },
+        body: data,
+    }).then(r => r.ok ? r : Promise.reject(`HTTP status ${r.status}`))
+		.then(r => r.text())
+		.catch(e => submitErr("An error occured whilst uploading your resume. Please try again", e));
+};

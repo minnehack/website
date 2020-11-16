@@ -5,7 +5,7 @@ title = "Privacy Policy"
 navbar = "page"
 +++
 
-# MinneHack 2020 Terms of Service and Privacy Policy
+# MinneHack 2021 Terms of Service and Privacy Policy
 
 ## Registration Data
 
@@ -51,7 +51,7 @@ modified Terms.
 We may email you information about this and future MinneHack events. You
 may unsubscribe from these emails at any time with the Unsubscribe link at
 the bottom of our emails, or by emailing `acm@umn.edu` (please set subject
-`Unsubscribe from MinneHack 2020 Mailing List`) and asking us.
+`Unsubscribe from MinneHack 2021 Mailing List`) and asking us.
 
 ## Release and Waiver
 
