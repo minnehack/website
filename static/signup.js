@@ -90,7 +90,7 @@ $(document).ready(async () => {
 
 		// NB: disabling the input removes it from the all seeing eye of FormData.
         resumeInput.disabled = true;
-        const data = new FormData(form);
+        const data = new URLSearchParams(new FormData(form));
         resumeInput.disabled = false;
 
         try {
