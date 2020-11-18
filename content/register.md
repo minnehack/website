@@ -62,7 +62,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12"><label class="container"><input type="checkbox" name="coc" required /><span class="checkmark"></span> I have read and agree to the <a href="https://acm.umn.edu/static/rules.pdf">ACM UMN Rules</a>.</label></div>
 	</div>
 	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="priv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, pre and post-event informational e-mails, and occasional messages about hackathons. I agree to the <a href="/privacypolicy">MinneHack 2021 Privacy Policy.</a></label></div>
+		<div class="col-12"><label class="container"><input type="checkbox" name="mlhpriv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, pre and post-event informational e-mails, and occasional messages about hackathons. I agree to the <a href="/privacypolicy">MinneHack 2021 Privacy Policy.</a></label></div>
 	</div>
 	<div class="row">
 		<div class="col-12">
