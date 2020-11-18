@@ -35,12 +35,6 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 	<div class="row">
 		<div class="col-12"><input type="text" class="typeahead" name="school" placeholder="School*" required pattern=".*[^\s].*" /></div>
 	</div>
-	<div class="row" id="reimbursement-expd" style="display: none;">
-		<div class="col-12"><div style="display: block;"> &#8594; <input style="width: 95%;" type="text" name="reimbursement-amount" placeholder="Estminated reimbursement amount (USD$)" /></div>
-			<div style="display: block;"> &#8594; <textarea style="width: 95%;" type="text" name="reimbursement-desc" placeholder="Describe your travel plans requiring reimbursement"></textarea></div>
-			<p> &#8594; <label class="container"><input type="checkbox" name="reimbursement-strict" /><span class="checkmark"></span> I will not be able to attend without reimbursement</label></p>
-		</div>
-	</div>
 	<!-- <div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="bus" id="bus" /><span class="checkmark"></span> We have historically sent a bus to Purdue University, University of Illinois Urbana Champagne, and University of Wisconsin Madison. Are you interested in taking the bus from any of these locations?
 		</label></div>
@@ -68,7 +62,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12"><label class="container"><input type="checkbox" name="coc" required /><span class="checkmark"></span> I have read and agree to the <a href="https://acm.umn.edu/static/rules.pdf">ACM UMN Rules</a>.</label></div>
 	</div>
 	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="mlhpriv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, pre and post-event informational e-mails, and occasional messages about hackathons. I agree to the <a href="/privacypolicy">MinneHack 2021 Privacy Policy.</a></label></div>
+		<div class="col-12"><label class="container"><input type="checkbox" name="priv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, pre and post-event informational e-mails, and occasional messages about hackathons. I agree to the <a href="/privacypolicy">MinneHack 2021 Privacy Policy.</a></label></div>
 	</div>
 	<div class="row">
 		<div class="col-12">
