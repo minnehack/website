@@ -137,7 +137,7 @@ const uploadResume = resume => {
 			"Content-Type": "multipart/form-data"
         },
         body: data,
-    }).then(r => r.ok ? r : Promise.reject(`HTTP status ${r.status}`))
-		.then(() => [...new Uint8Array(hash)].map(b => b.toString(16).padStart(2, "0")).join(""))
+    }).then(r => r.ok ? r : Promise.reject(`Resume submit: HTTP status ${r.status}`))
+		.then(() => hash.then(h => [...new Uint8Array(h)].map(b => b.toString(16).padStart(2, "0")).join("")))
 		.catch(e => submitErr("An error occured whilst uploading your resume. Please try again", e));
 };
