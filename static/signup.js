@@ -87,8 +87,11 @@ $(document).ready(async () => {
     
     form.addEventListener("submit", async ev => {
 		ev.preventDefault();
-        
+
+		// NB: disabling the input removes it from the all seeing eye of FormData.
+        resumeInput.disabled = true;
         const data = new FormData(form);
+        resumeInput.disabled = false;
 
         try {
 			let resId = await uploadResume(resumeInput.files[0]);
@@ -103,7 +106,7 @@ $(document).ready(async () => {
 				mode: "same-origin",
 				redirect: "manual",
 				headers: {
-					"Content-Type": "application/x-www-urlencoded"
+					"Content-Type": "application/x-www-form-urlencoded"
 				},
 				body: data
 			}).then(r => r.status != 302 ? Promise.reject("Expected redirect") : r.url);
