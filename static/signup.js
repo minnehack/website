@@ -90,16 +90,17 @@ $(document).ready(async () => {
 
 		// NB: disabling the input removes it from the all seeing eye of FormData.
         resumeInput.disabled = true;
-        const data = new URLSearchParams(new FormData(form));
+        const data = new FormData(form);
         resumeInput.disabled = false;
 
         try {
 			let resId = await uploadResume(resumeInput.files[0]);
-			data.append("resume", resId);
+			data.set("resume", resId);
         } catch(e) {
 			console.warn("Invalid or nonexistent resume:", e);
         }
 
+        console.log(`data: ${data}`);
         try {
 			const url = await fetch(form.action, {
 				method: "POST",
@@ -108,8 +109,8 @@ $(document).ready(async () => {
 				headers: {
 					"Content-Type": "application/x-www-form-urlencoded"
 				},
-				body: data
-			}).then(r => r.status != 302 ? Promise.reject("Expected redirect") : r.url);
+				body: new URLSearchParams(data).toString(),
+			}).then(r => r.status != 302 ? Promise.reject("Form submit failed: Expected redirect") : r.url);
             
             window.location = url;
         } catch(e) {
@@ -137,7 +138,7 @@ const uploadResume = resume => {
 			"Content-Type": "multipart/form-data"
         },
         body: data,
-    }).then(r => r.ok ? r : Promise.reject(`Resume submit: HTTP status ${r.status}`))
+    }).then(r => r.ok ? r : Promise.reject(`Resume submit failed: HTTP status ${r.status}`))
 		.then(() => hash.then(h => [...new Uint8Array(h)].map(b => b.toString(16).padStart(2, "0")).join("")))
 		.catch(e => submitErr("An error occured whilst uploading your resume. Please try again", e));
 };
