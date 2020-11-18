@@ -7,6 +7,6 @@ navbar = "page"
 
 # Congratulations!
 
-## You've successfully registered for the MinneHack 2020 waitlist.
+## You've successfully registered for the MinneHack 2021.
 
-While you are not guaranteed a spot, we have historically admitted everyone on the waitlist!
+See you online!
