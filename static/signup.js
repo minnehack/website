@@ -105,12 +105,11 @@ $(document).ready(async () => {
 			const url = await fetch(form.action, {
 				method: "POST",
 				mode: "same-origin",
-				redirect: "manual",
 				headers: {
 					"Content-Type": "application/x-www-form-urlencoded"
 				},
 				body: new URLSearchParams(data).toString(),
-			}).then(r => r.status != 302 ? Promise.reject("Form submit failed: Expected redirect") : r.url);
+			}).then(r => r.redirected ? r.url : Promise.reject("Form submit failed: Expected redirect"));
             
             window.location = url;
         } catch(e) {
