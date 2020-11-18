@@ -17,7 +17,7 @@ navbar = "title"
 				<!--<a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>-->
             </h3>
             <br/>
-            <a class="btn" href="http://acm.umn.edu/events/finalists/minnehack-2020/">Read about last year's event!</a>
+            <a class="btn" href="/register">Register now!</a>
         </div>
     </div>
 </div>
