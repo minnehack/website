@@ -134,9 +134,6 @@ const uploadResume = resume => {
 	return fetch(`${apiBase}/upload`, {
 		method: "POST",
         mode: "same-origin",
-        headers: {
-			"Content-Type": "multipart/form-data"
-        },
         body: data,
     }).then(r => r.ok ? r : Promise.reject(`Resume submit failed: HTTP status ${r.status}`))
 		.then(() => hash.then(h => [...new Uint8Array(h)].map(b => b.toString(16).padStart(2, "0")).join("")))
