@@ -11,7 +11,7 @@ navbar = "title"
             <h2 id="tagline">The Biggest Hackathon (that was formerly held) in the Twin Cities</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
-                January 23rd-24th (6PM-6PM)<br/>
+                January 23rd-24th (Noon-6PM)<br/>
                 <small>24 Hours</small>
 				Online!
 				<!--<a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>-->
