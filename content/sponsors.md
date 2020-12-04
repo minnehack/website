@@ -20,82 +20,31 @@ MinneHack is a unique opportunity to connect with the most talented and passiona
 
 We also offer additional benefits based on sponsorship commitment.
 
+<a href="/sponsor2021.pdf">See our sponsorship document here if you are interested in having your organization sponsor MinneHack!</a>
+
 <div class="sponsors sponsorship">
     <div class="platinum box">
 		<h2>Platinum</h2>
-		<div class="sponsorship-info">
-			<div class="sponsor-perks">
-				<ul>
-					<li><b>Keynote during Kickoff</b></li>
-					<li><b>Work with us to choose the Prompt</b></li>
-					<li><b>Banners on stage</b></li>
-					<li><b>Best booth</b></li>
-					<li>Think Talk during the event</li>
-					<li>Custom Prize (e.g. API prize)</li>
-					<li><b>Most prominent</b> logo and blurb</li>
-					<li><b>4</b> judges</li>
-					<li><b>8</b> mentors</li>
-					<li>Swag in swag bags</li>
-					<li>Resume drop</li>
-				</ul>
-			</div>
+	    <div class="sponsorship-info">
+			<p>None yet.</p>
 		</div>
 	</div>
     <div class="gold box">
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
-			<div class="sponsor-perks">
-				<ul>
-					<li><b>Think Talk during event</b></li>
-					<li>Custom Prize (e.g. API prize)</li>
-					<li><b>Large</b> logo and blurb</li>
-					<li><b>3</b> judges</li>
-					<li><b>4</b> mentors</li>
-					<li>Swag in swag bags</li>
-					<li>Resume drop</li>
-				</ul>
-			</div>
+			<p>None yet.</p>
 		</div>
 	</div>
 	<div class="silver box">
 		<h2>Silver</h2>
 		<div class="sponsorship-info">
-			<div class="sponsor-perks">
-				<ul>
-					<li><b>Recruitment Booth</b></li>
-					<li><b>2 judges</b></li>
-					<li><b>3</b> mentors</li>
-					<li>Small logo and blurb</li>
-					<li>Swag in swag bags</li>
-					<li>Resume drop</li>
-				</ul>
-			</div>
+			<p>None yet.</p>
 		</div>
 	</div>
 	<div class="bronze box">
 		<h2>Bronze</h2>
 		<div class="sponsorship-info">
-			<div class="sponsor-perks">
-				<ul>
-					<li>2 mentors</li>
-					<li>Small logo and blurb</li>
-					<li>Swag in swag bags</li>
-					<li>Resume drop</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-	<div class="grinkus box">
-		<h2>Other</h2>
-		<div class="sponsorship-info">
-			<div class="sponsor-perks">
-				<ul>
-					<li>Provide travel or travel reimbursement</li>
-					<li>Sponsor a meal and/or snack</li>
-					<li>Product giveaway or feature</li>
-					<li>Provide a prize</li>
-				</ul>
-			</div>
+			<p>None yet.</p>
 		</div>
 	</div>
 </div>
