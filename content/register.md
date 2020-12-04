@@ -7,7 +7,7 @@ navbar = "page"
 
 # Hacker Registration
 
-**MinneHack 2021 will take place January 23rd-24th (6PM-6PM) online.**
+**MinneHack 2021 will take place January 23rd-24th (Noon-6PM) online.**
 
 Complete the below form to register for the hackathon.
 
