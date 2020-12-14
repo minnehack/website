@@ -63,21 +63,6 @@ $(document).ready(async () => {
 
 	$("#minor").change(checkminor);
 
-	let checktransit = function() {
-		console.log($("#driving").prop('checked'), $("#bus").prop('checked'));
-		if ($("#driving").prop('checked') && $("#bus").prop('checked')){
-			$("#driving-bus-nag").show();
-			$("#submit").prop("disabled",true);
-		}else{
-			$("#driving-bus-nag").hide();
-			$("#submit").prop("disabled",false);
-		}
-	}
-
-	$("#driving").change(checktransit);
-	$("#bus").change(checktransit);
-	checktransit();
-
 	document.querySelector("#submit").disabled = false;
     
 	// blame hemant

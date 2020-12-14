@@ -66,7 +66,6 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 	</div>
 	<div class="row">
 		<div class="col-12">
-			<div id="driving-bus-nag" style="color:red; font-weight: bold;">You have indicated that you intend to drive, and that you intend to take the bus. Please select at most one.<br/></div>
 			<div id="submission-issue" style="color:red"></div>
 			<input type="submit" value="Submit Registration" id="submit" />
 		</div>
