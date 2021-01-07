@@ -32,7 +32,7 @@ We also offer additional benefits based on sponsorship commitment.
     <div class="gold box">
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
-			<p>None yet.</p>
+			<a href="https://www.ecolab.com/" target="_blank"><img src="/images/ecolab.png"></img></a>
 		</div>
 	</div>
 	<div class="silver box">
