@@ -33,10 +33,8 @@ We also offer additional benefits based on sponsorship commitment.
 		<h2>Gold</h2>
 		<div class="sponsorship-info">
 			<div class="sponsor-logos">
-				<a href="https://www.ecolab.com/" target="_blank">
-				<img src="/images/ecolab.svg"></img></a>
-				<a href="https://www.cigna.com/" target="_blank">
-				<img src="/images/cigna.svg"></img></a>
+				<a href="https://www.ecolab.com/" target="_blank"><img src="/images/ecolab.svg"></img></a>
+				<a href="https://www.cigna.com/" target="_blank"><img src="/images/cigna.svg"></img></a>
 			</div>
 		</div>
 	</div>
@@ -48,8 +46,9 @@ We also offer additional benefits based on sponsorship commitment.
 	</div>
 	<div class="bronze box">
 		<h2>Bronze</h2>
-		<div class="sponsorship-info">
-			<p>None yet.</p>
+		<div class="sponsorship-info sponsor-logos">
+			<a href="https://www.bestbuy.com/" target="_blank"><img src="/images/bestbuy.png"></img></a>
+			<a href="https://www.cat.com/" target="_blank"><img src="/images/cat.jpg"></img></a>
 		</div>
 	</div>
 </div>
