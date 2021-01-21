@@ -23,7 +23,7 @@ We also offer additional benefits based on sponsorship commitment.
 <a href="/sponsor2021.pdf">See our sponsorship document here if you are interested in having your organization sponsor MinneHack!</a>
 
 <div class="sponsors sponsorship">
-    <div class="platinum box">
+    <div class="platinum box" style="display: none;">
 		<h2>Platinum</h2>
 	    <div class="sponsorship-info">
 			<p>None yet.</p>
@@ -31,11 +31,14 @@ We also offer additional benefits based on sponsorship commitment.
 	</div>
     <div class="gold box">
 		<h2>Gold</h2>
-		<div class="sponsorship-info">
-			<div class="sponsor-logos">
-				<a href="https://www.ecolab.com/" target="_blank"><img src="/images/ecolab.svg"></img></a>
-				<a href="https://www.cigna.com/" target="_blank"><img src="/images/cigna.svg"></img></a>
-			</div>
+		<div class="sponsorship-info sponsor-logos">
+			<a href="https://www.ecolab.com/" target="_blank"><img src="/images/ecolab.svg"></img></a>
+		</div>
+	</div>
+	<div class="electrum box">
+		<h2>Electrum</h2>
+		<div class="sponsorship-info sponsor-logos">
+			<a href="https://www.cigna.com/" target="_blank"><img src="/images/cigna.svg"></img></a>
 		</div>
 	</div>
 	<div class="silver box">

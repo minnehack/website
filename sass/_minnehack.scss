@@ -161,6 +161,7 @@ body {
 .row#faq, .sponsors {
     div.box.platinum { @include colored-box(#D0D0D0, 15%); }
     div.box.gold { @include colored-box(#BB9922, 30%); }
+	div.box.electrum { @include colored-box(#AA995E, 30%); }
     div.box.silver{ @include colored-box(#999999, 30%); }
     div.box.bronze{ @include colored-box(#996633, 30%); }
 }
@@ -220,10 +221,12 @@ footer {
     display: inline-block;
 }
 
-.platinum .sponsor-logos > img { width: 20em; }
-.platinum .sponsor-logos > a > img { width: 20em; }
-.gold .sponsor-logos > img { width: 17em; }
-.gold .sponsor-logos > a > img { width: 17em; }
+.platinum .sponsor-logos > img { width: 22em; }
+.platinum .sponsor-logos > a > img { width: 22em; }
+.gold .sponsor-logos > img { width: 20em; }
+.gold .sponsor-logos > a > img { width: 20em; }
+.electrum .sponsor-logos > img { width: 17em; }
+.electrum .sponsor-logos > a > img { width: 17em; }
 .silver .sponsor-logos > img { width: 15em; }
 .silver .sponsor-logos > a > img { width: 15em; }
 .bronze .sponsor-logos > img { width: 10em; }
