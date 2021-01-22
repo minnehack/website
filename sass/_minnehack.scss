@@ -236,16 +236,13 @@ footer {
 
 .sponsor-perks { flex-grow: 1; }
 
-.sponsor-blurb {
+.sponsor-blurb > a > img {
+	width: 20em;
 	display: none;
 }
 
 .sponsor-blurb:target {
 	display: block;
-}
-
-.sponsor-blurb > a > img {
-	width: 20em;
 }
 
 th {
