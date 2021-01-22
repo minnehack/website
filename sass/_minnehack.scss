@@ -234,8 +234,19 @@ footer {
 .grinkus .sponsor-logos > img { width: 10em; }
 .grinkus .sponsor-logos > a > img { width: 10em; }
 
-
 .sponsor-perks { flex-grow: 1; }
+
+.sponsor-blurb {
+	display: none;
+}
+
+.sponsor-blurb:target {
+	display: block;
+}
+
+.sponsor-blurb > a > img {
+	width: 20em;
+}
 
 th {
     text-align: left;
