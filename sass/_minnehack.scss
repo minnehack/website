@@ -4,6 +4,11 @@
 $primaryFont: "Open Sans";
 $primaryColor: #fec503;
 
+// TODO(andrew): figure out a permanent solution for header sizing
+.navbar > div {
+	max-width: 80rem;
+}
+
 body {
 	display: flex;
 	flex-direction: column;
@@ -36,13 +41,13 @@ body {
     }
 }
 
-//
 .navbar {
     a {
         text-decoration: none;
     }
     ul li {
-        display: inline;
+		margin: 5px 0px;
+        display: inline-block;
     }
     background-color: black;
     ul.title.links {
