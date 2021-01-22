@@ -241,14 +241,9 @@ footer {
 
 .sponsor-perks { flex-grow: 1; }
 
-.sponsor-blurb > a > img {
-	width: 20em;
-	display: none;
-}
-
-.sponsor-blurb:target {
-	display: block;
-}
+.sponsor-blurb > a > img { width: 20em; }
+.sponsor-blurb { display: none; }
+.sponsor-blurb:target { display: block; }
 
 th {
     text-align: left;
