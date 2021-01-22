@@ -7,18 +7,26 @@ navbar = "page"
 
 # Schedule
 
-Exact details TBD. [Registered participants](/register) will get forthcoming information ASAP via email :)
-
 ## Saturday
 
-**12:00** - Hacking begins
+**12:00** - Opening statements
+
+**12:15** - Hacking begins!
+
+**14:00** - Ecolab Think Talk
+
+**20:00** - Code Golf
 
 ## Sunday
+
+**00:00** - Resume Roast
+
+**10:00** - DevPost Tutorial
 
 **12:00** - Submissions due!
 
 **13:00** - Judging
 
-**17:00** - Closing ceremony, prizes awarded
+**16:15** - Closing ceremony, prizes awarded
 
 
