@@ -18,6 +18,7 @@ navbar = "page"
 	In this program, we’ll develop your technical, leadership, and business skills by providing you with a mix of challenging assignments, formalized training, and guided mentorship. You’ll rotate through various business lines, gaining exposure to a wide range of different technologies.
 	Upon graduation from the program, you’ll be well trained in all functions of Technology Services, with the knowledge and skills necessary to assume leadership roles throughout the organization.
 	</p>
+	<p>For more information, please contact BAZUBUIKE@express-scripts.com </p>
 </div>
 
 <div class="sponsor-blurb sponsor-logos" id="bestbuy">
