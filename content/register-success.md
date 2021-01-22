@@ -7,6 +7,7 @@ navbar = "page"
 
 # Congratulations!
 
-## You've successfully registered for the MinneHack 2021.
+## You've successfully registered for MinneHack 2021.
 
-See you online!
+You should recieve an email within the next 24 hours containing login details for [our chat
+platform](https://chat.minnehack.io). See you online!
