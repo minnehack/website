@@ -16,6 +16,8 @@ navbar = "title"
 				Online
             </h3>
             <br/>
+			<a class="btn" href="/prompts">Check out the prompts!</a>
+			<br/><br/>
 			<iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 			<noscript><a class="btn" href="https://www.twitch.tv/minnehack">Watch the stream on Twitch!</a></noscript>
         </div>
