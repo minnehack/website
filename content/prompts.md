@@ -19,3 +19,12 @@ This year's MinneHack prompts and their corresponding prizes are:
    * ASUS ProArt Display PA278QV 27” WQHD
 
 These prizes are per-person: each person on a team that wins their respective prompt gets the prize.
+
+## Mini-Hack prizes
+
+The Mini-Hack events (see the [schedule](/schedule) and [stream](https://www.twitch.tv/minnehack)
+for details!) have a separate prize pool.
+
+* Code Golf: Blue Yeti Microphone & Logitech HD Pro Webcam C920
+* CTF: Pinephone Convergence Edition
+* Résumé Roast: $200 of candy of the winner's choosing

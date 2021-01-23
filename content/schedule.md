@@ -17,9 +17,9 @@ Watch the stream on [Twitch](https://twitch.tv/minnehack)!
 
 **12:15** - Hacking begins!
 
-**13:00** - CTF Opens!
-
 **14:00** - Ecolab Think Talk
+
+**16:00** - CTF Opens!
 
 **18:00** - Minecraft Hour
 
