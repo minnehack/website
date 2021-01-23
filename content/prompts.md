@@ -20,7 +20,9 @@ This year's MinneHack prompts and their corresponding prizes are:
 
 These prizes are per-person: each person on a team that wins their respective prompt gets the prize.
 
-## Mini-Hack prizes
+## Mini-Hack
+
+The CTF prompt can be found [here](/ctf).
 
 The Mini-Hack events (see the [schedule](/schedule) and [stream](https://www.twitch.tv/minnehack)
 for details!) have a separate prize pool.
