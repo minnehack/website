@@ -7,7 +7,7 @@ navbar = "page"
 
 # Schedule
 
-<iframe src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+Watch the stream on [Twitch](https://twitch.tv/minnehack)!
 
 ## Saturday
 
