@@ -8,16 +8,16 @@ navbar = "title"
     <div class="overlay">
         <div class="container">
             <h1 id="title">MinneHack 2021</h1>
-            <h2 id="tagline">The Biggest Hackathon (that was formerly held) in the Twin Cities</h2>
+			<h2 id="tagline">The Biggest Hackathon (that was formerly held) in the Twin Cities</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
                 January 23rd-24th (Noon-6PM)<br/>
                 <small>24 Hours</small>
-				Online!
-				<!--<a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>-->
+				Online
             </h3>
             <br/>
-            <a class="btn" href="/register">Register now!</a>
+			<iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+			<noscript><a class="btn" href="https://www.twitch.tv/minnehack">Watch the stream on Twitch!</a></noscript>
         </div>
     </div>
 </div>
@@ -44,3 +44,10 @@ navbar = "title"
         </div>
     </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+	const stream = document.querySelector("#stream");
+	stream.style.display = "inline";
+});
+</script>
