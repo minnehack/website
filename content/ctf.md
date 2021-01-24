@@ -20,7 +20,7 @@ online STL viewer to let the other ACM UMN officers admire his handiwork.
 Since OpenSCAD files are version controllable, **he kept track of all his work with Git**.
 
 You're looking for a flag of the format `flag{sample_flag_text}`. _Make sure to include the `flag{}`
-text wrapping otherwise the flag won't be accepted by the backend
+text in your submission, otherwise the flag won't be accepted by the backend_.
 
 <http://ctf.mh.cult.fish>
 
