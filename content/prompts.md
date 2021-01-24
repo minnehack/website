@@ -20,17 +20,15 @@ This year's MinneHack prompts and their corresponding prizes are:
 
 These prizes are per-person: each person on a team that wins their respective prompt gets the prize.
 
-## Mini-Hack
-
-The CTF prompt can be found [here](/ctf).
+## Mini-Hacks
 
 The Mini-Hack events (see the [schedule](/schedule) and [stream](https://www.twitch.tv/minnehack)
 for details!) have a separate prize pool.
 
 * [Code Golf](/codegolf)
   * Blue Yeti Microphone & Logitech HD Pro Webcam C920
+* [Résumé Roast](https://chat.minnehack.io/channel/resume-roast-submissions)
+  * $200 of candy of the winner's choosing
 * [CTF](/ctf)
   * ~~Pinephone Convergence Edition~~ Already claimed!
-  * MinneHack CTF badge -- see [the ctf page](/ctf) for details.
-* Résumé Roast
-  * $200 of candy of the winner's choosing
+  * MinneHack CTF badge -- see for details.
