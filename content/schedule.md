@@ -19,11 +19,11 @@ Watch the stream on [Twitch](https://twitch.tv/minnehack)!
 
 **14:00** - Ecolab Think Talk
 
-**16:00** - [CTF Opens!](/prompts#mini-hacks)
+**16:00** - [CTF Opens!](/ctf)
 
 **18:00** - Minecraft Hour
 
-**20:00** - [Code Golf](/prompts#mini-hacks)
+**20:00** - [Code Golf](/codegolf)
 
 ## Sunday
 

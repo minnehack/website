@@ -11,7 +11,7 @@ Given an a positive integer N>1:
 
 Write a program that produces a triangle of size N in the fewest amount of bytes possible.
 The output for N<=1 is not defined (so it doesn't matter what output your program gives for integers less than 2),
-but for N>=2, your triangle should have N "_" characters, N "/" characters, and N "\" characters.
+but for N>=2, your triangle should have N "_" characters, N "/" characters, and N "\\" characters.
 
 An example of the output your program should produce for N = 2, N = 3, and N = 4 is given below:
 
