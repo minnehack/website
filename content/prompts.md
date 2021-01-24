@@ -27,9 +27,9 @@ The CTF prompt can be found [here](/ctf).
 The Mini-Hack events (see the [schedule](/schedule) and [stream](https://www.twitch.tv/minnehack)
 for details!) have a separate prize pool.
 
-* Code Golf
+* [Code Golf](/codegolf)
   * Blue Yeti Microphone & Logitech HD Pro Webcam C920
-* CTF
+* [CTF](/ctf)
   * ~~Pinephone Convergence Edition~~ Already claimed!
   * MinneHack CTF badge -- see [the ctf page](/ctf) for details.
 * Résumé Roast
