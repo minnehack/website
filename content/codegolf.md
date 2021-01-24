@@ -1,6 +1,6 @@
 +++
 template = "page.html"
-title = "CTF"
+title = "Code Golf"
 [extra]
 navbar = "page"
 +++

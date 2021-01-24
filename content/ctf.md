@@ -10,7 +10,7 @@ navbar = "page"
 ## We have a winner!
 **Someone has already completed the CTF Mini-Hack and earned the top prize**. Don't worry, all hope
 is not lost! If you have solved it and you would like a special **MinneHack CTF badge** in luxurious
-**Grey PETG**, email acmctf at unown dot me with your physical address before the end of the
+**Grey PETG**, email acmctf at unown dot me (from the email address that you submitted to the endpoint with the correct flag!) with your physical address before the end of the
 hackathon. Offer valid for the Continental US only.
 
 Andrew, the ACM UMN Webmaster, created a super cool MinneHack CTF badge that he wants to print out
