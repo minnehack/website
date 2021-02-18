@@ -7,10 +7,6 @@ navbar = "page"
 
 # Schedule
 
-[The prompts](/prompts) have been released.
-
-Watch the stream on [Twitch](https://twitch.tv/minnehack)!
-
 ## Saturday
 
 **12:00** - Opening statements
