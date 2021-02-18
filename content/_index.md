@@ -15,7 +15,7 @@ navbar = "title"
                 <small>24 Hours</small>
 				Online
             </h3>
-			<br/><br/>
+			<br/>
         </div>
     </div>
 </div>
