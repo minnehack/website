@@ -7,7 +7,7 @@ navbar = "page"
 
 # Sponsors
 
-MinneHack is a regional hackathon – a software development competition. Most hackathons take place over a 24 hour period and include any number of teams that are comprised of up to four students. Previous iterations of MinneHack (including our first annual hackathon, originally branded UHack) have attracted 300+ students from 14 colleges and 5 different states – making it the largest hackathon in the Twin Cities! These students consist of motivated software engineers – many of whom are eligible for recruiting.
+MinneHack is a regional hackathon – a software development competition. Most hackathons take place over a 24 hour period and include any number of teams that are comprised of up to four students. Previous iterations of MinneHack (including our first annual hackathon, originally branded UHack) have attracted 300+ students from over 100 schools around the world in a single event, making it the largest hackathon in the Twin Cities! These students consist of motivated software engineers, many of whom are eligible for recruiting.
 
 ## Why sponsor?
     
