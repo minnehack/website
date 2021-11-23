@@ -20,7 +20,10 @@ MinneHack is a unique opportunity to connect with the most talented and passiona
 
 We also offer additional benefits based on sponsorship commitment.
 
-<a href="/sponsor2021.pdf">See our sponsorship document here if you are interested in having your organization sponsor MinneHack!</a>
+See our sponsorship documents here if you are interested in having your organization sponsor MinneHack!  
+<a href="/2022-Sponsorship-Prospectus.pdf">Sponsorship Prospectus</a>
+<a href="/2022-Sponsorship-Tier-Outline.pdf">Sponsorship Tier Outline</a>
+<a href="/2022-Sponsorship-Confirmation-form.pdf">Sponsorship Confirmation Form</a>
 
 Click on our sponsors' logos to learn more about them and their missions.
 <div class="sponsors sponsorship">
