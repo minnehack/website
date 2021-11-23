@@ -25,21 +25,16 @@ We also offer additional benefits based on sponsorship commitment.
 Click on our sponsors' logos to learn more about them and their missions.
 <div class="sponsors sponsorship">
     <div class="platinum box" style="display: none;">
-		<h2>Platinum</h2>
-	    <div class="sponsorship-info">
+	<h2>Platinum</h2>
+		<div class="sponsorship-info">
 			<p>None yet.</p>
 		</div>
 	</div>
     <div class="gold box">
 		<h2>Gold</h2>
 		<div class="sponsorship-info sponsor-logos">
-			<a href="/sponsors-meta#ecolab"><img src="/images/ecolab.svg"></img></a>
-		</div>
-	</div>
-	<div class="electrum box">
-		<h2>Electrum</h2>
-		<div class="sponsorship-info sponsor-logos">
-			<a href="/sponsors-meta#cigna"><img src="/images/cigna.svg"></img></a>
+			<p>None yet.</p>
+<!-- 			<a href="/sponsors-meta#ecolab"><img src="/images/ecolab.svg"></img></a> -->
 		</div>
 	</div>
 	<div class="silver box">
@@ -51,8 +46,9 @@ Click on our sponsors' logos to learn more about them and their missions.
 	<div class="bronze box">
 		<h2>Bronze</h2>
 		<div class="sponsorship-info sponsor-logos">
-			<a href="/sponsors-meta#bestbuy"><img src="/images/bestbuy.png"></img></a>
-			<a href="/sponsors-meta#cat"><img src="/images/cat.jpg"></img></a>
+			<p>None yet.</p>
+<!-- 			<a href="/sponsors-meta#bestbuy"><img src="/images/bestbuy.png"></img></a> -->
+<!-- 			<a href="/sponsors-meta#cat"><img src="/images/cat.jpg"></img></a> -->
 		</div>
 	</div>
 </div>
