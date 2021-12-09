@@ -11,7 +11,7 @@ Complete the below form to register for the hackathon.
 
 This form is not GDPR-compliant. If you are an EU data subject, contact us via email (<a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>) to register.
 
-<form action="/api/registration" method="POST" class="signupform2" enctype="multipart/form-data">
+<form action="/api/register" method="POST" class="signupform2" enctype="multipart/form-data">
 	<div class="row">
 		<div class="col-12"><input type="email" name="email" placeholder="Email address (you@example.com)*" autocomplete="email" autofocus required /></div>
 	</div>
