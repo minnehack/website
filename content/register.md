@@ -11,13 +11,13 @@ Complete the below form to register for the hackathon.
 
 This form is not GDPR-compliant. If you are an EU data subject, contact us via email (<a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>) to register.
 
-<form action="/api/registration/initial" method="POST" class="signupform2" enctype="multipart/form-data">
+<form action="/api/registration" method="POST" class="signupform2" enctype="multipart/form-data">
 	<div class="row">
 		<div class="col-12"><input type="email" name="email" placeholder="Email address (you@example.com)*" autocomplete="email" autofocus required /></div>
 	</div>
 	<div class="row">
-		<div class="col-6"><input type="text" name="firstName" placeholder="First Name*" autocomplete="given-name" required /></div>
-		<div class="col-6"><input type="text" name="lastName" placeholder="Last Name*" autocomplete="family-name" required /></div>
+		<div class="col-6"><input type="text" name="first_name" placeholder="First Name*" autocomplete="given-name" required /></div>
+		<div class="col-6"><input type="text" name="last_name" placeholder="Last Name*" autocomplete="family-name" required /></div>
 	</div>
 	<div class="row">
 		<div class="col-12"><input type="text" class="typeahead" name="gender" placeholder="Gender*" list="hosting-plan" required /></div>
@@ -71,7 +71,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 	</div>
 	<div class="row">
 		<div class="col-12">
-			<select multiple name="dietaryRestrictions" data-role="tagsinput" placeholder="Dietary Restrictions"></select>
+			<select multiple name="dietary_restrictions" data-role="tagsinput" placeholder="Dietary Restrictions"></select>
 		</div>
 	</div>
 	<div class="row">
