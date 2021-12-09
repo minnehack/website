@@ -1,6 +1,7 @@
 +++
 template = "page.html"
 title = "Register"
+draft = true
 [extra]
 navbar = "page"
 +++
