@@ -21,7 +21,7 @@ navbar = "title"
 </div>
 
 <div class="container">
-    <h1 style="text-align: center; margin-bottom: 1.5em;">24&nbsp;HOURS OF HACKING. $6,000&nbsp;IN&nbsp;PRIZES. TOTALLY&nbsp;<span title="minus travel lol">FREE</span>.</h1>
+    <h1 style="text-align: center; margin-bottom: 1.5em;">24&nbsp;HOURS OF HACKING. PRIZES. TOTALLY&nbsp;<span title="minus travel lol">FREE</span>.</h1>
     <div class="row" id="faq">
         <div class="col-6">
             <div class="box">
