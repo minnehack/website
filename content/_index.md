@@ -12,7 +12,7 @@ navbar = "title"
             <p>&nbsp;</p>
             <h3 id="dates">
                 January 22nd-23rd (4PM-8PM)<br/>
-                <small>24 Hours of Hacking</small><a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>
+                <small>24 Hours of Hacking </small><a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>
             </h3>
 			<br/>
             <a class="btn" href="/register">Register now!</a>
