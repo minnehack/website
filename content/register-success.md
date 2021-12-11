@@ -9,5 +9,4 @@ navbar = "page"
 
 ## You've successfully registered for MinneHack 2022.
 
-You should recieve an email within the next 24 hours containing login details for [our chat
-platform](https://chat.minnehack.io). See you online!
+Keep an eye on the email you used for registration - we will be sending out important communications, and **you will need to confirm your attendance** shortly before the hackathon.
