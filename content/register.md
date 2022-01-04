@@ -109,7 +109,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12"><label class="container"><input type="checkbox" name="mlhpriv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, MLH administration, pre and post-event informational e-mails, and occasional messages about hackathons. I further agree to the terms of the <a href="https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/contest-terms.md">MLH Contest Terms and Conditions</a>, the <a href="https://mlh.io/privacy">MLH Privacy Policy,</a> and the <a href="/privacypolicy">MinneHack 2022 Privacy Policy.</a></label></div>
 	</div>
 	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="mlh_mailing_list" required /><span class="checkmark"></span>I authorize MLH to send me pre- and post-event informational emails, which contain free credit and opportunities from their partners.</label></div>
+		<div class="col-12"><label class="container"><input type="checkbox" name="mlh_mailing_list" /><span class="checkmark"></span>I authorize MLH to send me pre- and post-event informational emails, which contain free credit and opportunities from their partners.</label></div>
 		<span>Acceptance of this field is optional.</span>
 	</div>
 	<div class="row">
