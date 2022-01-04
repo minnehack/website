@@ -52,7 +52,7 @@ $(document).ready(function() {
 	$("#bus").change(checkbus);
 
 	let checkminor = function() {
-		if ($("#age").val() < 18) {
+		if ($("#age").val() !== "" && $("#age").val() < 18) {
 			$("#minor-nag").show();
 		} else {
 			$("#minor-nag").hide();
@@ -61,7 +61,7 @@ $(document).ready(function() {
 
 	checkminor();
 
-	$("#minor").change(checkminor);
+	$("#age").change(checkminor);
 
 	let checktransit = function() {
 		console.log($("#driving").prop('checked'), $("#bus").prop('checked'));
