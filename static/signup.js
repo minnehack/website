@@ -52,7 +52,7 @@ $(document).ready(function() {
 	$("#bus").change(checkbus);
 
 	let checkminor = function() {
-		if ($("#minor").prop('checked')) {
+		if ($("#age").val() < 18) {
 			$("#minor-nag").show();
 		} else {
 			$("#minor-nag").hide();

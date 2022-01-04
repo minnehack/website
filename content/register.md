@@ -34,6 +34,23 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12"><input type="text" class="typeahead" name="school" placeholder="School*" required pattern=".*[^\s].*" /></div>
 	</div>
 	<div class="row">
+		<div class="col-3">Level of Study:</div><div class="col-9"><select name="level_of_study" style="width: 100%;">
+			<option value="Middle School">Middle School</option>
+			<option value="High School">High School</option>
+			<option value="Undergraduation / Bachelors">Undergraduation / Bachelors</option>
+			<option value="Graduation / Masters">Graduation / Masters</option>
+			<option value="PhD / Doctorate">PhD / Doctorate</option>
+			<option value="Post Doctorate">Post Doctorate</option>
+		</select></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="text" name="country" placeholder="Country of Residence" required /></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><input type="number" id="age" name="age" placeholder="Age" required /></div>
+		<div id="minor-nag" style="color:red; font-weight: bold;"><br/> &#8594; Because you are registering as a minor, you must bring a <a href="/minorwaiver.pdf" target="_blank">release signed by your guardian</a> to the event or email it to <a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>. You will not be admitted to the event without this, even in circumstances where a walk-in would be.<br/></div>
+	</div>
+	<div class="row">
 		<div class="col-3">T-Shirt Size:</div><div class="col-9"><select name="tshirt" style="width: 100%;">
 			<option value="xs">XS</option>
 			<option value="s">S</option>
@@ -67,9 +84,6 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		</select><p> &#8594; <label class="container"><input type="checkbox" name="bus-strict" /><span class="checkmark"></span> I will not be able to attend if the bus is not available</label></p></div>
 	</div> -->
 	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="minor" id="minor"/><span class="checkmark"></span> I will be a minor (under 18) as of January 22nd, 2022</label><div id="minor-nag" style="color:red; font-weight: bold;"><br/> &#8594; Because you are registering as a minor, you must bring a <a href="/minorwaiver.pdf" target="_blank">release signed by your guardian</a> to the event or email it to <a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>. You will not be admitted to the event without this, even in circumstances where a walk-in would be.<br/></div></div>
-	</div>
-	<div class="row">
 		<div class="col-12">
 			<select multiple name="dietary_restrictions" data-role="tagsinput" placeholder="Dietary Restrictions"></select>
 		</div>
@@ -92,7 +106,11 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12"><label class="container"><input type="checkbox" name="coc" required /><span class="checkmark"></span> I have read and agree to the <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH Code of Conduct</a>.</label></div>
 	</div>
 	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="mlhpriv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, MLH administration, pre and post-event informational e-mails, and occasional messages about hackathons. I agree to the terms of the <a href="https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/contest-terms.md">MLH Contest Terms and Conditions</a>, the <a href="https://mlh.io/privacy">MLH Privacy Policy,</a> and the <a href="/privacypolicy">MinneHack 2022 Privacy Policy.</a></label></div>
+		<div class="col-12"><label class="container"><input type="checkbox" name="mlhpriv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, MLH administration, pre and post-event informational e-mails, and occasional messages about hackathons. I further agree to the terms of the <a href="https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/contest-terms.md">MLH Contest Terms and Conditions</a>, the <a href="https://mlh.io/privacy">MLH Privacy Policy,</a> and the <a href="/privacypolicy">MinneHack 2022 Privacy Policy.</a></label></div>
+	</div>
+	<div class="row">
+		<div class="col-12"><label class="container"><input type="checkbox" name="mlh_mailing_list" required /><span class="checkmark"></span>I authorize MLH to send me pre- and post-event informational emails, which contain free credit and opportunities from their partners.</label></div>
+		<span>Acceptance of this field is optional.</span>
 	</div>
 	<div class="row">
 		<div class="col-12">
