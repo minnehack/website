@@ -60,10 +60,10 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 			<option value="xxl">XXL</option>
 		</select></div>
 	</div>
-	<div class="row">
+	<div class="row" hidden>
 		<div class="col-12"><label class="container"><input type="checkbox" name="driving" id="driving"/><span class="checkmark"></span> I plan to drive to MinneHack 2022 and park on campus</label></div>
 	</div>
-	<div class="row">
+	<div class="row" hidden>
 		<div class="col-12"><label class="container"><input type="checkbox" name="reimbursement" id="reimbursment" /><span class="checkmark"></span> I would like to apply for travel reimbursement</label></div>
 	</div>
 	<div class="row" id="reimbursement-expd" style="display: none;">
@@ -99,8 +99,8 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="student" required /><span class="checkmark"></span> I am currently a student or graduated within the last 12 months.</label></div>
 	</div>
-	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="covidack" required /><span class="checkmark"></span> I acknowledge that I will be required to present proof of vaccination at entry to attend this event.</label></div>
+	<div class="row" hidden>
+		<div class="col-12"><label class="container"><input type="checkbox" name="covidack" required checked/><span class="checkmark"></span> I acknowledge that I will be required to present proof of vaccination at entry to attend this event.</label></div>
 	</div>
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="coc" required /><span class="checkmark"></span> I have read and agree to the <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH Code of Conduct</a>.</label></div>

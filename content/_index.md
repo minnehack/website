@@ -12,7 +12,7 @@ navbar = "title"
             <p>&nbsp;</p>
             <h3 id="dates">
                 January 22nd-23rd (4PM-8PM)<br/>
-                <small>24 Hours of Hacking </small><a href="https://goo.gl/maps/vC4Xz4CvBzr" style="color:#7777ff;">Memorial Union Great Hall</a>
+                <small>24 Hours of Hacking </small><a href="/register" style="color:#7777ff;">Online!</a>
             </h3>
 			<br/>
             <a class="btn" href="/register">Register now!</a>
@@ -21,7 +21,7 @@ navbar = "title"
 </div>
 
 <div class="container">
-    <h1 style="text-align: center; margin-bottom: 1.5em;">24&nbsp;HOURS OF HACKING. PRIZES. TOTALLY&nbsp;<span title="minus travel lol">FREE</span>.</h1>
+    <h1 style="text-align: center; margin-bottom: 1.5em;">24&nbsp;HOURS OF HACKING. OVER $9000&nbsp;IN&nbsp;PRIZES. TOTALLY&nbsp;<span title="minus travel lol">FREE</span>.</h1>
     <div class="row" id="faq">
         <div class="col-6">
             <div class="box">

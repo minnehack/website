@@ -9,11 +9,7 @@ navbar = "page"
 
 ### Is MinneHack an in-person event this year?
 
-**Yes**.
-
-### Will MinneHack allow submissions from purely virtual teams?
-
-No.
+No. MinneHack is now a virtual event due to the continuing COVID-19 pandemic.
 
 ### How does topic selection work?
 
