@@ -6,8 +6,8 @@ navbar = "page"
 +++
 
 # CTF
-
-## We have a winner!
+More information regarding the MinneHack 2022 CTF will be announced during MinneHack's kickoff event!
+<!-- ## We have a winner!
 **Someone has already completed the CTF Mini-Hack and earned the top prize**. Don't worry, all hope
 is not lost! If you have solved it and you would like a special **MinneHack CTF badge** in luxurious
 **Grey PETG**, email acmctf at unown dot me (from the email address that you submitted to the endpoint with the correct flag!) with your physical address before the end of the
@@ -22,7 +22,5 @@ Since OpenSCAD files are version controllable, **he kept track of all his work w
 <http://ctf.mh.cult.fish>
 
 You're looking for a flag of the format `flag{sample_flag_text}`. _Make sure to include the `flag{}`
-text in your submission, otherwise the flag won't be accepted by the backend_.
+text in your submission, otherwise the flag won't be accepted by the backend_. -->
 
-
-<a href="/prompts">Back to prompts</a>

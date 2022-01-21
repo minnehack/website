@@ -1,32 +1,33 @@
 {% macro links(signuphl=false) %}
-    <li><a href="/register">Register</a</li>
-	<li><a href="/faq">FAQ</a></li>
-	<li><a href="/sponsors">Sponsors</a></li>
-    <li><a href="/schedule">Schedule</a></li>
-    <li><a href="http://mlh.io/code-of-conduct">Code of Conduct</a></li>
+<li><a href="/register">Register</a< /li>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/sponsors">Sponsors</a></li>
+<li><a href="/schedule">Schedule</a></li>
+<li><a href="/prizes">Prizes</a></li>
+<li><a href="http://mlh.io/code-of-conduct">Code of Conduct</a></li>
 {% endmacro %}
 
 {% macro navbar(style) %}
-    <div class="navbar">
-        <div class="container">
-            {% if style == "title" %}
-                <ul class="title links">
-                    {{ includes::links(signuphl=false) }}
-                </ul>
-            {% elif style == "page" %}
-                <table>
-                    <tr>
-                        <td class="title">
-                            <h1><a href="/">MinneHack {{ config.extra.year }}</a></h1>
-                        </td>
-                        <td class="linkcell">
-                            <ul class="page links">
-                    			{{ includes::links(signuphl=true) }}
-                            </ul>
-                        </td>
-                    </tr>
-                </table>
-            {% endif %}
-        </div>
+<div class="navbar">
+    <div class="container">
+        {% if style == "title" %}
+        <ul class="title links">
+            {{ includes::links(signuphl=false) }}
+        </ul>
+        {% elif style == "page" %}
+        <table>
+            <tr>
+                <td class="title">
+                    <h1><a href="/">MinneHack {{ config.extra.year }}</a></h1>
+                </td>
+                <td class="linkcell">
+                    <ul class="page links">
+                        {{ includes::links(signuphl=true) }}
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        {% endif %}
     </div>
+</div>
 {% endmacro %}
