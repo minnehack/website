@@ -19,7 +19,7 @@ td:nth-child(2) {
 
 | Time     |         | Thing | |
 |----------|---------|---------------------|-|
-| Saturday | 6:00 PM | Find A Team | Looking for a team or need an extra member or two? This is the event for you! |
+| Friday   | 6:00 PM | Find A Team | Looking for a team or need an extra member or two? This is the event for you! |
 | Saturday | 3:00 PM | Livestream Begins | MinneHack is live on twitch.tv/MinneHack - the stream will go live an hour before kickoff! |
 | Saturday | 4:00 PM | Kickoff! | The start of MinneHack! At this time we will introduce MinneHack, go over how the event will work, the prompt, and what we expect from a submission. Prizes and extra events taking place (called MiniHacks) will be covered. We will also have a short time for our partner organizations to speak. |
 | Saturday | 4:15 PM | Prompt is Posted | The prompt for MinneHack 2022 will be posted at this time, and can be found at https://minnehack.io/prompt |

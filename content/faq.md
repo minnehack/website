@@ -11,6 +11,14 @@ navbar = "page"
 
 No. MinneHack is now a virtual event due to the continuing COVID-19 pandemic.
 
+### Can we still win stuff?
+
+Yes! We will ship [prizes](/prizes) directly to your home, albeit **to the continental United States only**.
+
+### Will we get swag or t-shirts for participating?
+
+No, sorry. If you're a UMNTC student, maybe drop on by [the ACM room](https://acm.umn.edu) sometime after the pandemic?
+
 ### How does topic selection work?
 
 The topic selection process involves the MinneHack staff and MinneHack sponsors. The chosen topic will remain secret until it is announced during the keynote speech.

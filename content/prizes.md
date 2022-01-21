@@ -19,7 +19,7 @@ Check at least one of these boxes, and you're guaranteed to win!
 
 ### What if I don't win?
 
-Smaller-scale events ("Mini Hacks") will be hosted during the hackathon [**on the Twitch stream**](https://twitch.tv/minnehack). Winners of those events will be announced as they are awarded, but rest assured: they are equally as cool as the main prizes.
+Smaller-scale events ("Mini Hacks") will be hosted during the hackathon [**on the Twitch stream**](https://twitch.tv/minnehack). The prizes for those events will be announced as they are awarded, but rest assured: they are equally as cool as the main prizes.
 
 ## 1st Place
 
