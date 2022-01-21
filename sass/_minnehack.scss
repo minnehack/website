@@ -165,6 +165,7 @@ body {
 
 .row#faq, .sponsors {
     div.box.platinum { @include colored-box(#D0D0D0, 15%); }
+    div.box.target { @include colored-box(#FF0000, 30%); }
     div.box.gold { @include colored-box(#BB9922, 30%); }
 	div.box.electrum { @include colored-box(#AA995E, 30%); }
     div.box.silver{ @include colored-box(#999999, 30%); }
@@ -225,6 +226,10 @@ footer {
     margin: 1em;
     display: inline-block;
 }
+
+/* TODO(andrew): ?? */
+.target .sponsor-logos > img { width: 17em; }
+.target .sponsor-logos > a > img { width: 17em; }
 
 .platinum .sponsor-logos > img { width: 22em; }
 .platinum .sponsor-logos > a > img { width: 22em; }

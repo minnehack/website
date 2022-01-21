@@ -27,10 +27,10 @@ See our sponsorship documents here if you are interested in having your organiza
 [Confirmation Form](/2022-Sponsorship-Confirmation-form.pdf)
 
 <div class="sponsors sponsorship">
-    <div class="platinum box" style="display: none;">
-	<h2>Platinum</h2>
-		<div class="sponsorship-info">
-			<p>None yet.</p>
+    <div class="target box">
+	<h2>With <i>Generous</i> Support From</h2>
+		<div class="sponsorship-info sponsor-logos">
+			<a href="https://target.com"><img src="/images/target.svg"></img></a>
 		</div>
 	</div>
     <div class="gold box">
