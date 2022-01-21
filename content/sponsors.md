@@ -52,6 +52,7 @@ See our sponsorship documents here if you are interested in having your organiza
 			<a href="https://www.cat.com/en_US.html"><img src="/images/cat.jpg"></img></a>
 			<a href="https://www.veritas.com"><img src="/images/veritas.svg"></img></a>
 			<a href="https://www.brooksource.com"><img src="/images/brooksource.png"></img></a>
+			<a href="https://www.spscommerce.com"><img src="/images/sps.svg"></img></a>
 		</div>
 	</div>
 </div>
