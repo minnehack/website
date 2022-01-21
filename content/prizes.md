@@ -11,11 +11,11 @@ navbar = "page"
 
 MinneHack's sponsors and organizers will evaluate each project submission and award prizes to teams based on a variety of factors. Those factors include, but are not limited to:
 
-- [ ] Adherence to the prompt
-- [ ] Creativity
-- [ ] Coolness
+- [ ] Adherence to the prompt <a href="#dscl"><sup>*</sup></a>
+- [ ] Creativity <a href="#dscl"><sup>*</sup></a>
+- [ ] Coolness <a href="#dscl"><sup>*</sup></a>
 
-Check at least one of these boxes, and you're guaranteed to win!
+Check at least one of these boxes, and you're guaranteed<a href="#dscl"><sup>*</sup></a> to win!
 
 ### What if I don't win?
 
@@ -74,3 +74,7 @@ Awarded by MinneHack staff for creativity.
   - Makes physical objects out of plastic
   - Makes it very easy to do so
   - See above
+  
+</br></br> 
+<hr>
+<small id="dscl"><sup>*</sup> As evaluated by MinneHack organizers and sponsors. We (the MinneHack organizers) reserve the right to award prizes at our sole discretion. If you're reading this, don't worry about it and just have fun!</small>
