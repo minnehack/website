@@ -10,6 +10,8 @@ navbar = "page"
 Find out what's happening and when.
 
 <style>
+table { display: inline; }
+
 td:nth-child(2) {
     white-space: nowrap;
 }
