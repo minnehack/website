@@ -10,14 +10,14 @@ navbar = "page"
 Find out what's happening and when.
 
 <style>
-table { display: inline;}
+table { display: inline; }
 
 td, th {
     border: 1px solid black; 
     padding: 1rem;
 }
 
-td:nth-child(2) {
+td:nth-child(1), td:nth-child(2) {
     white-space: nowrap;
 }
 </style>
@@ -30,9 +30,9 @@ td:nth-child(2) {
 ### Saturday (January 22, 2022)
 | Time     | Event   | Description |
 |----------|---------|---------------------|
-| 3:00 PM | Livestream Begins | MinneHack is live on twitch.tv/MinneHack - the stream will go live an hour before kickoff! |
+| 3:00 PM | Livestream Begins | MinneHack is live on <https://twitch.tv/MinneHack> - the stream will go live an hour before kickoff! |
 | 4:00 PM | Kickoff! | The start of MinneHack! At this time we will introduce MinneHack, go over how the event will work, the prompt, and what we expect from a submission. Prizes and extra events taking place (called MiniHacks) will be covered. We will also have a short time for our partner organizations to speak. |
-4:15 PM | Prompt is Posted | The prompt for MinneHack 2022 will be posted at this time, and can be found at https://minnehack.io/prompt |
+4:15 PM | Prompt is Posted | The prompt for MinneHack 2022 will be posted at this time, and can be found at <https://minnehack.io/prompt> |
 4:30 PM | Team Forming in Discord | Individuals without a pre-formed team are invited to join the Discord voice channel #find-team to find others seeking a group for this year's competition. |
 4:30 PM | First Mentor Shift Begins | Mentors from our sponsoring organizations will start being available. Most mentors will be logging off by 10:00PM CST, but a few may stay later. |
 8:00 PM | CTF Opens | MinneHack partners MLH and USAF will be running a Capture the Flag event at this time. This is a cyber security challenge where you will solve puzzles and exploit vulnerabilities. |
