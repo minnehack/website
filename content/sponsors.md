@@ -36,22 +36,22 @@ See our sponsorship documents here if you are interested in having your organiza
     <div class="gold box">
 		<h2>Gold</h2>
 		<div class="sponsorship-info sponsor-logos">
- 			<a href="/sponsors-meta#ecolab"><img src="/images/ecolab.svg"></img></a>
+ 			<a href="https://www.ecolab.com"><img src="/images/ecolab.svg"></img></a>
 		</div>
 	</div>
 	<div class="silver box">
 		<h2>Silver</h2>
 		<div class="sponsorship-info sponsor-logos">
-			<img src="/images/metlo.svg"></img>
+			<a href="https://www.metlo.com"><img src="/images/metlo.svg"></img></a>
 		</div>
 	</div>
 	<div class="bronze box">
 		<h2>Bronze</h2>
 		<div class="sponsorship-info sponsor-logos">
-			<a href="/sponsors-meta#bestbuy"><img src="/images/bestbuy.png"></img></a>
-			<a href="/sponsors-meta#cat"><img src="/images/cat.jpg"></img></a>
-			<img src="/images/veritas.svg"></img>
-			<img src="/images/brooksource.png"></img>
+			<a href="https://www.bestbuy.com"><img src="/images/bestbuy.png"></img></a>
+			<a href="https://www.cat.com/en_US.html"><img src="/images/cat.jpg"></img></a>
+			<a href="https://www.veritas.com"><img src="/images/veritas.svg"></img></a>
+			<a href="https://www.brooksource.com"><img src="/images/brooksource.png"></img></a>
 		</div>
 	</div>
 </div>
