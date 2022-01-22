@@ -20,11 +20,7 @@ MinneHack is a unique opportunity to connect with the most talented and passiona
 
 We also offer additional benefits based on sponsorship commitment.
 
-See our sponsorship documents here if you are interested in having your organization sponsor MinneHack!  
-
-[Prospectus](/2022-Sponsorship-Prospectus.pdf)
-[Tier Outline](/2022-Sponsorship-Tier-Outline.pdf)
-[Confirmation Form](/2022-Sponsorship-Confirmation-form.pdf)
+If you are interested in sponsoring MinneHack in future years, contact us at [acm@umn.edu](acm@umn.edu)
 
 <div class="sponsors sponsorship">
     <div class="target box">
