@@ -14,8 +14,9 @@ navbar = "title"
                 January 22nd-23rd (4PM-8PM)<br/>
                 <small>24 Hours of Hacking </small><a href="/register" style="color:#7777ff;">Online!</a>
             </h3>
-			<br/>
-            <a class="btn" href="/register">Register now!</a>
+            <br/>
+			<iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+			<noscript><a class="btn" href="https://www.twitch.tv/minnehack">Watch the stream on Twitch!</a></noscript>
         </div>
     </div>
 </div>
