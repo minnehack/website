@@ -2,8 +2,9 @@
 <li><a href="/faq">FAQ</a></li>
 <li><a href="/sponsors">Sponsors</a></li>
 <li><a href="/schedule">Schedule</a></li>
+<li><a href="/prizes">Prizes</a></li>
 <li><a href="http://mlh.io/code-of-conduct">Code of Conduct</a></li>
-<li><a class="btn" href="https://minnehack-2022.devpost.com">DevPost</a></li>
+{% if signuphl %}<li><a href="/register">Register</a></li>{% endif %}
 {% endmacro %}
 
 {% macro navbar(style) %}
