@@ -22,33 +22,35 @@ We also offer additional benefits based on sponsorship commitment.
 
 If you are interested in sponsoring MinneHack in future years, contact us at [acm@umn.edu](acm@umn.edu)
 
-<div class="sponsors sponsorship">
-    <div class="target box">
-	<h2>With <i>Generous</i> Support From</h2>
-		<div class="sponsorship-info sponsor-logos">
-			<a href="https://target.com"><img src="/images/target.svg"></img></a>
-		</div>
-	</div>
-    <div class="gold box">
-		<h2>Gold</h2>
-		<div class="sponsorship-info sponsor-logos">
- 			<a href="https://www.ecolab.com"><img src="/images/ecolab.svg"></img></a>
-		</div>
-	</div>
-	<div class="silver box">
-		<h2>Silver</h2>
-		<div class="sponsorship-info sponsor-logos">
-			<a href="https://www.metlo.com"><img src="/images/metlo.svg"></img></a>
-		</div>
-	</div>
-	<div class="bronze box">
-		<h2>Bronze</h2>
-		<div class="sponsorship-info sponsor-logos">
-			<a href="https://www.bestbuy.com"><img src="/images/bestbuy.png"></img></a>
-			<a href="https://www.cat.com/en_US.html"><img src="/images/cat.jpg"></img></a>
-			<a href="https://www.veritas.com"><img src="/images/veritas.svg"></img></a>
-			<a href="https://www.brooksource.com"><img src="/images/brooksource.png"></img></a>
-			<a href="https://www.spscommerce.com"><img src="/images/sps.svg"></img></a>
-		</div>
-	</div>
-</div>
+TBD
+
+<!-- <div class="sponsors sponsorship"> -->
+<!--     <div class="target box"> -->
+<!-- 	<h2>With <i>Generous</i> Support From</h2> -->
+<!-- 		<div class="sponsorship-info sponsor-logos"> -->
+<!-- 			<a href="https://target.com"><img src="/images/target.svg"></img></a> -->
+<!-- 		</div> -->
+<!-- 	</div> -->
+<!--     <div class="gold box"> -->
+<!-- 		<h2>Gold</h2> -->
+<!-- 		<div class="sponsorship-info sponsor-logos"> -->
+<!--  			<a href="https://www.ecolab.com"><img src="/images/ecolab.svg"></img></a> -->
+<!-- 		</div> -->
+<!-- 	</div> -->
+<!-- 	<div class="silver box"> -->
+<!-- 		<h2>Silver</h2> -->
+<!-- 		<div class="sponsorship-info sponsor-logos"> -->
+<!-- 			<a href="https://www.metlo.com"><img src="/images/metlo.svg"></img></a> -->
+<!-- 		</div> -->
+<!-- 	</div> -->
+<!-- 	<div class="bronze box"> -->
+<!-- 		<h2>Bronze</h2> -->
+<!-- 		<div class="sponsorship-info sponsor-logos"> -->
+<!-- 			<a href="https://www.bestbuy.com"><img src="/images/bestbuy.png"></img></a> -->
+<!-- 			<a href="https://www.cat.com/en_US.html"><img src="/images/cat.jpg"></img></a> -->
+<!-- 			<a href="https://www.veritas.com"><img src="/images/veritas.svg"></img></a> -->
+<!-- 			<a href="https://www.brooksource.com"><img src="/images/brooksource.png"></img></a> -->
+<!-- 			<a href="https://www.spscommerce.com"><img src="/images/sps.svg"></img></a> -->
+<!-- 		</div> -->
+<!-- 	</div> -->
+<!-- </div> -->
