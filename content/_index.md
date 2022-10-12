@@ -11,7 +11,7 @@ navbar = "title"
             <h2 id="tagline">The Biggest Hackathon in Minnesota!</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
-                January 28th-29th (4PM-8PM)<br/>
+                January 22-23 (2PM-6PM)<br/>
                 <!-- <small>24 Hours of Hacking </small><a href="/register" style="color:#7777ff;">Online!</a> -->
             </h3>
             <br/>
