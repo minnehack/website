@@ -85,7 +85,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12">(You may update your resume/upload one later if you wish.)</div>
 	</div>
     <div class="row">
-        <div class="col-12"><input type="text" name="discord" placeholder="Discord tag: user#xxxx"/></div>
+        <div class="col-12"><input type="text" name="discord_tag" placeholder="Discord tag: user#xxxx"/></div>
 	</div>
 	<hr/>
 	<div class="row">
