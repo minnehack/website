@@ -60,10 +60,10 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 			<option value="xxl">XXL</option>
 		</select></div>
 	</div>
-	<div class="row" hidden>
-		<div class="col-12"><label class="container"><input type="checkbox" name="driving" id="driving"/><span class="checkmark"></span> I plan to drive to MinneHack 2022 and park on campus</label></div>
+	<div class="row">
+		<div class="col-12"><label class="container"><input type="checkbox" name="driving" id="driving"/><span class="checkmark"></span> I plan to drive to MinneHack 2023 and park on campus</label></div>
 	</div>
-	<div class="row" hidden>
+	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="reimbursement" id="reimbursment" /><span class="checkmark"></span> I would like to apply for travel reimbursement</label></div>
 	</div>
 	<div class="row" id="reimbursement-expd" style="display: none;">
@@ -72,17 +72,6 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 			<p> &#8594; <label class="container"><input type="checkbox" name="reimbursement-strict" /><span class="checkmark"></span> I will not be able to attend without reimbursement</label></p>
 		</div>
 	</div>
-	<!-- <div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="bus" id="bus" /><span class="checkmark"></span> We have historically sent a bus to Purdue University, University of Illinois Urbana Champagne, and University of Wisconsin Madison. Are you interested in taking the bus from any of these locations?
-		</label></div>
-	</div>
-	<div class="row" id="bus-expd" style="display: none;">
-		<div class="col-12"> &#8594; Which? <select name="bus-which">
-			<option value="purdue">Purdue University</option>
-			<option value="uic">University of Illinois Urbana Champagne</option>
-			<option value="uwm">University of Wisconsin Madison</option>
-		</select><p> &#8594; <label class="container"><input type="checkbox" name="bus-strict" /><span class="checkmark"></span> I will not be able to attend if the bus is not available</label></p></div>
-	</div> -->
 	<div class="row">
 		<div class="col-12">
 			<select multiple name="dietary_restrictions" data-role="tagsinput" placeholder="Dietary Restrictions"></select>
@@ -95,11 +84,14 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-3">Resume:</div><div class="col-9"><input type="file" name="resume"  style="width: 82%;" autocomplete="off"></div>
 		<div class="col-12">(You may update your resume/upload one later if you wish.)</div>
 	</div>
+    <div class="row">
+        <div class="col-12"><input type="text" name="discord" placeholder="Discord tag: user#xxxx"/></div>
+	</div>
 	<hr/>
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="student" required /><span class="checkmark"></span> I am currently a student or graduated within the last 12 months.</label></div>
 	</div>
-	<div class="row" hidden>
+	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="covidack" required checked/><span class="checkmark"></span> I acknowledge that I will be required to present proof of vaccination at entry to attend this event.</label></div>
 	</div>
 	<div class="row">
@@ -108,11 +100,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="mlhpriv" required /><span class="checkmark"></span>I authorize ACM UMN to share certain application/registration information for event administration, ranking, MLH administration, pre and post-event informational e-mails, and occasional messages about hackathons. I further agree to the terms of the <a href="https://github.com/MLH/mlh-policies/blob/master/prize-terms-and-conditions/contest-terms.md">MLH Contest Terms and Conditions</a>, the <a href="https://mlh.io/privacy">MLH Privacy Policy,</a> and the <a href="/privacypolicy">MinneHack 2022 Privacy Policy.</a></label></div>
 	</div>
-	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="mlh_mailing_list" /><span class="checkmark"></span>I authorize MLH to send me pre- and post-event informational emails, which contain free credit and opportunities from their partners.</label></div>
-		<span>Acceptance of this field is optional.</span>
-	</div>
-	<div class="row">
+    <div class="row">
 		<div class="col-12">
 			<div id="driving-bus-nag" style="color:red; font-weight: bold;">You have indicated that you intend to drive, and that you intend to take the bus. Please select at most one.<br/></div>
 			<input type="submit" value="Submit Registration" id="submit"/>
