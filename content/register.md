@@ -92,7 +92,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div class="col-12"><label class="container"><input type="checkbox" name="student" required /><span class="checkmark"></span> I am currently a student or graduated within the last 12 months.</label></div>
 	</div>
 	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="covidack" required checked/><span class="checkmark"></span> I acknowledge that I will be required to present proof of vaccination at entry to attend this event.</label></div>
+		<div class="col-12"><label class="container"><input type="checkbox" name="covidack" required /><span class="checkmark"></span> I acknowledge that I will be required to present proof of vaccination at entry to attend this event.</label></div>
 	</div>
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="coc" required /><span class="checkmark"></span> I have read and agree to the <a href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">MLH Code of Conduct</a>.</label></div>
