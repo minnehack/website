@@ -9,15 +9,11 @@ navbar = "page"
 
 ### Is MinneHack an in-person event this year?
 
-No. MinneHack is now a virtual event due to the continuing COVID-19 pandemic.
+MinneHack 2023 is a Hybrid event, meaning you can join either virtually or physically at the Great Hall in Coffman Memorial Union!
 
 ### Can we still win stuff?
 
 Yes! We will ship [prizes](/prizes) directly to your home, albeit **to the continental United States only**.
-
-### Will we get swag or t-shirts for participating?
-
-No, sorry. If you're a UMNTC student, maybe drop on by [the ACM room](https://acm.umn.edu) sometime after the pandemic?
 
 ### How does topic selection work?
 
