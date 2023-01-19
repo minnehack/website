@@ -12,7 +12,8 @@ navbar = "title"
             <p>&nbsp;</p>
             <h3 id="dates">
                 January 28-29 (2PM-6PM)<br/>
-                <!-- <small>24 Hours of Hacking </small><a href="/register" style="color:#7777ff;">Online!</a> -->
+                <small>Over 24 Hours of Hacking</small></br>
+		<a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color:#7777ff;">Memorial Union Great Hall</a>
             </h3>
             <br/>
             <!-- <iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe> -->

@@ -11,7 +11,13 @@ navbar = "page"
 
 MinneHack 2023 is a Hybrid event, meaning you can join either virtually or physically at the Great Hall in Coffman Memorial Union!
 
-### Can we still win stuff?
+### What's the address of the venue?
+
+Glad you asked! Here it is!
+
+300 Washington Ave SE, Minneapolis, MN 55455, United States
+
+### Can we win stuff?
 
 Yes! We will ship [prizes](/prizes) directly to your home, albeit **to the continental United States only**.
 
