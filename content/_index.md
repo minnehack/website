@@ -11,7 +11,8 @@ navbar = "title"
             <h2 id="tagline">The Biggest Hackathon in Minnesota!</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
-                January 28-29 (2PM-6PM)<br/>
+                January 28-29 (2PM-6PM) in the Coffman Memorial Union
+                Great Hall at the University of Minnesota!<br/>
                 <small>Over 24 Hours of Hacking</small></br>
 		<a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color:#7777ff;">Memorial Union Great Hall</a>
             </h3>
