@@ -63,9 +63,9 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="driving" id="driving"/><span class="checkmark"></span> I plan to drive to MinneHack 2023 and park on campus</label></div>
 	</div>
-	<div class="row">
-		<div class="col-12"><label class="container"><input type="checkbox" name="reimbursement" id="reimbursment" /><span class="checkmark"></span> I would like to apply for travel reimbursement</label></div>
-	</div>
+	<!-- <div class="row"> -->
+	<!-- 	<div class="col-12"><label class="container"><input type="checkbox" name="reimbursement" id="reimbursment" /><span class="checkmark"></span> I would like to apply for travel reimbursement</label></div> -->
+	<!-- </div> -->
 	<div class="row" id="reimbursement-expd" style="display: none;">
 		<div class="col-12"><div style="display: block;"> &#8594; <input style="width: 95%;" type="text" name="reimbursement-amount" placeholder="Estminated reimbursement amount (USD$)" /></div>
 			<div style="display: block;"> &#8594; <textarea style="width: 95%;" type="text" name="reimbursement-desc" placeholder="Describe your travel plans requiring reimbursement"></textarea></div>
