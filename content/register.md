@@ -60,7 +60,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 			<option value="xxl">XXL</option>
 		</select></div>
         <div style="text-align: center; font-size: 14px;">
-            *tshirt not guaranteed due to high attendance expectations.
+            *T-Shirt not guaranteed due to high attendance expectations.
         </div>
 	</div>
 	<div class="row">
