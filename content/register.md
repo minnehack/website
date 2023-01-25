@@ -51,7 +51,7 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 		<div id="minor-nag" style="color:red; font-weight: bold;"><br/> &#8594; Because you are registering as a minor, you must bring a <a href="/minorwaiver.pdf" target="_blank">release signed by your guardian</a> to the event or email it to <a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>. You will not be admitted to the event without this, even in circumstances where a walk-in would be.<br/></div>
 	</div>
 	<div class="row">
-		<div class="col-3">T-Shirt Size:</div><div class="col-9"><select name="tshirt" style="width: 100%;">
+		<div class="col-3">T-Shirt Size*:</div><div class="col-9"><select name="tshirt" style="width: 100%;">
 			<option value="xs">XS</option>
 			<option value="s">S</option>
 			<option value="m">M</option>
@@ -59,6 +59,9 @@ This form is not GDPR-compliant. If you are an EU data subject, contact us via e
 			<option value="xl">XL</option>
 			<option value="xxl">XXL</option>
 		</select></div>
+        <div style="text-align: center; font-size: 14px;">
+            *tshirt not guaranteed due to high attendance expectations.
+        </div>
 	</div>
 	<div class="row">
 		<div class="col-12"><label class="container"><input type="checkbox" name="driving" id="driving"/><span class="checkmark"></span> I plan to drive to MinneHack 2023 and park on campus</label></div>
