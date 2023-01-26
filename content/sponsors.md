@@ -29,13 +29,11 @@ TBD
 		<h2>Silver</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://www.ecolab.com"><img src="/images/ecolab.svg"></img></a>
-		</div>
-        <div class="sponsorship-info sponsor-logos">
  			<a href="https://www.genesis10.com"><img src="/images/genesis10.png"></img></a>
 		</div>
         <div class="sponsorship-info sponsor-logos">
 			<a href="https://www.bestbuy.com"><img src="/images/bestbuy.png"></img></a>
-        </div>
+		</div>
 	</div>
     <div class="bronze box">
 		<h2>Bronze</h2>
