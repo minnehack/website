@@ -31,7 +31,7 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
 		</div>
         <div class="sponsorship-info sponsor-logos">
 			<a href="https://www.bestbuy.com"><img src="/images/bestbuy.png"></img></a>
-            <span style="font-size: 40px; font-weight: bold;">my mom <3</span>
+            <span style="font-size: 40px; font-weight: bold;">my mom ❤️</span>
 		</div>
 	</div>
     <div class="bronze box">
