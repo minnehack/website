@@ -22,8 +22,6 @@ We also offer additional benefits based on sponsorship commitment.
 
 If you are interested in sponsoring MinneHack in future years, contact us at [acm@umn.edu](acm@umn.edu)
 
-TBD
-
 <div class="sponsors sponsorship">
     <div class="silver box">
 		<h2>Silver</h2>
