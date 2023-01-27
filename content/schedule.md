@@ -35,7 +35,7 @@ td:nth-child(1), td:nth-child(2) {
 | 7:00  PM | Dinner | Enjoy some free pizza! |
 | 8:00  PM | Smash Tournament | Play (and win at) Super Smash Brothers for a prize! |
 | 9:00  PM | Powerpoint Karaoke Presentation Due | Submit your presentations to us! |
-| 10:00 PM | Presentations now! |
+| 10:00 PM | Powerpoint Karaoke Presentations | Presentations now! |
 
 ### Sunday (January 23, 2022)
 | Time      | Event   | Description |
