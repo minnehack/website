@@ -5,17 +5,24 @@ title = "Prizes"
 navbar = "page"
 +++
 
+<style>
+.clean-a {
+    text-decoration: none;
+}
+</style>
+
 # Prizes
 
 ### How do I win?
 
 MinneHack's sponsors and organizers will evaluate each project submission and award prizes to teams based on a variety of factors. Those factors include, but are not limited to:
 
-- [ ] Adherence to the prompt <a href="#dscl"><sup>*</sup></a>
-- [ ] Creativity <a href="#dscl"><sup>*</sup></a>
-- [ ] Coolness <a href="#dscl"><sup>*</sup></a>
+- [ ] Adherence to the prompt <a href="#dscl" class="clean-a"><sup>*</sup></a>
+- [ ] Creativity <a href="#dscl" class="clean-a"><sup>*</sup></a>
+- [ ] Coolness <a href="#dscl" class="clean-a"><sup>*</sup></a>
 
-Check at least one of these boxes, and you're guaranteed<a href="#dscl"><sup>*</sup></a> to win!
+Check at least one of these boxes, and you're guaranteed
+<a href="#dscl" class="clean-a"><sup>*</sup></a> to win!
 
 ### What if I don't win?
 
