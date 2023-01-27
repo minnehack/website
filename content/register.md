@@ -7,6 +7,13 @@ navbar = "page"
 
 # Hacker Registration
 
+**Due to high attendance expectations we are no longer accepting in-person
+registrants. Online registrants are still welcome!**
+
+**Based on actual turn-out at the event, it is possible, though not likely,
+that you may still attend physically. We would recommend planning around
+this.**
+
 Complete the below form to register for the hackathon.
 
 This form is not GDPR-compliant. If you are an EU data subject, contact us via email (<a href="mailto:acm@umn.edu" style="font-family: monospace;">acm@umn.edu</a>) to register.
