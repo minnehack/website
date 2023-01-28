@@ -5,6 +5,6 @@ title = "Prompts"
 navbar = "page"
 +++
 
-# Prompts
+# Prompt
 
-Prompts TBD
+**Prompt**: Create a project that promotes civic participation.

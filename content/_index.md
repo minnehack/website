@@ -20,6 +20,9 @@ navbar = "title"
                 <div>
                     <small>Over 24 Hours of Hacking</small></br>
                 </div>
+                <div>
+                    <a href="https://discord.gg/V4YVGdcv">Join the Discord!</a>
+                </div>
             </h3>
             <br/>
             <!-- <iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe> -->
