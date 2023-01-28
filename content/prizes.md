@@ -11,7 +11,11 @@ navbar = "page"
 }
 </style>
 
-# Prizes
+# Prizes (four for each team of four)
+
+* Framework laptop (~$1100)
+* LG Ultrawide QHD 34" Monitor (~$350)
+* Nintendo Switch Lite (~$200)
 
 ### How do I win?
 
@@ -27,8 +31,6 @@ Check at least one of these boxes, and you're guaranteed
 ### What if I don't win?
 
 Smaller-scale events ("Mini Hacks") will be hosted during the hackathon [**on the Twitch stream**](https://twitch.tv/minnehack). The prizes for those events will be announced as they are awarded, but rest assured: they are equally as cool as the main prizes.
-
-Prizes TBD
  
 </br></br> 
 <hr>
