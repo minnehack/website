@@ -31,8 +31,8 @@ td:nth-child(1), td:nth-child(2) {
 | 12:00 PM | Check-in starts | Show up to the venue-- come to the Great Hall. |
 | 2:00  PM | Opening Ceremony | The prompt will be announced at this time. |
 | 5:00  PM | Powerpoint Karaoke | Make a powerpoint, and have an unsuspecting stranger present it! |
-| 6:00  PM | CTF starts | We'll be having a mini-CTF throughout the event (with prizes). |
-| 7:00  PM | Dinner | Enjoy some free pizza! |
+| 6:00  PM | Dinner | Enjoy some free pizza! |
+| 7:00  PM | CTF starts | We'll be having a mini-CTF throughout the event (with prizes). |
 | 8:00  PM | Smash Tournament | Play (and win at) Super Smash Brothers for a prize! |
 | 9:00  PM | Powerpoint Karaoke Presentation Due | Submit your presentations to us! |
 | 10:00 PM | Powerpoint Karaoke Presentations | Presentations now! |
