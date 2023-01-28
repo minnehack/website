@@ -13,7 +13,7 @@ navbar = "title"
             <h3 id="dates">
                 <div>
                     January 28-29 (2PM-6PM) in the
-                    <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color:#7777ff;">
+                    <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #7777ff;">
                     Coffman Memorial Union Great Hall
                     </a>
                 </div>
@@ -21,7 +21,12 @@ navbar = "title"
                     <small>Over 24 Hours of Hacking</small></br>
                 </div>
                 <div>
-                    <a href="https://discord.gg/V4YVGdcv">Join the Discord!</a>
+                    <a href="https://discord.gg/V4YVGdcv" style="color: #7777ff;">
+                    Join the Discord!
+                    </a>
+                </div>
+                <div>
+                    <a href="/prompts" style="color: #7777ff;">Prompt here!</a>
                 </div>
             </h3>
             <br/>
