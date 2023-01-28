@@ -27,7 +27,7 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
 		<h2>Silver</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://www.ecolab.com"><img src="/images/ecolab.svg"></img></a>
- 			<a href="https://www.genesis10.com"><img src="/images/genesis10.png"></img></a>
+ 			<a href="https://www.genesis10.com"><img src="/images/dev10.jpg"></img></a>
 		</div>
         <div class="sponsorship-info sponsor-logos">
 			<a href="https://www.bestbuy.com"><img src="/images/bestbuy.png"></img></a>
