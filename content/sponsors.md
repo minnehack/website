@@ -22,7 +22,7 @@ We also offer additional benefits based on sponsorship commitment.
 
 If you are interested in sponsoring MinneHack in future years, contact us at [acm@umn.edu](acm@umn.edu)
 
-<div class="sponsors sponsorship">
+<!-- <div class="sponsors sponsorship">
     <div class="silver box">
 		<h2>Silver</h2>
 		<div class="sponsorship-info sponsor-logos">
@@ -40,4 +40,6 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
 			<a href="https://www.brooksource.com"><img src="/images/brooksource.png"></img></a>
 		</div>
 	</div>
-</div>
+</div> -->
+
+Sponsors TBD! Get in contact if you want to be one!

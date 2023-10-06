@@ -12,7 +12,7 @@ navbar = "title"
             <p>&nbsp;</p>
             <h3 id="dates">
                 <div>
-                    January 28-29 (2PM-6PM) in the
+                    January 20-21 (2PM-6PM) in the
                     <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #CA3F79;">
                     Coffman Memorial Union Great Hall
                     </a>
@@ -20,14 +20,14 @@ navbar = "title"
                 <div>
                     <small>Over 24 Hours of Hacking</small></br>
                 </div>
-                <div>
+                <!-- <div>
                     <a href="https://discord.gg/V4YVGdcv" style="color: #CA3F79;">
                     Join the Discord!
                     </a>
                 </div>
                 <div>
                     <a href="/prompts" style="color: #CA3F79;">Prompt here!</a>
-                </div>
+                </div> -->
             </h3>
             <br/>
             <!-- <iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe> -->
