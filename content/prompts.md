@@ -7,4 +7,4 @@ navbar = "page"
 
 # Prompt
 
-**Prompt**: Create a project that promotes civic participation.
+**Prompt**: TBD!

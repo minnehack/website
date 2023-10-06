@@ -6,7 +6,7 @@ navbar = "page"
 +++
 
 # Sponsor Profile
-<div class="sponsor-blurb sponsor-logos" id="ecolab">
+<!-- <div class="sponsor-blurb sponsor-logos" id="ecolab">
 	<a href="https://www.ecolab.com/" target="_blank"><img src="/images/ecolab.svg"></img></a>
 	<p>A trusted partner at nearly three million commercial customer locations, Ecolab (ECL) is the global leader in water, hygiene and infection prevention solutions and services. With annual sales of $13 billion and more than 45,000 associates, Ecolab delivers comprehensive solutions and data-driven insights to advance food safety, optimize water and energy use, and improve operational efficiencies and sustainability for customers in more than 170 countries around the world. When you come to work at Ecolab, you get to take on some of the world’s most meaningful challenges and have the opportunity to learn and grow, shape your career, make an impact and quickly see the importance of your work.</p>
 </div>
@@ -27,4 +27,7 @@ navbar = "page"
 <div class="sponsor-blurb sponsor-logos" id="cat">
 	<a href="https://www.cat.com" target="_blank"><img src="/images/cat.jpg"></img></a>
 	<p>Caterpillar is a company of builders. Of problem solvers. Of innovators who want to impact the world. Our people build and design the products and services that help shape the communities where we work and live. We are building on our legacy and innovating for the next generation. One where technology-enabled services create improved outcomes for our people and the customers and communities we serve.</p>
-</div>
+</div> -->
+
+
+TBD!

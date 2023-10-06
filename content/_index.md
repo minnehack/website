@@ -7,13 +7,13 @@ navbar = "title"
 <div class="masthead">
     <div class="overlay">
         <div class="container">
-            <h1 id="title">MinneHack 2023</h1>
+            <h1 id="title">MinneHack 2024</h1>
             <h2 id="tagline">The Biggest Hackathon in Minnesota!</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
                 <div>
                     January 28-29 (2PM-6PM) in the
-                    <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #7777ff;">
+                    <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #CA3F79;">
                     Coffman Memorial Union Great Hall
                     </a>
                 </div>
@@ -21,12 +21,12 @@ navbar = "title"
                     <small>Over 24 Hours of Hacking</small></br>
                 </div>
                 <div>
-                    <a href="https://discord.gg/V4YVGdcv" style="color: #7777ff;">
+                    <a href="https://discord.gg/V4YVGdcv" style="color: #CA3F79;">
                     Join the Discord!
                     </a>
                 </div>
                 <div>
-                    <a href="/prompts" style="color: #7777ff;">Prompt here!</a>
+                    <a href="/prompts" style="color: #CA3F79;">Prompt here!</a>
                 </div>
             </h3>
             <br/>

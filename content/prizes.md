@@ -13,9 +13,7 @@ navbar = "page"
 
 # Prizes (four for each team of four)
 
-* Framework laptop (~$1100)
-* LG Ultrawide QHD 34" Monitor (~$350)
-* Nintendo Switch Lite (~$200)
+* - TBD!
 
 ### How do I win?
 

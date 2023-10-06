@@ -20,7 +20,7 @@ td:nth-child(1), td:nth-child(2) {
 }
 </style>
 
-### Friday (January 21, 2022)
+<!-- ### Friday (January 21, 2022)
 | Time     | Event   | Description |
 |----------|---------|---------------------|
 | 6:00 PM | Find A Team | Looking for a team or need an extra member or two? This is the event for you! Finding a team for an online hackathon can be challenging, that’s why we’re hosting a Find-A-Team event on Friday, January 21st at 6:00PM. Come to the MinneHack Discord Server and join the #find-team channel. MinneHack staff will work with you to find group members to help you have the best hackathon experience possible! |
@@ -47,4 +47,6 @@ td:nth-child(1), td:nth-child(2) {
 | 2:00 PM | Hacking ends | Pencils down for everyone. |
 | 2:15 PM | Start of judging | Our (very kind) judges will evaluate your (excellent) submissions. :) |
 | 4:30 PM | End of judging | We've decided the winners! |
-| 5:00 PM | Closing ceremony | A final presentation from us. |
+| 5:00 PM | Closing ceremony | A final presentation from us. | -->
+
+TBD!
