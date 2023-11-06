@@ -8,17 +8,19 @@ navbar = "page"
 # Schedule
 
 <style>
-table { display: inline; }
+.schedule table { display: inline; }
 
-td, th {
+.schedule td, th {
     border: 1px solid black; 
     padding: 1rem;
 }
 
-td:nth-child(1), td:nth-child(2) {
+.schedule td:nth-child(1), td:nth-child(2) {
     white-space: nowrap;
 }
 </style>
+
+<div class="schedule">
 
 <!-- ### Friday (January 21, 2022)
 | Time     | Event   | Description |
@@ -48,5 +50,5 @@ td:nth-child(1), td:nth-child(2) {
 | 2:15 PM | Start of judging | Our (very kind) judges will evaluate your (excellent) submissions. :) |
 | 4:30 PM | End of judging | We've decided the winners! |
 | 5:00 PM | Closing ceremony | A final presentation from us. | -->
-
+</div>
 TBD!
