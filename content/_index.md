@@ -11,21 +11,21 @@ navbar = "title"
             <h2 id="tagline">The Biggest Hackathon in Minnesota!</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
-                <div>
+                <!--<div>
                     January 20-21 (2PM-6PM) in the
                     <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #CA3F79;">
                     Coffman Memorial Union Great Hall
                     </a>
-                </div>
+                </div>-->
                 <div>
                     <small>Over 24 Hours of Hacking</small></br>
                 </div>
-                <!-- <div>
+                <div>
                     <a href="https://discord.gg/V4YVGdcv" style="color: #CA3F79;">
                     Join the Discord!
                     </a>
                 </div>
-                <div>
+                <!-- <div>
                     <a href="/prompts" style="color: #CA3F79;">Prompt here!</a>
                 </div> -->
             </h3>

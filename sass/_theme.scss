@@ -18,3 +18,22 @@ body {
     	border-top: 10px solid $primaryColor;
     }
 }
+
+#banner {
+    width: 100vw;
+    height: 5rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $primaryColor;
+    color: $textColor;
+    flex-direction: column;
+
+    span:first-child {
+        font-weight: 700;
+    }
+    span:last-child {
+        font-style: italic;
+    }
+}
