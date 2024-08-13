@@ -9,7 +9,7 @@ navbar = "page"
 
 ### Is MinneHack an in-person event this year?
 
-MinneHack 2024 is an In-Person event, meaning you join physically at the Great Hall in Coffman Memorial Union!
+MinneHack 2025 is an In-Person event, meaning you join physically at the Great Hall in Coffman Memorial Union!
 
 ### What's the address of the venue?
 

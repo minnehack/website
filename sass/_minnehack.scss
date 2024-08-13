@@ -1,8 +1,12 @@
+@use "sass:color";
 @import "mixins";
 @import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
 $primaryFont: "Open Sans";
-$primaryColor: #CA3F79;
+$primaryColor: #EDCA5A;
+$secondaryColor: #DE8536;
+$primaryColorLighter: color.adjust($primaryColor, $lightness: 10%);
+$secondaryColorLighter: color.adjust($secondaryColor, $lightness: 10%);
 
 // TODO(andrew): figure out a permanent solution for header sizing
 .navbar > div {
@@ -95,11 +99,12 @@ body {
         font-weight: 400;
         padding: 10px 18px;
         &.btn {
-            background-color: $primaryColor;
+            background-image: linear-gradient(152deg, $primaryColor, $secondaryColor);
             border-radius: 6px;
             color: black;
+            transition: background-image 0.3s;
             &:hover {
-                background-color: lighten($primaryColor, 10%);
+                background-image: linear-gradient(152deg, $primaryColorLighter, $secondaryColorLighter);
             }
         }
     }
