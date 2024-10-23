@@ -5,4 +5,4 @@ title = "Register"
 navbar = "page"
 +++
 
-MinneHack registration is closed at this time. Check again next year!
+MinneHack registration is closed at this time. Check again in a few months!
