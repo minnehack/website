@@ -22,24 +22,20 @@ We also offer additional benefits based on sponsorship commitment.
 
 If you are interested in sponsoring MinneHack in future years, contact us at [acm@umn.edu](acm@umn.edu)
 
-<!-- <div class="sponsors sponsorship">
-    <div class="silver box">
+<div class="sponsors sponsorship">
+	<div class="silver box">
 		<h2>Silver</h2>
 		<div class="sponsorship-info sponsor-logos">
- 			<a href="https://www.ecolab.com"><img src="/images/ecolab.svg"></img></a>
+ 			<a href="https://www.improving.com"><img src="/images/improving.svg"></img></a>
+		</div>
+	</div>
+	<div class="silver box">
+		<h2>Additional Sponsor</h2>
+		<div class="sponsorship-info sponsor-logos">
  			<a href="https://www.genesis10.com"><img src="/images/dev10.jpg"></img></a>
 		</div>
-        <div class="sponsorship-info sponsor-logos">
-			<a href="https://www.bestbuy.com"><img src="/images/bestbuy.png"></img></a>
-            <span style="font-size: 40px; font-weight: bold;">my mom ❤️</span>
-		</div>
 	</div>
-    <div class="bronze box">
-		<h2>Bronze</h2>
-		<div class="sponsorship-info sponsor-logos">
-			<a href="https://www.brooksource.com"><img src="/images/brooksource.png"></img></a>
-		</div>
 	</div>
-</div> -->
+</div>
 
 Sponsors TBD! Get in contact if you want to be one!

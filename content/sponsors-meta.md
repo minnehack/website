@@ -30,4 +30,9 @@ navbar = "page"
 </div> -->
 
 
-TBD!
+<div class="sponsor-blurb sponsor-logos" id="improving">
+	<a href="https://www.improving.com/" target="_blank"><img src="/images.svg">improving.svg</img></a>
+	<p>Improving is a modern digital services company that provides enterprise software consulting, development, and training to Fortune 500 and Global 1000 enterprises across the world. Our innovative solutions have helped thousands of our clients realize their tactical and strategic business objectives, allowing them to achieve great new heights in a competitive and ever-changing market.</p>
+</div>
+
+
