@@ -1,8 +1,7 @@
 +++
-template = "page.html"
+template = "redirect.html"
 title = "Register"
 [extra]
 navbar = "page"
+url = "https://registration.minnehack.io/"
 +++
-
-MinneHack registration is closed at this time. Check again in a few months!
