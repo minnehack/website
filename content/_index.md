@@ -12,7 +12,7 @@ navbar = "title"
             <p>&nbsp;</p>
             <h3 id="dates">
                 <div>
-                    February 7-8 in the
+                    February 8-9 in the
                     <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #EDCA5A;">
                     Coffman Memorial Union Great Hall
                     </a>
