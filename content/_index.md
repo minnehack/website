@@ -21,7 +21,7 @@ navbar = "title"
                     <small>24 Hours of Hacking</small></br>
                 </div>
                 <div>
-                    <a href="https://discord.gg/V4YVGdcv" style="color: #EDCA5A;">
+                    <a href="https://discord.gg/sS5dxTwu29" style="color: #EDCA5A;">
                     Join the Discord!
                     </a>
                 </div>
