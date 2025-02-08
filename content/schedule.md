@@ -27,7 +27,7 @@ navbar = "page"
 |----------|---------|---------------------|
 | 12:00 PM | Check-in starts | Show up to the venue-- come to the Great Hall. |
 | 2:00  PM | Opening Ceremony | The prompt will be announced at this time. |
-| 5:00  PM | MiniHack: Advent of Code | Solve a fun set of programming challenges! |
+| 5:00  PM | MiniHack: Snowstorm of Code | Solve a fun set of programming challenges! |
 | 6:30  PM | Dinner | Enjoy some free pizza! |
 | 8:00  PM | Smash Tournament | Play (and win at) Super Smash Brothers for a prize! |
 | 9:00  PM | Powerpoint Karaoke Presentation Due | Submit your presentations to us! |
