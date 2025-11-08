@@ -21,7 +21,7 @@ MinneHack is a unique opportunity to connect with the most talented and passiona
 We also offer additional benefits based on sponsorship commitment.
 
 If you are interested in sponsoring MinneHack in future years, contact us at [acm@umn.edu](acm@umn.edu)
-
+<!--
 <div class="sponsors sponsorship">
 	<div class="silver box">
 		<h2>Silver</h2>
@@ -37,5 +37,5 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
 	</div>
 	</div>
 </div>
-
+-->
 Sponsors TBD! Get in contact if you want to be one!

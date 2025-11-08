@@ -7,30 +7,30 @@ navbar = "title"
 <div class="masthead">
     <div class="overlay">
         <div class="container">
-            <h1 id="title">Minnehack 2025</h1>
+            <h1 id="title">Minnehack 2026</h1>
             <h2 id="tagline">The Biggest Hackathon in Minnesota!</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
                 <div>
-                    February 8-9 in the
-                    <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #EDCA5A;">
-                    Coffman Memorial Union Great Hall
+                    February 14-15 in the
+                    <a href="https://goo.gl/maps/GksQk1Vf4LKvRVEN7" style="color: #008DD5;">
+                    Coffman Memorial Union, Presidents Room and Mississippi Room
                     </a>
                 </div>
                 <div>
                     <small>24 Hours of Hacking</small></br>
                 </div>
                 <div>
-                    <a href="https://discord.gg/sS5dxTwu29" style="color: #EDCA5A;">
+                    <a href="https://discord.gg/sS5dxTwu29" style="color: #008DD5;">
                     Join the Discord!
                     </a>
                 </div>
                 <!-- <div>
-                    <a href="/prompts" style="color: #EDCA5A;">Prompt here!</a>
+                    <a href="/prompts" style="color: #008DD5;">Prompt here!</a>
                 </div> -->
             </h3>
             <br/>
-            <!-- <iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe> -->
+            <!-- <iframe id="stream" style="display: none" src="https://player.twitch.tv/?channel=minnehack&parent=minnehack.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe> -->
             <!-- <noscript><a class="btn" href="https://www.twitch.tv/minnehack">Watch the stream on Twitch!</a></noscript> -->
         </div>
     </div>

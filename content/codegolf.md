@@ -22,7 +22,7 @@ An example of the output your program should produce for N = 2, N = 3, and N = 4
 /__\ /____\ /______\
 ```
 
-Please upload your solution to the #code-golf-solutions channel at <https://chat.minnehack.io>.
+Please upload your solution to the #code-golf-solutions channel at <https://chat.minnehack.com>.
 
 Make sure to include what language it was written in, and by what method it accepts input (e.g, command line arguement, prompt on running proram)
 

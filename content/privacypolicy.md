@@ -5,7 +5,7 @@ title = "Privacy Policy"
 navbar = "page"
 +++
 
-# MinneHack 2025 Terms of Service and Privacy Policy
+# MinneHack 2026 Terms of Service and Privacy Policy
 
 ## Registration Data
 
@@ -20,7 +20,7 @@ MinneHack Sponsors include all entities who have provided financial
 materials or promotional contributions to the event, MinneHack staff and
 organizers, and the University of Minnesota Twin Cities. MinneHack
 Sponsors include but are not limited to all entities named as such at
-`https://minnehack.io`.
+`https://minnehack.com`.
 
 We reserve the right to share Registration Data (including demographic
 data such as gender, age, school, and dietary restrictions) in
@@ -51,7 +51,7 @@ modified Terms.
 We may email you information about this and future MinneHack events. You
 may unsubscribe from these emails at any time with the Unsubscribe link at
 the bottom of our emails, or by emailing `acm@umn.edu` (please set subject
-`Unsubscribe from MinneHack 2025 Mailing List`) and asking us.
+`Unsubscribe from MinneHack 2026 Mailing List`) and asking us.
 
 ## Release and Waiver
 

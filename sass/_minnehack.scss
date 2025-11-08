@@ -1,10 +1,10 @@
 @use "sass:color";
 @import "mixins";
-@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/css/all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700");
 $primaryFont: "Open Sans";
-$primaryColor: #EDCA5A;
-$secondaryColor: #DE8536;
+$primaryColor: #30D520;
+$secondaryColor: #5BEEAB;
 $primaryColorLighter: color.adjust($primaryColor, $lightness: 10%);
 $secondaryColorLighter: color.adjust($secondaryColor, $lightness: 10%);
 

@@ -22,7 +22,7 @@ navbar = "page"
 
 <div class="schedule">
 
-### Saturday (Feb 8, 2025)
+<!-- ### Saturday (Feb 8, 2025)
 | Time     | Event   | Description |
 |----------|---------|---------------------|
 | 12:00 PM | Check-in starts | Show up to the venue-- come to the Great Hall. |
@@ -42,5 +42,5 @@ navbar = "page"
 | 12:30 PM | Lunch | Even more free food. |
 | 1:30 PM | End of judging | We've decided the winners! |
 | 1:45 PM | Closing ceremony | A final presentation from us. |
-</div>
+</div> -->
 TBD

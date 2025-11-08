@@ -9,4 +9,4 @@ navbar = "page"
 <meta http-equiv="refresh" content="0; url=/prompts">
 {% endblock %}
 
-Click [here](https://minnehack.io/prompts) if you are not redirected automatically.
+Click [here](https://minnehack.com/prompts) if you are not redirected automatically.

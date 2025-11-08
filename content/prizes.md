@@ -26,9 +26,9 @@ MinneHack's sponsors and organizers will evaluate each project submission and aw
 Check at least one of these boxes, and you're guaranteed
 <a href="#dscl" class="clean-a"><sup>*</sup></a> to win!
 
-### What if I don't win?
+<!-- ### What if I don't win?
 
-Smaller-scale events ("Mini Hacks") will be hosted during the hackathon [**on the Twitch stream**](https://twitch.tv/minnehack). The prizes for those events will be announced as they are awarded, but rest assured: they are equally as cool as the main prizes.
+Smaller-scale events ("Mini Hacks") will be hosted during the hackathon [**on the Twitch stream**](https://twitch.tv/minnehack). The prizes for those events will be announced as they are awarded, but rest assured: they are equally as cool as the main prizes. -->
  
 </br></br> 
 <hr>
