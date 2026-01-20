@@ -7,7 +7,7 @@ navbar = "title"
 <div class="masthead">
     <div class="overlay">
         <div class="container">
-            <h1 id="title">Minnehack 2026</h1>
+            <h1 id="title">MinneHack 2026</h1>
             <h2 id="tagline">The Biggest Hackathon in Minnesota!</h2>
             <p>&nbsp;</p>
             <h3 id="dates">
