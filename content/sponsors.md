@@ -21,7 +21,6 @@ MinneHack is a unique opportunity to connect with the most talented and passiona
 We also offer additional benefits based on sponsorship commitment.
 
 If you are interested in sponsoring MinneHack in future years, contact us at [acm@umn.edu](acm@umn.edu)
-<!--
 <div class="sponsors sponsorship">
 	<div class="silver box">
 		<h2>Silver</h2>
@@ -29,13 +28,23 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
  			<a href="https://www.improving.com"><img src="/images/improving.svg"></img></a>
 		</div>
 	</div>
-	<div class="silver box">
-		<h2>Additional Sponsor</h2>
+	<div class="bronze box">
+		<h2>Bronze</h2>
 		<div class="sponsorship-info sponsor-logos">
- 			<a href="https://www.genesis10.com"><img src="/images/dev10.jpg"></img></a>
+ 			<a href="https://www.shipt.com"><img src="/images/shipt.png"></img></a>
 		</div>
 	</div>
+	<div class="bronze box">
+		<h2>Proudly Sponored By</h2>
+		<div class="sponsorship-info sponsor-logos">
+ 			<a href="https://www.huntingtonbank.com"><img src="/images/huntington.png"></img></a>
+		</div>
+	</div>
+	<div class="bronze box">
+		<h2>Additional Sponor</h2>
+		<div class="sponsorship-info sponsor-logos">
+ 			<a href="https://fyralabs.com"><img src="/images/fyralabs.png"></img></a>
+		</div>
 	</div>
 </div>
--->
-Sponsors TBD! Get in contact if you want to be one!
+<!-- Sponsors TBD! Get in contact if you want to be one! -->
