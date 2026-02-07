@@ -29,8 +29,6 @@ navbar = "page"
 | 2:00  PM | Opening ceremony | The prompt will be announced at this time. |
 | 5:00  PM | MiniHack: CTF | Practice your hacking skills! |
 | 6:30  PM | Dinner | Enjoy some free pizza! |
-| 9:00  PM | Valentine's Day Cards Due | Submit your cards to us! |
-| 10:00 PM | Valentine's Day Cards Presentation | Awards + showing off our favorites|
 
 ### Sunday (Feb 15, 2026)
 | Time      | Event   | Description |
