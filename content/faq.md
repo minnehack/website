@@ -7,19 +7,20 @@ navbar = "page"
 
 # Frequently Asked Questions
 
-### Is MinneHack an in-person event this year?
-
-MinneHack 2026 is an In-Person event, meaning you join physically at the Great Hall in Coffman Memorial Union!
-
 ### What's the address of the venue?
 
 Glad you asked! Here it is!
 
+Coffman Memorial Union Mississippi Room and President's Room
 300 Washington Ave SE, Minneapolis, MN 55455, United States
 
 ### Can we win stuff?
 
-Yes! We will ship [prizes](/prizes) directly to your home, albeit **to the continental United States only**.
+Yes! We will ship [prizes](/prizes) directly to your home albeit **to the continental United States only**, if you are local you can also pick it up. 
+
+Prizes are given after the event, we will contact you when you can pick them up or verify your address for shipping when we have the prizes ready.
+
+There will be prizes for the first, second and third team aswell as for the CTF winners.
 
 ### How does topic selection work?
 
@@ -31,11 +32,7 @@ There is no formal team formation process. Teams can be formed ahead of time or 
 
 ### What type of project deliverable is expected? Is the deliverable a presentation about what you built, or is is just the thing that you built?
 
-Your deliverable should be a video demo of your project, submitted to DevPost. You should additionally have a "write up" explaining your project, and if possible, some kind of access to the project (a web link, app binaries, etc) that the judges can evaluate independently.
-
-### Will there be multiple categories for prizes?
-
-Yes! They will be announced at the event.
+All contestants must provide source code to the judges, which will be made publicly availble after the competition. You must also present your project to judges as they walk around the hall.
 
 ### Is there a maximum team size?
 
@@ -48,10 +45,6 @@ No. Furthermore, each team member receives the same prize an individual would if
 ### Your website says come with ideas.  Is there a general topic or theme, or is it anything?
 	
 There is a general topic, it will remain secret until it is announced during the keynote speech. However, it is generally helpful to come with ideas of what you might like to do. Note that only work done during the event is eligible to be judged and win prizes.
-
-### Is there a list of people who are looking for teammates, or any sort of built-in pairing mechanism?
-	
-There is not a list of people who are looking for teammates or any built in pairing mechanism. However, we will have a Discord server set up for the event with a channel specifically for people looking for teams or teammates. 
 
 # Have more questions?
 
