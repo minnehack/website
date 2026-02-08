@@ -178,6 +178,7 @@ body {
 	div.box.electrum { @include colored-box(#AA995E, 30%); }
     div.box.silver{ @include colored-box(#999999, 30%); }
     div.box.bronze{ @include colored-box(#996633, 30%); }
+    div.box.ultramarine{ @include colored-box( #007fff, 30%); }
 }
 
 main {
@@ -251,6 +252,8 @@ footer {
 .bronze .sponsor-logos > a > img { width: 10em; }
 .grinkus .sponsor-logos > img { width: 10em; }
 .grinkus .sponsor-logos > a > img { width: 10em; }
+.ultramarine .sponsor-logos > img { width: 15em; }
+.ultramarine .sponsor-logos > a > img { width: 15em; }
 
 .sponsor-perks { flex-grow: 1; }
 
@@ -278,7 +281,7 @@ form.signupform {
         font-family: $primaryFont;
     }
 
-    input[type=submit] {
+    input {
         background-color: lighten($primaryColor, 5%);
         border: 1px solid darken($primaryColor, 20%);
     }

@@ -34,13 +34,13 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
  			<a href="https://www.shipt.com"><img src="/images/shipt.png"></img></a>
 		</div>
 	</div>
-	<div class="bronze box">
+	<div class="ultramarine box">
 		<h2>Proudly Sponored By</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://www.huntingtonbank.com"><img src="/images/huntington.png"></img></a>
 		</div>
 	</div>
-	<div class="bronze box">
+	<div class="ultramarine box">
 		<h2>Additional Sponor</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://fyralabs.com"><img src="/images/fyralabs.png"></img></a>
