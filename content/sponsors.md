@@ -41,9 +41,12 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
 		</div>
 	</div>
 	<div class="ultramarine box">
-		<h2>Additional Sponor</h2>
+		<h2>Additional Sponors</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://fyralabs.com"><img src="/images/fyralabs.png"></img></a>
+		</div>
+		<div class="sponsorship-info sponsor-logos">
+ 			<a href="https://runanywhere.ai"><img src="/images/runanywheredotai.svg"></img></a>
 		</div>
 	</div>
 </div>
