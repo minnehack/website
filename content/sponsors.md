@@ -26,12 +26,14 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
 		<h2>Silver</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://www.improving.com"><img src="/images/improving.svg"></img></a>
+		        <p>Improving is a modern digital services company that provides enterprise software consulting, development, and training to Fortune 500 and Global 1000 enterprises across the world. Our innovative solutions have helped thousands of our clients realize their tactical and strategic business objectives, allowing them to achieve great new heights in a competitive and ever-changing market.</p>
 		</div>
 	</div>
 	<div class="bronze box">
 		<h2>Bronze</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://www.shipt.com"><img src="/images/shipt.png"></img></a>
+		        <p>Shipt goes beyond bringing the things people need – to building positive and personal relationships that last. Whether it’s taking the time to get to know our members, coming together as a team to make shoppers feel extra appreciated, or authentically representing ourselves and our partners — we spark connections that show every person counts. That’s how a simple delivery can feel like so much more.</p>^M
 		</div>
 	</div>
 	<div class="ultramarine box">
