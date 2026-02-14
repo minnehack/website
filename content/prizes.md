@@ -13,7 +13,7 @@ navbar = "page"
 
 # Prizes (four for each team of four)
 
-* - TBD!
+Prizes will be announced at the start of the event.
 
 ### How do I win?
 
