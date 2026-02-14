@@ -46,6 +46,8 @@ No. Furthermore, each team member receives the same prize an individual would if
 	
 There is a general topic, it will remain secret until it is announced during the keynote speech. However, it is generally helpful to come with ideas of what you might like to do. Note that only work done during the event is eligible to be judged and win prizes.
 
+### Can I go home and sleep?
+Yes, you only have to be physically there for check in, the opening presentation, and judging. See the [schedule here](/schedule).
 # Have more questions?
 
 Reach us directly by email at [acm@umn.edu](mailto:acm@umn.edu)!
