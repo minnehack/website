@@ -33,7 +33,7 @@ If you are interested in sponsoring MinneHack in future years, contact us at [ac
 		<h2>Bronze</h2>
 		<div class="sponsorship-info sponsor-logos">
  			<a href="https://www.shipt.com"><img src="/images/shipt.png"></img></a>
-		        <p>Shipt goes beyond bringing the things people need – to building positive and personal relationships that last. Whether it’s taking the time to get to know our members, coming together as a team to make shoppers feel extra appreciated, or authentically representing ourselves and our partners — we spark connections that show every person counts. That’s how a simple delivery can feel like so much more.</p>^M
+		        <p>Shipt goes beyond bringing the things people need – to building positive and personal relationships that last. Whether it’s taking the time to get to know our members, coming together as a team to make shoppers feel extra appreciated, or authentically representing ourselves and our partners — we spark connections that show every person counts. That’s how a simple delivery can feel like so much more.</p>
 		</div>
 	</div>
 	<div class="ultramarine box">
